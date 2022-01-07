@@ -1,0 +1,395 @@
+2021-12-16 15:38:31.068000 INFO  local SC time is 1.9
+2021-12-16 15:38:31.069000 INFO  CHECK I2C STATUS:
+2021-12-16 15:38:31.069000 INFO     Took 0.0 seconds
+2021-12-16 15:38:33.071000 INFO  WRITE I2C DEFAULTS:
+2021-12-16 15:39:15.246000 INFO  local SC time is 50.0
+2021-12-16 15:39:16.248000 INFO  local SC time is 51.0
+2021-12-16 15:39:17.249000 INFO  local SC time is 52.0
+2021-12-16 15:39:18.251000 INFO  local SC time is 53.1
+2021-12-16 15:39:19.252000 INFO  local SC time is 54.1
+2021-12-16 15:39:20.253000 INFO  local SC time is 55.1
+2021-12-16 15:39:21.255000 INFO  local SC time is 56.1
+2021-12-16 15:39:41.403000 INFO  local SC time is 21.3
+2021-12-16 15:39:42.405000 INFO  local SC time is 22.3
+2021-12-16 15:39:43.407000 INFO  local SC time is 23.3
+2021-12-16 15:39:44.409000 INFO  local SC time is 24.3
+2021-12-16 15:39:45.411000 INFO  local SC time is 25.3
+2021-12-16 15:39:46.412000 INFO  local SC time is 26.3
+2021-12-16 15:39:47.414000 INFO  local SC time is 27.3
+2021-12-16 15:39:48.416000 INFO  local SC time is 28.3
+2021-12-16 15:39:49.418000 INFO  local SC time is 29.3
+2021-12-16 15:39:50.419000 INFO  local SC time is 30.3
+2021-12-16 15:40:03.285000 INFO  local SC time is 28.2
+2021-12-16 15:40:04.287000 INFO  local SC time is 29.2
+2021-12-16 15:40:05.288000 INFO  local SC time is 30.2
+2021-12-16 15:40:06.290000 INFO  local SC time is 31.2
+2021-12-16 15:40:07.291000 INFO  local SC time is 32.2
+2021-12-16 15:40:08.293000 INFO  local SC time is 33.2
+2021-12-16 15:40:09.294000 INFO  local SC time is 34.2
+2021-12-16 15:40:10.296000 INFO  local SC time is 35.2
+2021-12-16 15:40:11.298000 INFO  local SC time is 36.2
+2021-12-16 15:40:12.299000 INFO  local SC time is 37.2
+2021-12-16 15:40:13.300000 INFO  local SC time is 38.2
+2021-12-16 15:40:14.302000 INFO  local SC time is 39.2
+2021-12-16 15:40:16.712000 INFO  local SC time is 35.6
+2021-12-16 15:40:17.713000 INFO  local SC time is 36.6
+2021-12-16 15:40:18.715000 INFO  local SC time is 37.6
+2021-12-16 15:40:19.716000 INFO  local SC time is 38.6
+2021-12-16 15:40:20.718000 INFO  local SC time is 39.6
+2021-12-16 15:40:21.720000 INFO  local SC time is 40.6
+2021-12-16 15:40:22.721000 INFO  local SC time is 41.6
+2021-12-16 15:40:23.723000 INFO  local SC time is 42.6
+2021-12-16 15:40:24.724000 INFO  local SC time is 43.6
+2021-12-16 15:40:25.726000 INFO  local SC time is 44.6
+2021-12-16 15:40:26.728000 INFO  local SC time is 45.6
+2021-12-16 15:40:27.729000 INFO  local SC time is 46.6
+2021-12-16 15:40:28.731000 INFO  local SC time is 47.6
+2021-12-16 15:40:29.732000 INFO  local SC time is 48.6
+2021-12-16 15:40:30.734000 INFO  local SC time is 49.6
+2021-12-16 15:40:31.735000 INFO  local SC time is 50.6
+2021-12-16 15:40:32.737000 INFO  local SC time is 51.6
+2021-12-16 15:40:33.738000 INFO  local SC time is 52.6
+2021-12-16 15:40:34.740000 INFO  local SC time is 53.6
+2021-12-16 15:40:35.741000 INFO  local SC time is 54.6
+2021-12-16 15:40:36.743000 INFO  local SC time is 55.6
+2021-12-16 15:40:37.744000 INFO  local SC time is 56.6
+2021-12-16 15:40:38.746000 INFO  local SC time is 57.6
+2021-12-16 15:40:39.747000 INFO  local SC time is 58.6
+2021-12-16 15:40:40.749000 INFO  local SC time is 59.6
+2021-12-16 15:40:41.750000 INFO  local SC time is 60.7
+2021-12-16 15:40:42.752000 INFO  local SC time is 0.8
+2021-12-16 15:40:43.754000 INFO  local SC time is 1.8
+2021-12-16 15:40:44.755000 INFO  local SC time is 2.8
+2021-12-16 15:40:45.757000 INFO  local SC time is 3.8
+2021-12-16 15:40:46.759000 INFO  local SC time is 4.8
+2021-12-16 15:40:47.760000 INFO  local SC time is 5.8
+2021-12-16 15:40:47.761000 INFO  PULSE IS COMING:
+2021-12-16 15:40:48.762000 INFO  local SC time is 6.8
+2021-12-16 15:40:48.763000 INFO  PULSE IS COMING:
+2021-12-16 15:40:49.764000 INFO  local SC time is 7.8
+2021-12-16 15:40:50.766000 INFO  local SC time is 8.8
+2021-12-16 15:40:51.767000 INFO  local SC time is 9.8
+2021-12-16 15:40:52.769000 INFO  local SC time is 10.8
+2021-12-16 15:40:53.770000 INFO  local SC time is 11.8
+2021-12-16 15:40:54.772000 INFO  local SC time is 12.8
+2021-12-16 15:40:55.773000 INFO  local SC time is 13.8
+2021-12-16 15:40:56.775000 INFO  local SC time is 14.8
+2021-12-16 16:56:21.593000 INFO  local SC time is 33.0
+2021-12-16 16:56:22.595000 INFO  local SC time is 34.0
+2021-12-16 16:56:23.596000 INFO  local SC time is 35.0
+2021-12-16 16:56:24.598000 INFO  local SC time is 36.0
+2021-12-16 16:56:25.600000 INFO  local SC time is 37.0
+2021-12-16 16:56:26.601000 INFO  local SC time is 38.0
+2021-12-16 16:56:27.603000 INFO  local SC time is 39.0
+2021-12-16 16:56:28.604000 INFO  local SC time is 40.0
+2021-12-16 16:56:29.606000 INFO  local SC time is 41.0
+2021-12-16 16:56:30.607000 INFO  local SC time is 42.0
+2021-12-16 16:56:31.608000 INFO  local SC time is 43.0
+2021-12-16 16:56:32.610000 INFO  local SC time is 44.0
+2021-12-16 16:56:43.864000 INFO  local SC time is 0.4
+2021-12-16 16:56:44.866000 INFO  local SC time is 1.4
+2021-12-16 16:56:45.867000 INFO  local SC time is 2.4
+2021-12-16 16:56:46.869000 INFO  local SC time is 3.4
+2021-12-16 16:56:47.871000 INFO  local SC time is 4.4
+2021-12-16 16:56:48.872000 INFO  local SC time is 5.4
+2021-12-16 16:56:48.873000 INFO  PULSE IS COMING:
+2021-12-16 16:56:49.874000 INFO  local SC time is 6.4
+2021-12-16 16:56:49.875000 INFO  PULSE IS COMING:
+2021-12-16 16:56:50.876000 INFO  local SC time is 7.4
+2021-12-16 16:56:51.878000 INFO  local SC time is 8.4
+2021-12-16 16:56:52.879000 INFO  local SC time is 9.4
+2021-12-16 16:56:53.881000 INFO  local SC time is 10.4
+2021-12-16 16:56:54.883000 INFO  local SC time is 11.4
+2021-12-16 16:56:55.884000 INFO  local SC time is 12.4
+2021-12-16 16:56:56.886000 INFO  local SC time is 13.4
+2021-12-16 16:56:57.888000 INFO  local SC time is 14.4
+2021-12-16 16:56:58.889000 INFO  local SC time is 15.4
+2021-12-16 16:56:59.891000 INFO  local SC time is 16.4
+2021-12-16 16:56:59.891000 INFO  CHECK I2C STATUS:
+2021-12-16 16:56:59.892000 INFO     Took 0.0 seconds
+2021-12-16 16:57:01.894000 INFO  WRITE I2C DEFAULTS:
+2021-12-16 16:57:26.919000 INFO  Initial RO Status
+2021-12-16 16:57:26.922000 INFO  {'ALIGNER_ALL': {'status': 4, 'status_dbg_fc_cnt': 0, 'status_dbg_lreset_rcvd': 0, 'status_dbg_orbsyn_rcvd': 1, 'status_done': 0}, 'CH_ALIGNER_0INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 255, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 0, 'snapshot2': 0, 'status': 2, 'status_align_seu_err': 0, 'status_hdr_mm_err': 0, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_10INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 255, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 0, 'snapshot2': 0, 'status': 2, 'status_align_seu_err': 0, 'status_hdr_mm_err': 0, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_11INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 255, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 0, 'snapshot2': 0, 'status': 2, 'status_align_seu_err': 0, 'status_hdr_mm_err': 0, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_1INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 255, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 0, 'snapshot2': 0, 'status': 6, 'status_align_seu_err': 0, 'status_hdr_mm_err': 1, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_2INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 255, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 0, 'snapshot2': 0, 'status': 2, 'status_align_seu_err': 0, 'status_hdr_mm_err': 0, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_3INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 255, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 0, 'snapshot2': 0, 'status': 6, 'status_align_seu_err': 0, 'status_hdr_mm_err': 1, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_4INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 255, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 0, 'snapshot2': 0, 'status': 2, 'status_align_seu_err': 0, 'status_hdr_mm_err': 0, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_5INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 255, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 0, 'snapshot2': 0, 'status': 2, 'status_align_seu_err': 0, 'status_hdr_mm_err': 0, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_6INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 255, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 0, 'snapshot2': 0, 'status': 2, 'status_align_seu_err': 0, 'status_hdr_mm_err': 0, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_7INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 255, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 0, 'snapshot2': 0, 'status': 2, 'status_align_seu_err': 0, 'status_hdr_mm_err': 0, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_8INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 255, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 0, 'snapshot2': 0, 'status': 2, 'status_align_seu_err': 0, 'status_hdr_mm_err': 0, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_9INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 255, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 0, 'snapshot2': 0, 'status': 2, 'status_align_seu_err': 0, 'status_hdr_mm_err': 0, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_EPRXGRP_0INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 194, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 0}, 'CH_EPRXGRP_10INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 194, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 0}, 'CH_EPRXGRP_11INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 194, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 0}, 'CH_EPRXGRP_1INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 194, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 0}, 'CH_EPRXGRP_2INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 194, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 0}, 'CH_EPRXGRP_3INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 194, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 0}, 'CH_EPRXGRP_4INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 194, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 0}, 'CH_EPRXGRP_5INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 194, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 0}, 'CH_EPRXGRP_6INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 194, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 0}, 'CH_EPRXGRP_7INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 194, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 0}, 'CH_EPRXGRP_8INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 194, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 0}, 'CH_EPRXGRP_9INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 194, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 0}, 'CH_ERR_0INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 32, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 1, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_10INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 32, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 1, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_11INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 0, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 0, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_1INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 32, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 1, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_2INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 0, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 0, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_3INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 32, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 1, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_4INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 0, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 0, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_5INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 32, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 1, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_6INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 0, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 0, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_7INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 0, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 0, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_8INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 32, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 1, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_9INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 32, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 1, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'ERRTOP_ALL': {'err_dat_top': 8191, 'err_dat_top_err_dat_top': 8191, 'err_dat_top_err_out_top': 0, 'msk_dat_top': 0}, 'FCTRL_ALL': {'fc_error_count': 0, 'lock_count': 0, 'status': 4, 'status_command_rx_inverted': 0, 'status_fc_error': 0, 'status_locked': 1}, 'FMTBUF_ALL': {'buffer_out_err': 0}, 'MISC_ALL': {'misc_ro_0': 9, 'misc_ro_0_PUSM_state': 9}, 'MISC_ERR_CNT_DOUBLE': {'rw_ecc_err_in_re_cnt_double_algorithm': 0, 'rw_ecc_err_in_re_cnt_double_aligner': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_0': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_1': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_10': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_11': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_2': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_3': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_4': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_5': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_6': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_7': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_8': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_9': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_0': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_1': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_10': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_11': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_2': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_3': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_4': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_5': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_6': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_7': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_8': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_9': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_0': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_1': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_10': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_11': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_12': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_2': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_3': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_4': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_5': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_6': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_7': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_8': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_9': 0, 'rw_ecc_err_in_re_cnt_double_eprxgrp_top': 0, 'rw_ecc_err_in_re_cnt_double_err_top': 0, 'rw_ecc_err_in_re_cnt_double_erx': 0, 'rw_ecc_err_in_re_cnt_double_etx': 0, 'rw_ecc_err_in_re_cnt_double_fast_ctrl_decoder': 0, 'rw_ecc_err_in_re_cnt_double_formatter_buffer': 0, 'rw_ecc_err_in_re_cnt_double_misc': 0, 'rw_ecc_err_in_re_cnt_double_mux_fix_calib': 0, 'rw_ecc_err_in_re_cnt_double_pll': 0}, 'MISC_ERR_CNT_PARITY': {'rw_ecc_err_in_re_cnt_parity_algorithm': 0, 'rw_ecc_err_in_re_cnt_parity_aligner': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_0': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_1': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_10': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_11': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_2': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_3': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_4': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_5': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_6': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_7': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_8': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_9': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_0': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_1': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_10': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_11': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_2': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_3': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_4': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_5': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_6': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_7': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_8': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_9': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_0': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_1': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_10': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_11': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_12': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_2': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_3': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_4': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_5': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_6': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_7': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_8': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_9': 0, 'rw_ecc_err_in_re_cnt_parity_eprxgrp_top': 0, 'rw_ecc_err_in_re_cnt_parity_err_top': 0, 'rw_ecc_err_in_re_cnt_parity_erx': 0, 'rw_ecc_err_in_re_cnt_parity_etx': 0, 'rw_ecc_err_in_re_cnt_parity_fast_ctrl_decoder': 0, 'rw_ecc_err_in_re_cnt_parity_formatter_buffer': 0, 'rw_ecc_err_in_re_cnt_parity_misc': 0, 'rw_ecc_err_in_re_cnt_parity_mux_fix_calib': 0, 'rw_ecc_err_in_re_cnt_parity_pll': 0}, 'MISC_ERR_CNT_SINGLE': {'rw_ecc_err_in_re_cnt_single_algorithm': 0, 'rw_ecc_err_in_re_cnt_single_aligner': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_0': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_1': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_10': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_11': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_2': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_3': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_4': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_5': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_6': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_7': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_8': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_9': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_0': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_1': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_10': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_11': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_2': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_3': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_4': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_5': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_6': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_7': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_8': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_9': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_0': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_1': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_10': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_11': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_12': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_2': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_3': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_4': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_5': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_6': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_7': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_8': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_9': 0, 'rw_ecc_err_in_re_cnt_single_eprxgrp_top': 0, 'rw_ecc_err_in_re_cnt_single_err_top': 0, 'rw_ecc_err_in_re_cnt_single_erx': 0, 'rw_ecc_err_in_re_cnt_single_etx': 0, 'rw_ecc_err_in_re_cnt_single_fast_ctrl_decoder': 0, 'rw_ecc_err_in_re_cnt_single_formatter_buffer': 0, 'rw_ecc_err_in_re_cnt_single_misc': 0, 'rw_ecc_err_in_re_cnt_single_mux_fix_calib': 0, 'rw_ecc_err_in_re_cnt_single_pll': 0}, 'PLL_ALL': {'pll_read_bytes_2to0': 970766, 'pll_read_bytes_2to0_endCounterRefClk': 0, 'pll_read_bytes_2to0_endCounterVCO': 1, 'pll_read_bytes_2to0_lfInstLock': 1, 'pll_read_bytes_2to0_lfLocked': 1, 'pll_read_bytes_2to0_lfLossOfLockCount': 0, 'pll_read_bytes_2to0_lfState': 2, 'pll_read_bytes_2to0_ljCDRCapBankSearchActive': 1, 'pll_read_bytes_2to0_smLocked': 1, 'pll_read_bytes_2to0_smState': 11, 'pll_read_bytes_4to3': 8, 'pll_read_bytes_4to3_parallel_enable_intrA': 0, 'pll_read_bytes_4to3_parallel_enable_intrB': 0, 'pll_read_bytes_4to3_parallel_enable_intrC': 0, 'pll_read_bytes_4to3_pll_not_locked_timeout': 1}}
+2021-12-16 16:57:26.925000 INFO  Initial RW Status
+2021-12-16 16:57:26.928000 INFO  {'ALGO_DROPLSB': {'drop_lsb': 3}, 'ALGO_THRESHOLD_VAL': {'threshold_val_0': 4194303, 'threshold_val_1': 4194303, 'threshold_val_10': 4194303, 'threshold_val_11': 4194303, 'threshold_val_12': 4194303, 'threshold_val_13': 4194303, 'threshold_val_14': 4194303, 'threshold_val_15': 4194303, 'threshold_val_16': 4194303, 'threshold_val_17': 4194303, 'threshold_val_18': 4194303, 'threshold_val_19': 4194303, 'threshold_val_2': 4194303, 'threshold_val_20': 4194303, 'threshold_val_21': 4194303, 'threshold_val_22': 4194303, 'threshold_val_23': 4194303, 'threshold_val_24': 4194303, 'threshold_val_25': 4194303, 'threshold_val_26': 4194303, 'threshold_val_27': 4194303, 'threshold_val_28': 4194303, 'threshold_val_29': 4194303, 'threshold_val_3': 4194303, 'threshold_val_30': 4194303, 'threshold_val_31': 4194303, 'threshold_val_32': 4194303, 'threshold_val_33': 4194303, 'threshold_val_34': 4194303, 'threshold_val_35': 4194303, 'threshold_val_36': 4194303, 'threshold_val_37': 4194303, 'threshold_val_38': 4194303, 'threshold_val_39': 4194303, 'threshold_val_4': 4194303, 'threshold_val_40': 4194303, 'threshold_val_41': 4194303, 'threshold_val_42': 4194303, 'threshold_val_43': 4194303, 'threshold_val_44': 4194303, 'threshold_val_45': 4194303, 'threshold_val_46': 4194303, 'threshold_val_47': 4194303, 'threshold_val_5': 4194303, 'threshold_val_6': 4194303, 'threshold_val_7': 4194303, 'threshold_val_8': 4194303, 'threshold_val_9': 4194303}, 'ALIGNER_ALL': {'config': 3, 'config_dbg_fc_cnt_clr': 0, 'config_i2c_snapshot_en': 0, 'config_snapshot_arm': 1, 'config_snapshot_en': 1, 'idle_hdr': 10, 'idle_hdr_mask': 0, 'idle_hdr_val': 10, 'match_mask_val': 0, 'match_pattern_val': 11298630744610229452, 'orbsyn_cnt_load_val': 0, 'orbsyn_cnt_max_val': 3563, 'orbsyn_cnt_snapshot': 4, 'orbsyn_hdr': 9, 'orbsyn_hdr_mask': 0, 'orbsyn_hdr_val': 9}, 'AUTOENCODER_0INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_10INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_11INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_1INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_2INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_3INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_4INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_5INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_6INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_7INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_8INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_9INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'CH_ALIGNER_0INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_10INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_11INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_1INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_2INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_3INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_4INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_5INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_6INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_7INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_8INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_9INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_EPRXGRP_0INPUT_ALL': {'config': 0, 'config_dllResetReq': 0, 'config_phaseSelect': 0, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_10INPUT_ALL': {'config': 0, 'config_dllResetReq': 0, 'config_phaseSelect': 0, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_11INPUT_ALL': {'config': 0, 'config_dllResetReq': 0, 'config_phaseSelect': 0, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_1INPUT_ALL': {'config': 0, 'config_dllResetReq': 0, 'config_phaseSelect': 0, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_2INPUT_ALL': {'config': 0, 'config_dllResetReq': 0, 'config_phaseSelect': 0, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_3INPUT_ALL': {'config': 0, 'config_dllResetReq': 0, 'config_phaseSelect': 0, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_4INPUT_ALL': {'config': 0, 'config_dllResetReq': 0, 'config_phaseSelect': 0, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_5INPUT_ALL': {'config': 0, 'config_dllResetReq': 0, 'config_phaseSelect': 0, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_6INPUT_ALL': {'config': 0, 'config_dllResetReq': 0, 'config_phaseSelect': 0, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_7INPUT_ALL': {'config': 0, 'config_dllResetReq': 0, 'config_phaseSelect': 0, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_8INPUT_ALL': {'config': 0, 'config_dllResetReq': 0, 'config_phaseSelect': 0, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_9INPUT_ALL': {'config': 0, 'config_dllResetReq': 0, 'config_phaseSelect': 0, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'EPRXGRP_TOP_ALL': {'config': 42120, 'config_dataGatingEnable': 1, 'config_dllCoarseLockDetection': 0, 'config_dllConfirmCountSelect': 1, 'config_dllCurrentSet': 0, 'config_dllInitSMForceClockEnable': 0, 'config_dllLockThreshold': 2, 'config_dllReLockThreshold': 2, 'config_dllUnLockThreshold': 2, 'config_enableReInit': 0, 'config_trackMode': 0}, 'ERRTOP_ALL': {'config': 0, 'config_clr_on_read_top': 0, 'config_wren_err_top': 0, 'config_wren_msk_top': 0, 'err_wr_data': 1, 'wr_data_top': 0}, 'ERX_ALL': {'config_ch_0': 5, 'config_ch_0_ch_equalizer': 0, 'config_ch_0_enable': 1, 'config_ch_0_enable_termination': 1, 'config_ch_0_invert_data': 0, 'config_ch_0_set_common_mode': 0, 'config_ch_1': 5, 'config_ch_10': 5, 'config_ch_10_ch_equalizer': 0, 'config_ch_10_enable': 1, 'config_ch_10_enable_termination': 1, 'config_ch_10_invert_data': 0, 'config_ch_10_set_common_mode': 0, 'config_ch_11': 5, 'config_ch_11_ch_equalizer': 0, 'config_ch_11_enable': 1, 'config_ch_11_enable_termination': 1, 'config_ch_11_invert_data': 0, 'config_ch_11_set_common_mode': 0, 'config_ch_1_ch_equalizer': 0, 'config_ch_1_enable': 1, 'config_ch_1_enable_termination': 1, 'config_ch_1_invert_data': 0, 'config_ch_1_set_common_mode': 0, 'config_ch_2': 5, 'config_ch_2_ch_equalizer': 0, 'config_ch_2_enable': 1, 'config_ch_2_enable_termination': 1, 'config_ch_2_invert_data': 0, 'config_ch_2_set_common_mode': 0, 'config_ch_3': 5, 'config_ch_3_ch_equalizer': 0, 'config_ch_3_enable': 1, 'config_ch_3_enable_termination': 1, 'config_ch_3_invert_data': 0, 'config_ch_3_set_common_mode': 0, 'config_ch_4': 5, 'config_ch_4_ch_equalizer': 0, 'config_ch_4_enable': 1, 'config_ch_4_enable_termination': 1, 'config_ch_4_invert_data': 0, 'config_ch_4_set_common_mode': 0, 'config_ch_5': 5, 'config_ch_5_ch_equalizer': 0, 'config_ch_5_enable': 1, 'config_ch_5_enable_termination': 1, 'config_ch_5_invert_data': 0, 'config_ch_5_set_common_mode': 0, 'config_ch_6': 5, 'config_ch_6_ch_equalizer': 0, 'config_ch_6_enable': 1, 'config_ch_6_enable_termination': 1, 'config_ch_6_invert_data': 0, 'config_ch_6_set_common_mode': 0, 'config_ch_7': 5, 'config_ch_7_ch_equalizer': 0, 'config_ch_7_enable': 1, 'config_ch_7_enable_termination': 1, 'config_ch_7_invert_data': 0, 'config_ch_7_set_common_mode': 0, 'config_ch_8': 5, 'config_ch_8_ch_equalizer': 0, 'config_ch_8_enable': 1, 'config_ch_8_enable_termination': 1, 'config_ch_8_invert_data': 0, 'config_ch_8_set_common_mode': 0, 'config_ch_9': 5, 'config_ch_9_ch_equalizer': 0, 'config_ch_9_enable': 1, 'config_ch_9_enable_termination': 1, 'config_ch_9_invert_data': 0, 'config_ch_9_set_common_mode': 0, 'config_mux_0': 5, 'config_mux_0_ch_equalizer': 0, 'config_mux_0_enable': 1, 'config_mux_0_enable_termination': 1, 'config_mux_0_invert_data': 0, 'config_mux_0_set_common_mode': 0, 'config_mux_1': 5, 'config_mux_1_ch_equalizer': 0, 'config_mux_1_enable': 1, 'config_mux_1_enable_termination': 1, 'config_mux_1_invert_data': 0, 'config_mux_1_set_common_mode': 0, 'config_mux_2': 5, 'config_mux_2_ch_equalizer': 0, 'config_mux_2_enable': 1, 'config_mux_2_enable_termination': 1, 'config_mux_2_invert_data': 0, 'config_mux_2_set_common_mode': 0}, 'ETX_ALL': {'config_ch_0': 1542, 'config_ch_0_drive_strength': 3, 'config_ch_0_invert_data': 0, 'config_ch_0_pre_emphasis_mode': 0, 'config_ch_0_pre_emphasis_strength': 6, 'config_ch_0_pre_emphasis_width': 0, 'config_ch_1': 1542, 'config_ch_10': 1542, 'config_ch_10_drive_strength': 3, 'config_ch_10_invert_data': 0, 'config_ch_10_pre_emphasis_mode': 0, 'config_ch_10_pre_emphasis_strength': 6, 'config_ch_10_pre_emphasis_width': 0, 'config_ch_11': 1542, 'config_ch_11_drive_strength': 3, 'config_ch_11_invert_data': 0, 'config_ch_11_pre_emphasis_mode': 0, 'config_ch_11_pre_emphasis_strength': 6, 'config_ch_11_pre_emphasis_width': 0, 'config_ch_1_drive_strength': 3, 'config_ch_1_invert_data': 0, 'config_ch_1_pre_emphasis_mode': 0, 'config_ch_1_pre_emphasis_strength': 6, 'config_ch_1_pre_emphasis_width': 0, 'config_ch_2': 1542, 'config_ch_2_drive_strength': 3, 'config_ch_2_invert_data': 0, 'config_ch_2_pre_emphasis_mode': 0, 'config_ch_2_pre_emphasis_strength': 6, 'config_ch_2_pre_emphasis_width': 0, 'config_ch_3': 1542, 'config_ch_3_drive_strength': 3, 'config_ch_3_invert_data': 0, 'config_ch_3_pre_emphasis_mode': 0, 'config_ch_3_pre_emphasis_strength': 6, 'config_ch_3_pre_emphasis_width': 0, 'config_ch_4': 1542, 'config_ch_4_drive_strength': 3, 'config_ch_4_invert_data': 0, 'config_ch_4_pre_emphasis_mode': 0, 'config_ch_4_pre_emphasis_strength': 6, 'config_ch_4_pre_emphasis_width': 0, 'config_ch_5': 1542, 'config_ch_5_drive_strength': 3, 'config_ch_5_invert_data': 0, 'config_ch_5_pre_emphasis_mode': 0, 'config_ch_5_pre_emphasis_strength': 6, 'config_ch_5_pre_emphasis_width': 0, 'config_ch_6': 1542, 'config_ch_6_drive_strength': 3, 'config_ch_6_invert_data': 0, 'config_ch_6_pre_emphasis_mode': 0, 'config_ch_6_pre_emphasis_strength': 6, 'config_ch_6_pre_emphasis_width': 0, 'config_ch_7': 1542, 'config_ch_7_drive_strength': 3, 'config_ch_7_invert_data': 0, 'config_ch_7_pre_emphasis_mode': 0, 'config_ch_7_pre_emphasis_strength': 6, 'config_ch_7_pre_emphasis_width': 0, 'config_ch_8': 1542, 'config_ch_8_drive_strength': 3, 'config_ch_8_invert_data': 0, 'config_ch_8_pre_emphasis_mode': 0, 'config_ch_8_pre_emphasis_strength': 6, 'config_ch_8_pre_emphasis_width': 0, 'config_ch_9': 1542, 'config_ch_9_drive_strength': 3, 'config_ch_9_invert_data': 0, 'config_ch_9_pre_emphasis_mode': 0, 'config_ch_9_pre_emphasis_strength': 6, 'config_ch_9_pre_emphasis_width': 0, 'config_mux_0': 3085, 'config_mux_0_drive_strength': 3, 'config_mux_0_enable': 1, 'config_mux_0_invert_data': 0, 'config_mux_0_pre_emphasis_mode': 0, 'config_mux_0_pre_emphasis_strength': 6, 'config_mux_0_pre_emphasis_width': 0, 'config_mux_1': 3085, 'config_mux_1_drive_strength': 3, 'config_mux_1_enable': 1, 'config_mux_1_invert_data': 0, 'config_mux_1_pre_emphasis_mode': 0, 'config_mux_1_pre_emphasis_strength': 6, 'config_mux_1_pre_emphasis_width': 0, 'config_mux_2': 3085, 'config_mux_2_drive_strength': 3, 'config_mux_2_enable': 1, 'config_mux_2_invert_data': 0, 'config_mux_2_pre_emphasis_mode': 0, 'config_mux_2_pre_emphasis_strength': 6, 'config_mux_2_pre_emphasis_width': 0, 'config_mux_3': 3085, 'config_mux_3_drive_strength': 3, 'config_mux_3_enable': 1, 'config_mux_3_invert_data': 0, 'config_mux_3_pre_emphasis_mode': 0, 'config_mux_3_pre_emphasis_strength': 6, 'config_mux_3_pre_emphasis_width': 0}, 'FCTRL_ALL': {'config': 32, 'config_EdgeSel_T1': 0, 'config_PreL1AOffset': 0, 'config_force_fc_error': 0, 'config_invert_command_rx': 0, 'config_reset_b_fc_counters': 1}, 'FMTBUF_ALL': {'buff_t1': 338, 'buff_t2': 511, 'buff_t3': 25, 'config': 208, 'config_eporttx_numen': 13, 'config_stc_type': 0, 'config_use_sum': 0, 'mask_ae': 340282366920938463463374607431768211455, 'mask_ae2': 65535, 'tx_sync_word': 290}, 'MFC_ALGORITHM_SEL_DENSITY': {'algo': 8, 'algo_density': 1, 'algo_select': 0}, 'MFC_CAL_VAL': {'cal_0': 2048, 'cal_1': 2048, 'cal_10': 2048, 'cal_11': 2048, 'cal_12': 2048, 'cal_13': 2048, 'cal_14': 2048, 'cal_15': 2048, 'cal_16': 2048, 'cal_17': 2048, 'cal_18': 2048, 'cal_19': 2048, 'cal_2': 2048, 'cal_20': 2048, 'cal_21': 2048, 'cal_22': 2048, 'cal_23': 2048, 'cal_24': 2048, 'cal_25': 2048, 'cal_26': 2048, 'cal_27': 2048, 'cal_28': 2048, 'cal_29': 2048, 'cal_3': 2048, 'cal_30': 2048, 'cal_31': 2048, 'cal_32': 2048, 'cal_33': 2048, 'cal_34': 2048, 'cal_35': 2048, 'cal_36': 2048, 'cal_37': 2048, 'cal_38': 2048, 'cal_39': 2048, 'cal_4': 2048, 'cal_40': 2048, 'cal_41': 2048, 'cal_42': 2048, 'cal_43': 2048, 'cal_44': 2048, 'cal_45': 2048, 'cal_46': 2048, 'cal_47': 2048, 'cal_5': 2048, 'cal_6': 2048, 'cal_7': 2048, 'cal_8': 2048, 'cal_9': 2048}, 'MFC_MUX_SELECT': {'mux_select_0': 0, 'mux_select_1': 1, 'mux_select_10': 10, 'mux_select_11': 11, 'mux_select_12': 12, 'mux_select_13': 13, 'mux_select_14': 14, 'mux_select_15': 15, 'mux_select_16': 16, 'mux_select_17': 17, 'mux_select_18': 18, 'mux_select_19': 19, 'mux_select_2': 2, 'mux_select_20': 20, 'mux_select_21': 21, 'mux_select_22': 22, 'mux_select_23': 23, 'mux_select_24': 24, 'mux_select_25': 25, 'mux_select_26': 26, 'mux_select_27': 27, 'mux_select_28': 28, 'mux_select_29': 29, 'mux_select_3': 3, 'mux_select_30': 30, 'mux_select_31': 31, 'mux_select_32': 32, 'mux_select_33': 33, 'mux_select_34': 34, 'mux_select_35': 35, 'mux_select_36': 36, 'mux_select_37': 37, 'mux_select_38': 38, 'mux_select_39': 39, 'mux_select_4': 4, 'mux_select_40': 40, 'mux_select_41': 41, 'mux_select_42': 42, 'mux_select_43': 43, 'mux_select_44': 44, 'mux_select_45': 45, 'mux_select_46': 46, 'mux_select_47': 47, 'mux_select_5': 5, 'mux_select_6': 6, 'mux_select_7': 7, 'mux_select_8': 8, 'mux_select_9': 9}, 'MISC_ALL': {'misc_rw_0': 2, 'misc_rw_0_run': 1, 'misc_rw_0_rw_ecc_err_clr': 0}, 'PLL_ALL': {'pll_bytes_12to9': 877987157, 'pll_bytes_12to9_fromMemToLJCDR_CONFIG_FF_CAP_WL': 3, 'pll_bytes_12to9_fromMemToLJCDR_CONFIG_I_PLL_WL': 5, 'pll_bytes_12to9_fromMemToLJCDR_CONFIG_P_PLL_WL': 5, 'pll_bytes_12to9_fromMemToLJCDR_PLL_R_CONFIG_WL': 4, 'pll_bytes_17to13': 216641586520, 'pll_bytes_17to13_VCObypass': 0, 'pll_bytes_17to13_fromMemToLJCDR_BIASGEN_CONFIG': 8, 'pll_bytes_17to13_fromMemToLJCDR_CBOvcoCapSelect': 100, 'pll_bytes_17to13_fromMemToLJCDR_CONFIG_I_PLL': 5, 'pll_bytes_17to13_fromMemToLJCDR_CONFIG_P_PLL': 5, 'pll_bytes_17to13_fromMemToLJCDR_COconnectCDR': 0, 'pll_bytes_17to13_fromMemToLJCDR_COconnectPLL': 1, 'pll_bytes_17to13_fromMemToLJCDR_COenablePLL': 1, 'pll_bytes_17to13_fromMemToLJCDR_COoverrideVc': 0, 'pll_bytes_17to13_fromMemToLJCDR_COrefClkSel': 1, 'pll_bytes_17to13_fromMemToLJCDR_PLL_R_CONFIG': 4, 'pll_bytes_17to13_fromMemToLJCDR_vcoDAC': 8, 'pll_bytes_17to13_fromMemToLJCDR_vcoRailMode': 1, 'pll_bytes_1to0': 3584, 'pll_bytes_1to0_clktreeAdisable': 0, 'pll_bytes_1to0_clktreeBdisable': 0, 'pll_bytes_1to0_clktreeCdisable': 0, 'pll_bytes_1to0_enableDes': 1, 'pll_bytes_1to0_enableSer': 0, 'pll_bytes_21to18': 159959176, 'pll_bytes_21to18_fromFrameAligner_FrameAlignerIsLocked': 0, 'pll_bytes_21to18_fromMemToLJCDR_disableFrameAlignerLockControl': 0, 'pll_bytes_21to18_fromMemToLJCDR_enableCapBankOverride': 1, 'pll_bytes_21to18_fromMemToLJCDR_enableControlOverride': 0, 'pll_bytes_21to18_fromMemToLJCDR_lfEnable': 1, 'pll_bytes_21to18_fromMemToLJCDR_lfLockThrCounter': 8, 'pll_bytes_21to18_fromMemToLJCDR_lfReLockThrCounter': 8, 'pll_bytes_21to18_fromMemToLJCDR_lfUnLockThrCounter': 8, 'pll_bytes_21to18_fromMemToLJCDR_selEndOfCount': 12, 'pll_bytes_21to18_fromMemToLJCDR_waitCDRTime': 8, 'pll_bytes_21to18_fromMemToLJCDR_waitPLLTime': 8, 'pll_bytes_21to18_mode': 0, 'pll_bytes_21to18_rxLockMode': 0, 'pll_bytes_24to22': 3584, 'pll_bytes_24to22_phase_of_enable_1G28': 0, 'pll_bytes_24to22_toclkgen_disCLK': 0, 'pll_bytes_24to22_toclkgen_disDES': 0, 'pll_bytes_24to22_toclkgen_disEOM': 0, 'pll_bytes_24to22_toclkgen_disEXT': 1, 'pll_bytes_24to22_toclkgen_disSER': 0, 'pll_bytes_24to22_toclkgen_disVCO': 0, 'pll_bytes_26to25': 32776, 'pll_bytes_26to25_output_clk_sel': 0, 'pll_bytes_26to25_refClk_enableRx': 1, 'pll_bytes_26to25_refClk_enableTermination': 0, 'pll_bytes_26to25_refClk_setCommonMode': 0, 'pll_bytes_26to25_ref_clk_sel': 1, 'pll_bytes_26to25_tofbDiv_skip': 0, 'pll_bytes_27': 0, 'pll_bytes_27_reset_eTx_par_enable_intr': 0, 'pll_bytes_27_reset_pll_not_locked_intr': 0, 'pll_bytes_4to2': 16777215, 'pll_bytes_4to2_clk160Menable': 1, 'pll_bytes_4to2_clk1G28enable': 1, 'pll_bytes_4to2_clk2G56enable': 1, 'pll_bytes_4to2_clk320Menable': 1, 'pll_bytes_4to2_clk40Menable': 1, 'pll_bytes_4to2_clk640Menable': 1, 'pll_bytes_4to2_clk80Menable': 1, 'pll_bytes_4to2_enablePhaseShifter': 1, 'pll_bytes_8to5': 1039837870, 'pll_bytes_8to5_fromMemToLJCDR_COdisDataCounterRef': 1, 'pll_bytes_8to5_fromMemToLJCDR_COenableCDR': 0, 'pll_bytes_8to5_fromMemToLJCDR_COenableFD': 0}}
+2021-12-16 16:57:26.931000 INFO     Took 25.04 seconds
+2021-12-16 16:57:27.933000 INFO  local SC time is 44.4
+2021-12-16 16:57:28.934000 INFO  local SC time is 45.4
+2021-12-16 16:57:29.936000 INFO  local SC time is 46.4
+2021-12-16 16:57:30.938000 INFO  local SC time is 47.4
+2021-12-16 16:57:31.939000 INFO  local SC time is 48.4
+2021-12-16 16:57:32.940000 INFO  local SC time is 49.4
+2021-12-16 16:57:33.942000 INFO  local SC time is 50.4
+2021-12-16 16:57:34.944000 INFO  local SC time is 51.4
+2021-12-16 16:57:35.946000 INFO  local SC time is 52.4
+2021-12-16 16:57:36.948000 INFO  local SC time is 53.4
+2021-12-16 16:57:37.950000 INFO  local SC time is 54.5
+2021-12-16 16:57:38.952000 INFO  local SC time is 55.5
+2021-12-16 16:57:39.954000 INFO  local SC time is 56.5
+2021-12-16 16:57:40.955000 INFO  local SC time is 57.5
+2021-12-16 16:57:41.957000 INFO  local SC time is 58.5
+2021-12-16 16:57:42.959000 INFO  local SC time is 59.5
+2021-12-16 16:57:43.960000 INFO  local SC time is 60.5
+2021-12-16 16:57:44.962000 INFO  local SC time is 0.6
+2021-12-16 16:57:45.964000 INFO  local SC time is 1.6
+2021-12-16 16:57:46.966000 INFO  local SC time is 2.6
+2021-12-16 16:57:47.968000 INFO  local SC time is 3.6
+2021-12-16 16:57:48.970000 INFO  local SC time is 4.6
+2021-12-16 16:57:49.972000 INFO  local SC time is 5.6
+2021-12-16 16:57:49.972000 INFO  PULSE IS COMING:
+2021-12-16 16:57:50.974000 INFO  local SC time is 6.6
+2021-12-16 16:57:50.975000 INFO  PULSE IS COMING:
+2021-12-16 16:57:51.976000 INFO  local SC time is 7.6
+2021-12-16 16:57:52.978000 INFO  local SC time is 8.6
+2021-12-16 16:57:53.980000 INFO  local SC time is 9.6
+2021-12-16 16:57:54.982000 INFO  local SC time is 10.6
+2021-12-16 16:57:55.984000 INFO  local SC time is 11.6
+2021-12-16 16:57:56.986000 INFO  local SC time is 12.6
+2021-12-16 16:57:57.987000 INFO  local SC time is 13.6
+2021-12-16 16:57:58.988000 INFO  local SC time is 14.6
+2021-12-16 16:57:59.990000 INFO  local SC time is 15.6
+2021-12-16 16:58:00.991000 INFO  local SC time is 16.6
+2021-12-16 16:58:00.992000 INFO  CHECK I2C STATUS:
+2021-12-16 16:58:07.656000 INFO  RW Matches
+2021-12-16 16:58:13.017000 INFO  RO Matches
+2021-12-16 16:58:13.018000 INFO     Took 12.03 seconds
+2021-12-16 16:58:15.024000 INFO  WRITE I2C DEFAULTS:
+2021-12-16 16:58:39.982000 INFO     Took 24.96 seconds
+2021-12-16 16:58:40.984000 INFO  local SC time is 56.6
+2021-12-16 16:58:41.985000 INFO  local SC time is 57.6
+2021-12-16 16:58:42.987000 INFO  local SC time is 58.6
+2021-12-16 16:58:43.989000 INFO  local SC time is 59.6
+2021-12-16 16:58:44.991000 INFO  local SC time is 60.6
+2021-12-16 16:58:45.993000 INFO  local SC time is 0.7
+2021-12-16 16:58:46.995000 INFO  local SC time is 1.7
+2021-12-16 16:58:47.996000 INFO  local SC time is 2.7
+2021-12-16 16:58:48.998000 INFO  local SC time is 3.7
+2021-12-16 16:58:50 INFO  local SC time is 4.7
+2021-12-16 16:58:51.002000 INFO  local SC time is 5.7
+2021-12-16 16:58:51.003000 INFO  PULSE IS COMING:
+2021-12-16 16:58:52.004000 INFO  local SC time is 6.7
+2021-12-16 16:58:52.005000 INFO  PULSE IS COMING:
+2021-12-16 16:58:53.007000 INFO  local SC time is 7.7
+2021-12-16 16:58:54.008000 INFO  local SC time is 8.7
+2021-12-16 16:58:55.010000 INFO  local SC time is 9.7
+2021-12-16 16:58:56.012000 INFO  local SC time is 10.7
+2021-12-16 16:58:57.014000 INFO  local SC time is 11.7
+2021-12-16 16:58:58.016000 INFO  local SC time is 12.7
+2021-12-16 16:58:59.018000 INFO  local SC time is 13.7
+2021-12-16 16:59:00.019000 INFO  local SC time is 14.7
+2021-12-16 16:59:01.021000 INFO  local SC time is 15.7
+2021-12-16 16:59:02.023000 INFO  local SC time is 16.7
+2021-12-16 16:59:02.023000 INFO  CHECK I2C STATUS:
+2021-12-16 16:59:08.674000 INFO  RW Matches
+2021-12-16 16:59:14.083000 INFO  RO Matches
+2021-12-16 16:59:14.085000 INFO     Took 12.06 seconds
+2021-12-16 16:59:16.087000 INFO  WRITE I2C DEFAULTS:
+2021-12-16 16:59:41.059000 INFO     Took 24.97 seconds
+2021-12-16 16:59:42.060000 INFO  local SC time is 56.8
+2021-12-16 16:59:43.062000 INFO  local SC time is 57.8
+2021-12-16 16:59:44.063000 INFO  local SC time is 58.8
+2021-12-16 16:59:45.065000 INFO  local SC time is 59.8
+2021-12-16 16:59:46.067000 INFO  local SC time is 60.8
+2021-12-16 16:59:47.069000 INFO  local SC time is 0.9
+2021-12-16 16:59:48.071000 INFO  local SC time is 1.9
+2021-12-16 16:59:49.073000 INFO  local SC time is 2.9
+2021-12-16 16:59:50.075000 INFO  local SC time is 3.9
+2021-12-16 16:59:51.076000 INFO  local SC time is 4.9
+2021-12-16 16:59:52.078000 INFO  local SC time is 5.9
+2021-12-16 16:59:52.079000 INFO  PULSE IS COMING:
+2021-12-16 16:59:53.080000 INFO  local SC time is 6.9
+2021-12-16 16:59:53.081000 INFO  PULSE IS COMING:
+2021-12-16 16:59:54.083000 INFO  local SC time is 7.9
+2021-12-16 16:59:55.084000 INFO  local SC time is 8.9
+2021-12-16 16:59:56.086000 INFO  local SC time is 9.9
+2021-12-16 16:59:57.088000 INFO  local SC time is 10.9
+2021-12-16 16:59:58.090000 INFO  local SC time is 11.9
+2021-12-16 16:59:59.092000 INFO  local SC time is 12.9
+2021-12-16 17:00:00.093000 INFO  local SC time is 13.9
+2021-12-16 17:00:01.095000 INFO  local SC time is 14.9
+2021-12-16 17:00:02.097000 INFO  local SC time is 15.9
+2021-12-16 17:00:03.098000 INFO  local SC time is 16.9
+2021-12-16 17:00:03.099000 INFO  CHECK I2C STATUS:
+2021-12-16 17:00:09.785000 INFO  RW Matches
+2021-12-16 17:00:15.155000 INFO  RO Mismatches: {'ASIC': {'FCTRL_ALL': {'fc_error_count': (0, 64), 'lock_count': (0, 1)}}}
+2021-12-16 17:00:15.156000 INFO     Took 12.06 seconds
+2021-12-16 17:00:17.159000 INFO  WRITE I2C DEFAULTS:
+2021-12-16 17:00:42.157000 INFO     Took 25.0 seconds
+2021-12-16 17:00:43.159000 INFO  local SC time is 57.0
+2021-12-16 17:00:44.161000 INFO  local SC time is 58.0
+2021-12-16 17:00:45.163000 INFO  local SC time is 59.0
+2021-12-16 17:00:46.164000 INFO  local SC time is 60.0
+2021-12-16 17:00:47.166000 INFO  local SC time is 0.1
+2021-12-16 17:00:48.168000 INFO  local SC time is 1.1
+2021-12-16 17:00:49.169000 INFO  local SC time is 2.1
+2021-12-16 17:00:50.171000 INFO  local SC time is 3.1
+2021-12-16 17:00:51.173000 INFO  local SC time is 4.1
+2021-12-16 17:00:52.174000 INFO  local SC time is 5.1
+2021-12-16 17:00:52.175000 INFO  PULSE IS COMING:
+2021-12-16 17:00:53.176000 INFO  local SC time is 6.1
+2021-12-16 17:00:53.177000 INFO  PULSE IS COMING:
+2021-12-16 17:00:54.179000 INFO  local SC time is 7.1
+2021-12-16 17:00:55.180000 INFO  local SC time is 8.1
+2021-12-16 17:00:56.182000 INFO  local SC time is 9.1
+2021-12-16 17:00:57.184000 INFO  local SC time is 10.1
+2021-12-16 17:00:58.185000 INFO  local SC time is 11.1
+2021-12-16 17:00:59.187000 INFO  local SC time is 12.1
+2021-12-16 17:01:00.189000 INFO  local SC time is 13.1
+2021-12-16 17:01:01.190000 INFO  local SC time is 14.1
+2021-12-16 17:01:02.192000 INFO  local SC time is 15.1
+2021-12-16 17:01:03.194000 INFO  local SC time is 16.1
+2021-12-16 17:01:03.194000 INFO  CHECK I2C STATUS:
+2021-12-16 17:01:09.843000 INFO  RW Mismatches: {'ASIC': {'AUTOENCODER_3INPUT': {'weights_byte80': ('0xcccccccccccccccccccccccccccccccc', '0xccccccccccccccccccccc4cccccccccc')}}}
+2021-12-16 17:01:15.217000 INFO  RO Mismatches: {'ASIC': {'FCTRL_ALL': {'fc_error_count': (0, 62), 'lock_count': (0, 1)}}}
+2021-12-16 17:01:15.219000 INFO     Took 12.02 seconds
+2021-12-16 17:01:17.221000 INFO  WRITE I2C DEFAULTS:
+2021-12-16 17:01:42.190000 INFO     Took 24.97 seconds
+2021-12-16 17:01:43.192000 INFO  local SC time is 56.1
+2021-12-16 17:01:44.193000 INFO  local SC time is 57.1
+2021-12-16 17:01:45.195000 INFO  local SC time is 58.1
+2021-12-16 17:01:46.197000 INFO  local SC time is 59.1
+2021-12-16 17:01:47.198000 INFO  local SC time is 60.1
+2021-12-16 17:01:48.200000 INFO  local SC time is 0.2
+2021-12-16 17:01:49.202000 INFO  local SC time is 1.2
+2021-12-16 17:01:50.203000 INFO  local SC time is 2.2
+2021-12-16 17:01:51.205000 INFO  local SC time is 3.2
+2021-12-16 17:01:52.206000 INFO  local SC time is 4.2
+2021-12-16 17:01:53.208000 INFO  local SC time is 5.2
+2021-12-16 17:01:53.209000 INFO  PULSE IS COMING:
+2021-12-16 17:01:54.210000 INFO  local SC time is 6.2
+2021-12-16 17:01:54.211000 INFO  PULSE IS COMING:
+2021-12-16 17:01:55.212000 INFO  local SC time is 7.2
+2021-12-16 17:01:56.214000 INFO  local SC time is 8.2
+2021-12-16 17:01:57.216000 INFO  local SC time is 9.2
+2021-12-16 17:01:58.217000 INFO  local SC time is 10.2
+2021-12-16 17:01:59.219000 INFO  local SC time is 11.2
+2021-12-16 17:02:00.220000 INFO  local SC time is 12.2
+2021-12-16 17:02:01.222000 INFO  local SC time is 13.2
+2021-12-16 17:02:02.223000 INFO  local SC time is 14.2
+2021-12-16 17:02:03.224000 INFO  local SC time is 15.2
+2021-12-16 17:02:04.226000 INFO  local SC time is 16.2
+2021-12-16 17:02:04.226000 INFO  CHECK I2C STATUS:
+2021-12-16 17:02:10.906000 INFO  RW Matches
+2021-12-16 17:02:16.277000 INFO  RO Matches
+2021-12-16 17:02:16.278000 INFO     Took 12.05 seconds
+2021-12-16 17:02:18.280000 INFO  WRITE I2C DEFAULTS:
+2021-12-16 17:02:43.200000 INFO     Took 24.92 seconds
+2021-12-16 17:02:44.202000 INFO  local SC time is 56.2
+2021-12-16 17:02:45.204000 INFO  local SC time is 57.2
+2021-12-16 17:02:46.205000 INFO  local SC time is 58.2
+2021-12-16 17:02:47.207000 INFO  local SC time is 59.2
+2021-12-16 17:02:48.208000 INFO  local SC time is 60.2
+2021-12-16 17:02:49.210000 INFO  local SC time is 0.3
+2021-12-16 17:02:50.212000 INFO  local SC time is 1.3
+2021-12-16 17:02:51.213000 INFO  local SC time is 2.3
+2021-12-16 17:02:52.215000 INFO  local SC time is 3.3
+2021-12-16 17:02:53.217000 INFO  local SC time is 4.3
+2021-12-16 17:02:54.218000 INFO  local SC time is 5.3
+2021-12-16 17:02:54.219000 INFO  PULSE IS COMING:
+2021-12-16 17:02:55.220000 INFO  local SC time is 6.3
+2021-12-16 17:02:55.221000 INFO  PULSE IS COMING:
+2021-12-16 17:02:56.222000 INFO  local SC time is 7.3
+2021-12-16 17:02:57.224000 INFO  local SC time is 8.3
+2021-12-16 17:02:58.226000 INFO  local SC time is 9.3
+2021-12-16 17:02:59.227000 INFO  local SC time is 10.3
+2021-12-16 17:03:00.228000 INFO  local SC time is 11.3
+2021-12-16 17:03:01.230000 INFO  local SC time is 12.3
+2021-12-16 17:03:02.231000 INFO  local SC time is 13.3
+2021-12-16 17:03:03.233000 INFO  local SC time is 14.3
+2021-12-16 17:03:04.235000 INFO  local SC time is 15.3
+2021-12-16 17:03:05.236000 INFO  local SC time is 16.3
+2021-12-16 17:03:05.237000 INFO  CHECK I2C STATUS:
+2021-12-16 17:03:11.913000 INFO  RW Matches
+2021-12-16 17:03:17.318000 INFO  RO Mismatches: {'ASIC': {'FCTRL_ALL': {'fc_error_count': (0, 2)}}}
+2021-12-16 17:03:17.319000 INFO     Took 12.08 seconds
+2021-12-16 17:03:19.321000 INFO  WRITE I2C DEFAULTS:
+2021-12-16 17:03:44.237000 INFO     Took 24.92 seconds
+2021-12-16 17:03:45.239000 INFO  local SC time is 56.3
+2021-12-16 17:03:46.241000 INFO  local SC time is 57.3
+2021-12-16 17:03:47.243000 INFO  local SC time is 58.3
+2021-12-16 17:03:48.244000 INFO  local SC time is 59.3
+2021-12-16 17:03:49.246000 INFO  local SC time is 60.3
+2021-12-16 17:03:50.247000 INFO  local SC time is 0.4
+2021-12-16 17:03:51.249000 INFO  local SC time is 1.4
+2021-12-16 17:03:52.251000 INFO  local SC time is 2.5
+2021-12-16 17:03:53.252000 INFO  local SC time is 3.5
+2021-12-16 17:03:54.254000 INFO  local SC time is 4.5
+2021-12-16 17:03:55.255000 INFO  local SC time is 5.5
+2021-12-16 17:03:55.256000 INFO  PULSE IS COMING:
+2021-12-16 17:03:56.258000 INFO  local SC time is 6.5
+2021-12-16 17:03:56.258000 INFO  PULSE IS COMING:
+2021-12-16 17:03:57.260000 INFO  local SC time is 7.5
+2021-12-16 17:03:58.261000 INFO  local SC time is 8.5
+2021-12-16 17:03:59.263000 INFO  local SC time is 9.5
+2021-12-16 17:04:00.265000 INFO  local SC time is 10.5
+2021-12-16 17:04:01.266000 INFO  local SC time is 11.5
+2021-12-16 17:04:02.268000 INFO  local SC time is 12.5
+2021-12-16 17:04:03.269000 INFO  local SC time is 13.5
+2021-12-16 17:04:04.271000 INFO  local SC time is 14.5
+2021-12-16 17:04:05.273000 INFO  local SC time is 15.5
+2021-12-16 17:04:06.274000 INFO  local SC time is 16.5
+2021-12-16 17:04:06.275000 INFO  CHECK I2C STATUS:
+2021-12-16 17:04:12.955000 INFO  RW Matches
+2021-12-16 17:04:18.366000 INFO  RO Matches
+2021-12-16 17:04:18.367000 INFO     Took 12.09 seconds
+2021-12-16 17:04:20.369000 INFO  WRITE I2C DEFAULTS:
+2021-12-16 17:04:45.361000 INFO     Took 24.99 seconds
+2021-12-16 17:04:46.363000 INFO  local SC time is 56.6
+2021-12-16 17:04:47.364000 INFO  local SC time is 57.6
+2021-12-16 17:04:48.366000 INFO  local SC time is 58.6
+2021-12-16 17:04:49.367000 INFO  local SC time is 59.6
+2021-12-16 17:04:50.369000 INFO  local SC time is 60.6
+2021-12-16 17:04:51.370000 INFO  local SC time is 0.7
+2021-12-16 17:04:52.372000 INFO  local SC time is 1.7
+2021-12-16 17:04:53.374000 INFO  local SC time is 2.7
+2021-12-16 17:04:54.375000 INFO  local SC time is 3.7
+2021-12-16 17:04:55.377000 INFO  local SC time is 4.7
+2021-12-16 17:04:56.379000 INFO  local SC time is 5.7
+2021-12-16 17:04:56.379000 INFO  PULSE IS COMING:
+2021-12-16 17:04:57.381000 INFO  local SC time is 6.7
+2021-12-16 17:04:57.381000 INFO  PULSE IS COMING:
+2021-12-16 17:04:58.383000 INFO  local SC time is 7.7
+2021-12-16 17:04:59.385000 INFO  local SC time is 8.7
+2021-12-16 17:05:00.386000 INFO  local SC time is 9.7
+2021-12-16 17:05:01.388000 INFO  local SC time is 10.7
+2021-12-16 17:05:02.389000 INFO  local SC time is 11.7
+2021-12-16 17:05:03.391000 INFO  local SC time is 12.7
+2021-12-16 17:05:04.393000 INFO  local SC time is 13.7
+2021-12-16 17:05:05.394000 INFO  local SC time is 14.7
+2021-12-16 17:05:06.396000 INFO  local SC time is 15.7
+2021-12-16 17:05:07.398000 INFO  local SC time is 16.7
+2021-12-16 17:05:07.398000 INFO  CHECK I2C STATUS:
+2021-12-16 17:05:14.047000 INFO  RW Matches
+2021-12-16 17:05:19.423000 INFO  RO Matches
+2021-12-16 17:05:19.424000 INFO     Took 12.03 seconds
+2021-12-16 17:05:21.426000 INFO  WRITE I2C DEFAULTS:
+2021-12-16 17:05:46.420000 INFO     Took 24.99 seconds
+2021-12-16 17:05:47.422000 INFO  local SC time is 56.7
+2021-12-16 17:05:48.423000 INFO  local SC time is 57.7
+2021-12-16 17:05:49.425000 INFO  local SC time is 58.7
+2021-12-16 17:05:50.427000 INFO  local SC time is 59.7
+2021-12-16 17:05:51.428000 INFO  local SC time is 60.7
+2021-12-16 17:05:52.430000 INFO  local SC time is 0.8
+2021-12-16 17:05:53.431000 INFO  local SC time is 1.8
+2021-12-16 17:05:54.433000 INFO  local SC time is 2.8
+2021-12-16 17:05:55.435000 INFO  local SC time is 3.8
+2021-12-16 17:05:56.436000 INFO  local SC time is 4.8
+2021-12-16 17:05:57.438000 INFO  local SC time is 5.8
+2021-12-16 17:05:57.439000 INFO  PULSE IS COMING:
+2021-12-16 17:05:58.440000 INFO  local SC time is 6.8
+2021-12-16 17:05:58.441000 INFO  PULSE IS COMING:
+2021-12-16 17:05:59.442000 INFO  local SC time is 7.8
+2021-12-16 17:06:00.444000 INFO  local SC time is 8.8
+2021-12-16 17:06:01.446000 INFO  local SC time is 9.8
+2021-12-16 17:06:02.447000 INFO  local SC time is 10.8
+2021-12-16 17:06:03.449000 INFO  local SC time is 11.8
+2021-12-16 17:06:04.450000 INFO  local SC time is 12.9
+2021-12-16 17:06:05.452000 INFO  local SC time is 13.9
+2021-12-16 17:06:06.454000 INFO  local SC time is 14.9
+2021-12-16 17:06:07.455000 INFO  local SC time is 15.9
+2021-12-16 17:06:08.457000 INFO  local SC time is 16.9
+2021-12-16 17:06:08.458000 INFO  CHECK I2C STATUS:
+2021-12-16 17:06:15.107000 INFO  RW Matches
+2021-12-16 17:06:20.481000 INFO  RO Matches
+2021-12-16 17:06:20.482000 INFO     Took 12.02 seconds
+2021-12-16 17:06:22.485000 INFO  WRITE I2C DEFAULTS:

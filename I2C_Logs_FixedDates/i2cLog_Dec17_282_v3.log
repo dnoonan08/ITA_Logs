@@ -1,0 +1,1080 @@
+2021-12-17 13:32:38.010000 INFO  PULSE IS COMING:
+2021-12-17 13:32:49.021000 INFO  CHECK I2C STATUS:
+2021-12-17 13:32:49.022000 INFO     Took 0.0 seconds
+2021-12-17 13:32:49.901000 INFO       CH_ALIGNER_0_snapshot 0xa5511de64cc55a9fdd740c382d090f36
+2021-12-17 13:32:49.902000 INFO       CH_ALIGNER_1_snapshot 0xa5511de64cc55a9fdd740c382d090f36
+2021-12-17 13:32:49.902000 INFO       CH_ALIGNER_2_snapshot 0xa5511de64cc55a9fdd740c382d090f36
+2021-12-17 13:32:49.903000 INFO       CH_ALIGNER_3_snapshot 0xa5511de64cc55a9fdd740c382d090f36
+2021-12-17 13:32:49.903000 INFO       CH_ALIGNER_4_snapshot 0xa5511de64cc55a9fdd740c382d090f36
+2021-12-17 13:32:49.903000 INFO       CH_ALIGNER_5_snapshot 0xa5511de64cc55a9fdd740c382d090f36
+2021-12-17 13:32:49.904000 INFO       CH_ALIGNER_6_snapshot 0xa5511de64cc55a9fdd740c382d090f36
+2021-12-17 13:32:49.904000 INFO       CH_ALIGNER_7_snapshot 0xa5511de64cc55a9fdd740c382d090f36
+2021-12-17 13:32:49.905000 INFO       CH_ALIGNER_8_snapshot 0xa5511de64cc55a9fdd740c382d090f36
+2021-12-17 13:32:49.905000 INFO       CH_ALIGNER_9_snapshot 0xa5511de64cc55a9fdd740c382d090f36
+2021-12-17 13:32:49.906000 INFO       CH_ALIGNER_10_snapshot 0xa5511de64cc55a9fdd740c382d090f36
+2021-12-17 13:32:49.906000 INFO       CH_ALIGNER_11_snapshot 0xa5511de64cc55a9fdd740c382d090f36
+2021-12-17 13:32:52.467000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 13:33:17.448000 INFO  Initial RO Status
+2021-12-17 13:33:17.451000 INFO  {'ALIGNER_ALL': {'status': 5, 'status_dbg_fc_cnt': 0, 'status_dbg_lreset_rcvd': 0, 'status_dbg_orbsyn_rcvd': 1, 'status_done': 1}, 'CH_ALIGNER_0INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 12, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 219743801786167771341138542107801751350, 'snapshot2': 3848162412939096455, 'status': 6, 'status_align_seu_err': 0, 'status_hdr_mm_err': 1, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_10INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 44, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 219743801786167771341138542107801751350, 'snapshot2': 3848162412939096455, 'status': 6, 'status_align_seu_err': 0, 'status_hdr_mm_err': 1, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_11INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 75, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 219743801786167771341138542107801751350, 'snapshot2': 3848162412939096455, 'status': 6, 'status_align_seu_err': 0, 'status_hdr_mm_err': 1, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_1INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 112, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 219743801786167771341138542107801751350, 'snapshot2': 3848162412939096455, 'status': 2, 'status_align_seu_err': 0, 'status_hdr_mm_err': 0, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_2INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 138, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 219743801786167771341138542107801751350, 'snapshot2': 3848162412939096455, 'status': 2, 'status_align_seu_err': 0, 'status_hdr_mm_err': 0, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_3INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 171, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 219743801786167771341138542107801751350, 'snapshot2': 3848162412939096455, 'status': 6, 'status_align_seu_err': 0, 'status_hdr_mm_err': 1, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_4INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 202, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 219743801786167771341138542107801751350, 'snapshot2': 3848162412939096455, 'status': 2, 'status_align_seu_err': 0, 'status_hdr_mm_err': 0, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_5INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 232, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 219743801786167771341138542107801751350, 'snapshot2': 3848162412939096455, 'status': 2, 'status_align_seu_err': 0, 'status_hdr_mm_err': 0, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_6INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 255, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 219743801786167771341138542107801751350, 'snapshot2': 3848162412939096455, 'status': 6, 'status_align_seu_err': 0, 'status_hdr_mm_err': 1, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_7INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 255, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 219743801786167771341138542107801751350, 'snapshot2': 3848162412939096455, 'status': 6, 'status_align_seu_err': 0, 'status_hdr_mm_err': 1, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_8INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 255, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 219743801786167771341138542107801751350, 'snapshot2': 3848162412939096455, 'status': 2, 'status_align_seu_err': 0, 'status_hdr_mm_err': 0, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_9INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 255, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 219743801786167771341138542107801751350, 'snapshot2': 3848162412939096455, 'status': 2, 'status_align_seu_err': 0, 'status_hdr_mm_err': 0, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_EPRXGRP_0INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 214, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 5}, 'CH_EPRXGRP_10INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 214, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 5}, 'CH_EPRXGRP_11INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 214, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 5}, 'CH_EPRXGRP_1INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 214, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 5}, 'CH_EPRXGRP_2INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 214, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 5}, 'CH_EPRXGRP_3INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 214, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 5}, 'CH_EPRXGRP_4INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 214, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 5}, 'CH_EPRXGRP_5INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 214, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 5}, 'CH_EPRXGRP_6INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 214, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 5}, 'CH_EPRXGRP_7INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 214, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 5}, 'CH_EPRXGRP_8INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 214, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 5}, 'CH_EPRXGRP_9INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 214, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 5}, 'CH_ERR_0INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 32, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 1, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_10INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 32, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 1, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_11INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 0, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 0, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_1INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 32, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 1, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_2INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 32, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 1, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_3INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 32, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 1, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_4INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 32, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 1, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_5INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 32, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 1, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_6INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 0, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 0, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_7INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 32, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 1, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_8INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 0, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 0, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_9INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 32, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 1, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'ERRTOP_ALL': {'err_dat_top': 8191, 'err_dat_top_err_dat_top': 8191, 'err_dat_top_err_out_top': 0, 'msk_dat_top': 0}, 'FCTRL_ALL': {'fc_error_count': 0, 'lock_count': 0, 'status': 4, 'status_command_rx_inverted': 0, 'status_fc_error': 0, 'status_locked': 1}, 'FMTBUF_ALL': {'buffer_out_err': 0}, 'MISC_ALL': {'misc_ro_0': 9, 'misc_ro_0_PUSM_state': 9}, 'MISC_ERR_CNT_DOUBLE': {'rw_ecc_err_in_re_cnt_double_algorithm': 0, 'rw_ecc_err_in_re_cnt_double_aligner': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_0': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_1': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_10': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_11': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_2': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_3': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_4': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_5': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_6': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_7': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_8': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_9': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_0': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_1': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_10': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_11': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_2': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_3': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_4': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_5': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_6': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_7': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_8': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_9': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_0': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_1': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_10': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_11': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_12': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_2': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_3': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_4': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_5': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_6': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_7': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_8': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_9': 0, 'rw_ecc_err_in_re_cnt_double_eprxgrp_top': 0, 'rw_ecc_err_in_re_cnt_double_err_top': 0, 'rw_ecc_err_in_re_cnt_double_erx': 0, 'rw_ecc_err_in_re_cnt_double_etx': 0, 'rw_ecc_err_in_re_cnt_double_fast_ctrl_decoder': 0, 'rw_ecc_err_in_re_cnt_double_formatter_buffer': 0, 'rw_ecc_err_in_re_cnt_double_misc': 0, 'rw_ecc_err_in_re_cnt_double_mux_fix_calib': 0, 'rw_ecc_err_in_re_cnt_double_pll': 0}, 'MISC_ERR_CNT_PARITY': {'rw_ecc_err_in_re_cnt_parity_algorithm': 0, 'rw_ecc_err_in_re_cnt_parity_aligner': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_0': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_1': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_10': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_11': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_2': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_3': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_4': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_5': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_6': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_7': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_8': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_9': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_0': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_1': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_10': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_11': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_2': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_3': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_4': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_5': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_6': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_7': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_8': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_9': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_0': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_1': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_10': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_11': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_12': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_2': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_3': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_4': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_5': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_6': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_7': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_8': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_9': 0, 'rw_ecc_err_in_re_cnt_parity_eprxgrp_top': 0, 'rw_ecc_err_in_re_cnt_parity_err_top': 0, 'rw_ecc_err_in_re_cnt_parity_erx': 0, 'rw_ecc_err_in_re_cnt_parity_etx': 0, 'rw_ecc_err_in_re_cnt_parity_fast_ctrl_decoder': 0, 'rw_ecc_err_in_re_cnt_parity_formatter_buffer': 0, 'rw_ecc_err_in_re_cnt_parity_misc': 0, 'rw_ecc_err_in_re_cnt_parity_mux_fix_calib': 0, 'rw_ecc_err_in_re_cnt_parity_pll': 0}, 'MISC_ERR_CNT_SINGLE': {'rw_ecc_err_in_re_cnt_single_algorithm': 0, 'rw_ecc_err_in_re_cnt_single_aligner': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_0': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_1': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_10': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_11': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_2': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_3': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_4': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_5': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_6': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_7': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_8': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_9': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_0': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_1': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_10': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_11': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_2': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_3': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_4': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_5': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_6': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_7': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_8': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_9': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_0': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_1': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_10': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_11': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_12': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_2': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_3': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_4': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_5': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_6': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_7': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_8': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_9': 0, 'rw_ecc_err_in_re_cnt_single_eprxgrp_top': 0, 'rw_ecc_err_in_re_cnt_single_err_top': 0, 'rw_ecc_err_in_re_cnt_single_erx': 0, 'rw_ecc_err_in_re_cnt_single_etx': 0, 'rw_ecc_err_in_re_cnt_single_fast_ctrl_decoder': 0, 'rw_ecc_err_in_re_cnt_single_formatter_buffer': 0, 'rw_ecc_err_in_re_cnt_single_misc': 0, 'rw_ecc_err_in_re_cnt_single_mux_fix_calib': 0, 'rw_ecc_err_in_re_cnt_single_pll': 0}, 'PLL_ALL': {'pll_read_bytes_2to0': 970782, 'pll_read_bytes_2to0_endCounterRefClk': 0, 'pll_read_bytes_2to0_endCounterVCO': 1, 'pll_read_bytes_2to0_lfInstLock': 1, 'pll_read_bytes_2to0_lfLocked': 1, 'pll_read_bytes_2to0_lfLossOfLockCount': 1, 'pll_read_bytes_2to0_lfState': 2, 'pll_read_bytes_2to0_ljCDRCapBankSearchActive': 1, 'pll_read_bytes_2to0_smLocked': 1, 'pll_read_bytes_2to0_smState': 11, 'pll_read_bytes_4to3': 8, 'pll_read_bytes_4to3_parallel_enable_intrA': 0, 'pll_read_bytes_4to3_parallel_enable_intrB': 0, 'pll_read_bytes_4to3_parallel_enable_intrC': 0, 'pll_read_bytes_4to3_pll_not_locked_timeout': 1}}
+2021-12-17 13:33:17.454000 INFO  Initial RW Status
+2021-12-17 13:33:17.457000 INFO  {'ALGO_DROPLSB': {'drop_lsb': 3}, 'ALGO_THRESHOLD_VAL': {'threshold_val_0': 4194303, 'threshold_val_1': 4194303, 'threshold_val_10': 4194303, 'threshold_val_11': 4194303, 'threshold_val_12': 4194303, 'threshold_val_13': 4194303, 'threshold_val_14': 4194303, 'threshold_val_15': 4194303, 'threshold_val_16': 4194303, 'threshold_val_17': 4194303, 'threshold_val_18': 4194303, 'threshold_val_19': 4194303, 'threshold_val_2': 4194303, 'threshold_val_20': 4194303, 'threshold_val_21': 4194303, 'threshold_val_22': 4194303, 'threshold_val_23': 4194303, 'threshold_val_24': 4194303, 'threshold_val_25': 4194303, 'threshold_val_26': 4194303, 'threshold_val_27': 4194303, 'threshold_val_28': 4194303, 'threshold_val_29': 4194303, 'threshold_val_3': 4194303, 'threshold_val_30': 4194303, 'threshold_val_31': 4194303, 'threshold_val_32': 4194303, 'threshold_val_33': 4194303, 'threshold_val_34': 4194303, 'threshold_val_35': 4194303, 'threshold_val_36': 4194303, 'threshold_val_37': 4194303, 'threshold_val_38': 4194303, 'threshold_val_39': 4194303, 'threshold_val_4': 4194303, 'threshold_val_40': 4194303, 'threshold_val_41': 4194303, 'threshold_val_42': 4194303, 'threshold_val_43': 4194303, 'threshold_val_44': 4194303, 'threshold_val_45': 4194303, 'threshold_val_46': 4194303, 'threshold_val_47': 4194303, 'threshold_val_5': 4194303, 'threshold_val_6': 4194303, 'threshold_val_7': 4194303, 'threshold_val_8': 4194303, 'threshold_val_9': 4194303}, 'ALIGNER_ALL': {'config': 3, 'config_dbg_fc_cnt_clr': 0, 'config_i2c_snapshot_en': 0, 'config_snapshot_arm': 1, 'config_snapshot_en': 1, 'idle_hdr': 10, 'idle_hdr_mask': 0, 'idle_hdr_val': 10, 'match_mask_val': 0, 'match_pattern_val': 11298630744610229452, 'orbsyn_cnt_load_val': 0, 'orbsyn_cnt_max_val': 3563, 'orbsyn_cnt_snapshot': 4, 'orbsyn_hdr': 9, 'orbsyn_hdr_mask': 0, 'orbsyn_hdr_val': 9}, 'AUTOENCODER_0INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_10INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_11INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_1INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_2INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_3INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_4INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_5INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_6INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_7INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_8INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_9INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'CH_ALIGNER_0INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_10INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_11INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_1INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_2INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_3INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_4INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_5INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_6INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_7INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_8INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_9INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_EPRXGRP_0INPUT_ALL': {'config': 40, 'config_dllResetReq': 0, 'config_phaseSelect': 5, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_10INPUT_ALL': {'config': 40, 'config_dllResetReq': 0, 'config_phaseSelect': 5, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_11INPUT_ALL': {'config': 40, 'config_dllResetReq': 0, 'config_phaseSelect': 5, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_1INPUT_ALL': {'config': 40, 'config_dllResetReq': 0, 'config_phaseSelect': 5, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_2INPUT_ALL': {'config': 40, 'config_dllResetReq': 0, 'config_phaseSelect': 5, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_3INPUT_ALL': {'config': 40, 'config_dllResetReq': 0, 'config_phaseSelect': 5, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_4INPUT_ALL': {'config': 40, 'config_dllResetReq': 0, 'config_phaseSelect': 5, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_5INPUT_ALL': {'config': 40, 'config_dllResetReq': 0, 'config_phaseSelect': 5, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_6INPUT_ALL': {'config': 40, 'config_dllResetReq': 0, 'config_phaseSelect': 5, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_7INPUT_ALL': {'config': 40, 'config_dllResetReq': 0, 'config_phaseSelect': 5, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_8INPUT_ALL': {'config': 40, 'config_dllResetReq': 0, 'config_phaseSelect': 5, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_9INPUT_ALL': {'config': 40, 'config_dllResetReq': 0, 'config_phaseSelect': 5, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'EPRXGRP_TOP_ALL': {'config': 42120, 'config_dataGatingEnable': 1, 'config_dllCoarseLockDetection': 0, 'config_dllConfirmCountSelect': 1, 'config_dllCurrentSet': 0, 'config_dllInitSMForceClockEnable': 0, 'config_dllLockThreshold': 2, 'config_dllReLockThreshold': 2, 'config_dllUnLockThreshold': 2, 'config_enableReInit': 0, 'config_trackMode': 0}, 'ERRTOP_ALL': {'config': 0, 'config_clr_on_read_top': 0, 'config_wren_err_top': 0, 'config_wren_msk_top': 0, 'err_wr_data': 1, 'wr_data_top': 0}, 'ERX_ALL': {'config_ch_0': 5, 'config_ch_0_ch_equalizer': 0, 'config_ch_0_enable': 1, 'config_ch_0_enable_termination': 1, 'config_ch_0_invert_data': 0, 'config_ch_0_set_common_mode': 0, 'config_ch_1': 5, 'config_ch_10': 5, 'config_ch_10_ch_equalizer': 0, 'config_ch_10_enable': 1, 'config_ch_10_enable_termination': 1, 'config_ch_10_invert_data': 0, 'config_ch_10_set_common_mode': 0, 'config_ch_11': 5, 'config_ch_11_ch_equalizer': 0, 'config_ch_11_enable': 1, 'config_ch_11_enable_termination': 1, 'config_ch_11_invert_data': 0, 'config_ch_11_set_common_mode': 0, 'config_ch_1_ch_equalizer': 0, 'config_ch_1_enable': 1, 'config_ch_1_enable_termination': 1, 'config_ch_1_invert_data': 0, 'config_ch_1_set_common_mode': 0, 'config_ch_2': 5, 'config_ch_2_ch_equalizer': 0, 'config_ch_2_enable': 1, 'config_ch_2_enable_termination': 1, 'config_ch_2_invert_data': 0, 'config_ch_2_set_common_mode': 0, 'config_ch_3': 5, 'config_ch_3_ch_equalizer': 0, 'config_ch_3_enable': 1, 'config_ch_3_enable_termination': 1, 'config_ch_3_invert_data': 0, 'config_ch_3_set_common_mode': 0, 'config_ch_4': 5, 'config_ch_4_ch_equalizer': 0, 'config_ch_4_enable': 1, 'config_ch_4_enable_termination': 1, 'config_ch_4_invert_data': 0, 'config_ch_4_set_common_mode': 0, 'config_ch_5': 5, 'config_ch_5_ch_equalizer': 0, 'config_ch_5_enable': 1, 'config_ch_5_enable_termination': 1, 'config_ch_5_invert_data': 0, 'config_ch_5_set_common_mode': 0, 'config_ch_6': 5, 'config_ch_6_ch_equalizer': 0, 'config_ch_6_enable': 1, 'config_ch_6_enable_termination': 1, 'config_ch_6_invert_data': 0, 'config_ch_6_set_common_mode': 0, 'config_ch_7': 5, 'config_ch_7_ch_equalizer': 0, 'config_ch_7_enable': 1, 'config_ch_7_enable_termination': 1, 'config_ch_7_invert_data': 0, 'config_ch_7_set_common_mode': 0, 'config_ch_8': 5, 'config_ch_8_ch_equalizer': 0, 'config_ch_8_enable': 1, 'config_ch_8_enable_termination': 1, 'config_ch_8_invert_data': 0, 'config_ch_8_set_common_mode': 0, 'config_ch_9': 5, 'config_ch_9_ch_equalizer': 0, 'config_ch_9_enable': 1, 'config_ch_9_enable_termination': 1, 'config_ch_9_invert_data': 0, 'config_ch_9_set_common_mode': 0, 'config_mux_0': 5, 'config_mux_0_ch_equalizer': 0, 'config_mux_0_enable': 1, 'config_mux_0_enable_termination': 1, 'config_mux_0_invert_data': 0, 'config_mux_0_set_common_mode': 0, 'config_mux_1': 5, 'config_mux_1_ch_equalizer': 0, 'config_mux_1_enable': 1, 'config_mux_1_enable_termination': 1, 'config_mux_1_invert_data': 0, 'config_mux_1_set_common_mode': 0, 'config_mux_2': 5, 'config_mux_2_ch_equalizer': 0, 'config_mux_2_enable': 1, 'config_mux_2_enable_termination': 1, 'config_mux_2_invert_data': 0, 'config_mux_2_set_common_mode': 0}, 'ETX_ALL': {'config_ch_0': 1542, 'config_ch_0_drive_strength': 3, 'config_ch_0_invert_data': 0, 'config_ch_0_pre_emphasis_mode': 0, 'config_ch_0_pre_emphasis_strength': 6, 'config_ch_0_pre_emphasis_width': 0, 'config_ch_1': 1542, 'config_ch_10': 1542, 'config_ch_10_drive_strength': 3, 'config_ch_10_invert_data': 0, 'config_ch_10_pre_emphasis_mode': 0, 'config_ch_10_pre_emphasis_strength': 6, 'config_ch_10_pre_emphasis_width': 0, 'config_ch_11': 1542, 'config_ch_11_drive_strength': 3, 'config_ch_11_invert_data': 0, 'config_ch_11_pre_emphasis_mode': 0, 'config_ch_11_pre_emphasis_strength': 6, 'config_ch_11_pre_emphasis_width': 0, 'config_ch_1_drive_strength': 3, 'config_ch_1_invert_data': 0, 'config_ch_1_pre_emphasis_mode': 0, 'config_ch_1_pre_emphasis_strength': 6, 'config_ch_1_pre_emphasis_width': 0, 'config_ch_2': 1542, 'config_ch_2_drive_strength': 3, 'config_ch_2_invert_data': 0, 'config_ch_2_pre_emphasis_mode': 0, 'config_ch_2_pre_emphasis_strength': 6, 'config_ch_2_pre_emphasis_width': 0, 'config_ch_3': 1542, 'config_ch_3_drive_strength': 3, 'config_ch_3_invert_data': 0, 'config_ch_3_pre_emphasis_mode': 0, 'config_ch_3_pre_emphasis_strength': 6, 'config_ch_3_pre_emphasis_width': 0, 'config_ch_4': 1542, 'config_ch_4_drive_strength': 3, 'config_ch_4_invert_data': 0, 'config_ch_4_pre_emphasis_mode': 0, 'config_ch_4_pre_emphasis_strength': 6, 'config_ch_4_pre_emphasis_width': 0, 'config_ch_5': 1542, 'config_ch_5_drive_strength': 3, 'config_ch_5_invert_data': 0, 'config_ch_5_pre_emphasis_mode': 0, 'config_ch_5_pre_emphasis_strength': 6, 'config_ch_5_pre_emphasis_width': 0, 'config_ch_6': 1542, 'config_ch_6_drive_strength': 3, 'config_ch_6_invert_data': 0, 'config_ch_6_pre_emphasis_mode': 0, 'config_ch_6_pre_emphasis_strength': 6, 'config_ch_6_pre_emphasis_width': 0, 'config_ch_7': 1542, 'config_ch_7_drive_strength': 3, 'config_ch_7_invert_data': 0, 'config_ch_7_pre_emphasis_mode': 0, 'config_ch_7_pre_emphasis_strength': 6, 'config_ch_7_pre_emphasis_width': 0, 'config_ch_8': 1542, 'config_ch_8_drive_strength': 3, 'config_ch_8_invert_data': 0, 'config_ch_8_pre_emphasis_mode': 0, 'config_ch_8_pre_emphasis_strength': 6, 'config_ch_8_pre_emphasis_width': 0, 'config_ch_9': 1542, 'config_ch_9_drive_strength': 3, 'config_ch_9_invert_data': 0, 'config_ch_9_pre_emphasis_mode': 0, 'config_ch_9_pre_emphasis_strength': 6, 'config_ch_9_pre_emphasis_width': 0, 'config_mux_0': 3085, 'config_mux_0_drive_strength': 3, 'config_mux_0_enable': 1, 'config_mux_0_invert_data': 0, 'config_mux_0_pre_emphasis_mode': 0, 'config_mux_0_pre_emphasis_strength': 6, 'config_mux_0_pre_emphasis_width': 0, 'config_mux_1': 3085, 'config_mux_1_drive_strength': 3, 'config_mux_1_enable': 1, 'config_mux_1_invert_data': 0, 'config_mux_1_pre_emphasis_mode': 0, 'config_mux_1_pre_emphasis_strength': 6, 'config_mux_1_pre_emphasis_width': 0, 'config_mux_2': 3085, 'config_mux_2_drive_strength': 3, 'config_mux_2_enable': 1, 'config_mux_2_invert_data': 0, 'config_mux_2_pre_emphasis_mode': 0, 'config_mux_2_pre_emphasis_strength': 6, 'config_mux_2_pre_emphasis_width': 0, 'config_mux_3': 3085, 'config_mux_3_drive_strength': 3, 'config_mux_3_enable': 1, 'config_mux_3_invert_data': 0, 'config_mux_3_pre_emphasis_mode': 0, 'config_mux_3_pre_emphasis_strength': 6, 'config_mux_3_pre_emphasis_width': 0}, 'FCTRL_ALL': {'config': 32, 'config_EdgeSel_T1': 0, 'config_PreL1AOffset': 0, 'config_force_fc_error': 0, 'config_invert_command_rx': 0, 'config_reset_b_fc_counters': 1}, 'FMTBUF_ALL': {'buff_t1': 338, 'buff_t2': 511, 'buff_t3': 25, 'config': 208, 'config_eporttx_numen': 13, 'config_stc_type': 0, 'config_use_sum': 0, 'mask_ae': 340282366920938463463374607431768211455, 'mask_ae2': 65535, 'tx_sync_word': 290}, 'MFC_ALGORITHM_SEL_DENSITY': {'algo': 8, 'algo_density': 1, 'algo_select': 0}, 'MFC_CAL_VAL': {'cal_0': 2048, 'cal_1': 2048, 'cal_10': 2048, 'cal_11': 2048, 'cal_12': 2048, 'cal_13': 2048, 'cal_14': 2048, 'cal_15': 2048, 'cal_16': 2048, 'cal_17': 2048, 'cal_18': 2048, 'cal_19': 2048, 'cal_2': 2048, 'cal_20': 2048, 'cal_21': 2048, 'cal_22': 2048, 'cal_23': 2048, 'cal_24': 2048, 'cal_25': 2048, 'cal_26': 2048, 'cal_27': 2048, 'cal_28': 2048, 'cal_29': 2048, 'cal_3': 2048, 'cal_30': 2048, 'cal_31': 2048, 'cal_32': 2048, 'cal_33': 2048, 'cal_34': 2048, 'cal_35': 2048, 'cal_36': 2048, 'cal_37': 2048, 'cal_38': 2048, 'cal_39': 2048, 'cal_4': 2048, 'cal_40': 2048, 'cal_41': 2048, 'cal_42': 2048, 'cal_43': 2048, 'cal_44': 2048, 'cal_45': 2048, 'cal_46': 2048, 'cal_47': 2048, 'cal_5': 2048, 'cal_6': 2048, 'cal_7': 2048, 'cal_8': 2048, 'cal_9': 2048}, 'MFC_MUX_SELECT': {'mux_select_0': 0, 'mux_select_1': 1, 'mux_select_10': 10, 'mux_select_11': 11, 'mux_select_12': 12, 'mux_select_13': 13, 'mux_select_14': 14, 'mux_select_15': 15, 'mux_select_16': 16, 'mux_select_17': 17, 'mux_select_18': 18, 'mux_select_19': 19, 'mux_select_2': 2, 'mux_select_20': 20, 'mux_select_21': 21, 'mux_select_22': 22, 'mux_select_23': 23, 'mux_select_24': 24, 'mux_select_25': 25, 'mux_select_26': 26, 'mux_select_27': 27, 'mux_select_28': 28, 'mux_select_29': 29, 'mux_select_3': 3, 'mux_select_30': 30, 'mux_select_31': 31, 'mux_select_32': 32, 'mux_select_33': 33, 'mux_select_34': 34, 'mux_select_35': 35, 'mux_select_36': 36, 'mux_select_37': 37, 'mux_select_38': 38, 'mux_select_39': 39, 'mux_select_4': 4, 'mux_select_40': 40, 'mux_select_41': 41, 'mux_select_42': 42, 'mux_select_43': 43, 'mux_select_44': 44, 'mux_select_45': 45, 'mux_select_46': 46, 'mux_select_47': 47, 'mux_select_5': 5, 'mux_select_6': 6, 'mux_select_7': 7, 'mux_select_8': 8, 'mux_select_9': 9}, 'MISC_ALL': {'misc_rw_0': 2, 'misc_rw_0_run': 1, 'misc_rw_0_rw_ecc_err_clr': 0}, 'PLL_ALL': {'pll_bytes_12to9': 877987157, 'pll_bytes_12to9_fromMemToLJCDR_CONFIG_FF_CAP_WL': 3, 'pll_bytes_12to9_fromMemToLJCDR_CONFIG_I_PLL_WL': 5, 'pll_bytes_12to9_fromMemToLJCDR_CONFIG_P_PLL_WL': 5, 'pll_bytes_12to9_fromMemToLJCDR_PLL_R_CONFIG_WL': 4, 'pll_bytes_17to13': 216641586520, 'pll_bytes_17to13_VCObypass': 0, 'pll_bytes_17to13_fromMemToLJCDR_BIASGEN_CONFIG': 8, 'pll_bytes_17to13_fromMemToLJCDR_CBOvcoCapSelect': 100, 'pll_bytes_17to13_fromMemToLJCDR_CONFIG_I_PLL': 5, 'pll_bytes_17to13_fromMemToLJCDR_CONFIG_P_PLL': 5, 'pll_bytes_17to13_fromMemToLJCDR_COconnectCDR': 0, 'pll_bytes_17to13_fromMemToLJCDR_COconnectPLL': 1, 'pll_bytes_17to13_fromMemToLJCDR_COenablePLL': 1, 'pll_bytes_17to13_fromMemToLJCDR_COoverrideVc': 0, 'pll_bytes_17to13_fromMemToLJCDR_COrefClkSel': 1, 'pll_bytes_17to13_fromMemToLJCDR_PLL_R_CONFIG': 4, 'pll_bytes_17to13_fromMemToLJCDR_vcoDAC': 8, 'pll_bytes_17to13_fromMemToLJCDR_vcoRailMode': 1, 'pll_bytes_1to0': 3584, 'pll_bytes_1to0_clktreeAdisable': 0, 'pll_bytes_1to0_clktreeBdisable': 0, 'pll_bytes_1to0_clktreeCdisable': 0, 'pll_bytes_1to0_enableDes': 1, 'pll_bytes_1to0_enableSer': 0, 'pll_bytes_21to18': 159959176, 'pll_bytes_21to18_fromFrameAligner_FrameAlignerIsLocked': 0, 'pll_bytes_21to18_fromMemToLJCDR_disableFrameAlignerLockControl': 0, 'pll_bytes_21to18_fromMemToLJCDR_enableCapBankOverride': 1, 'pll_bytes_21to18_fromMemToLJCDR_enableControlOverride': 0, 'pll_bytes_21to18_fromMemToLJCDR_lfEnable': 1, 'pll_bytes_21to18_fromMemToLJCDR_lfLockThrCounter': 8, 'pll_bytes_21to18_fromMemToLJCDR_lfReLockThrCounter': 8, 'pll_bytes_21to18_fromMemToLJCDR_lfUnLockThrCounter': 8, 'pll_bytes_21to18_fromMemToLJCDR_selEndOfCount': 12, 'pll_bytes_21to18_fromMemToLJCDR_waitCDRTime': 8, 'pll_bytes_21to18_fromMemToLJCDR_waitPLLTime': 8, 'pll_bytes_21to18_mode': 0, 'pll_bytes_21to18_rxLockMode': 0, 'pll_bytes_24to22': 3584, 'pll_bytes_24to22_phase_of_enable_1G28': 0, 'pll_bytes_24to22_toclkgen_disCLK': 0, 'pll_bytes_24to22_toclkgen_disDES': 0, 'pll_bytes_24to22_toclkgen_disEOM': 0, 'pll_bytes_24to22_toclkgen_disEXT': 1, 'pll_bytes_24to22_toclkgen_disSER': 0, 'pll_bytes_24to22_toclkgen_disVCO': 0, 'pll_bytes_26to25': 32776, 'pll_bytes_26to25_output_clk_sel': 0, 'pll_bytes_26to25_refClk_enableRx': 1, 'pll_bytes_26to25_refClk_enableTermination': 0, 'pll_bytes_26to25_refClk_setCommonMode': 0, 'pll_bytes_26to25_ref_clk_sel': 1, 'pll_bytes_26to25_tofbDiv_skip': 0, 'pll_bytes_27': 0, 'pll_bytes_27_reset_eTx_par_enable_intr': 0, 'pll_bytes_27_reset_pll_not_locked_intr': 0, 'pll_bytes_4to2': 16777215, 'pll_bytes_4to2_clk160Menable': 1, 'pll_bytes_4to2_clk1G28enable': 1, 'pll_bytes_4to2_clk2G56enable': 1, 'pll_bytes_4to2_clk320Menable': 1, 'pll_bytes_4to2_clk40Menable': 1, 'pll_bytes_4to2_clk640Menable': 1, 'pll_bytes_4to2_clk80Menable': 1, 'pll_bytes_4to2_enablePhaseShifter': 1, 'pll_bytes_8to5': 1039837870, 'pll_bytes_8to5_fromMemToLJCDR_COdisDataCounterRef': 1, 'pll_bytes_8to5_fromMemToLJCDR_COenableCDR': 0, 'pll_bytes_8to5_fromMemToLJCDR_COenableFD': 0}}
+2021-12-17 13:33:17.460000 INFO     Took 24.99 seconds
+2021-12-17 13:33:38.481000 INFO  PULSE IS COMING:
+2021-12-17 13:33:39.483000 INFO  PULSE IS COMING:
+2021-12-17 13:33:49.494000 INFO  CHECK I2C STATUS:
+2021-12-17 13:33:56.171000 INFO  RW Matches
+2021-12-17 13:34:01.549000 INFO  RO Matches
+2021-12-17 13:34:01.550000 INFO     Took 12.06 seconds
+2021-12-17 13:34:02.427000 INFO       CH_ALIGNER_0_snapshot 0xd13c3688cb733b2ad1aff5e053c4089
+2021-12-17 13:34:02.428000 INFO       CH_ALIGNER_1_snapshot 0xd13e3688cb713b2ad1aff5e051e6089
+2021-12-17 13:34:02.429000 INFO       CH_ALIGNER_2_snapshot 0xd13c3688cb733b2ad1aff5e053c4089
+2021-12-17 13:34:02.429000 INFO       CH_ALIGNER_3_snapshot 0xd13c3688cb733b2ad1aff5e053c4089
+2021-12-17 13:34:02.430000 INFO       CH_ALIGNER_4_snapshot 0xd13c3688cb733b2ad1aff5e053c4089
+2021-12-17 13:34:02.431000 INFO       CH_ALIGNER_5_snapshot 0xd13c3688cb733b2ad1aff7e053c4089
+2021-12-17 13:34:02.431000 INFO       CH_ALIGNER_6_snapshot 0xd11c3688cb733b2ad1afffe053c4089
+2021-12-17 13:34:02.432000 INFO       CH_ALIGNER_7_snapshot 0xd13c3688cb733b2ad1aff5e053c4089
+2021-12-17 13:34:02.432000 INFO       CH_ALIGNER_8_snapshot 0xd13c3688cb733b2ad1aff5e053c4089
+2021-12-17 13:34:02.433000 INFO       CH_ALIGNER_9_snapshot 0xd13c3688cb733b2ad1aff5e053c4089
+2021-12-17 13:34:02.433000 INFO       CH_ALIGNER_10_snapshot 0xd13c3688cb733b2ad1aff5e053c4089
+2021-12-17 13:34:02.434000 INFO       CH_ALIGNER_11_snapshot 0xd13c3688cb733b2ad1aff5e053c4089
+2021-12-17 13:34:04.994000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 13:34:29.944000 INFO     Took 24.95 seconds
+2021-12-17 13:34:38.954000 INFO  PULSE IS COMING:
+2021-12-17 13:34:39.956000 INFO  PULSE IS COMING:
+2021-12-17 13:34:49.967000 INFO  CHECK I2C STATUS:
+2021-12-17 13:34:56.607000 INFO  RW Matches
+2021-12-17 13:35:02.043000 INFO  RO Matches
+2021-12-17 13:35:02.044000 INFO     Took 12.08 seconds
+2021-12-17 13:35:02.922000 INFO       CH_ALIGNER_0_snapshot 0xe7e01f981e7c1c7e1f961ef9dff3c9f8
+2021-12-17 13:35:02.923000 INFO       CH_ALIGNER_1_snapshot 0xb2a41ad85e6d1c6e4a965b75dab3cda8
+2021-12-17 13:35:02.923000 INFO       CH_ALIGNER_2_snapshot 0x656835b0bcfa38fc950eb6ebb5679b71
+2021-12-17 13:35:02.924000 INFO       CH_ALIGNER_3_snapshot 0x656815b0bcfa18fe950e96ebb5679b71
+2021-12-17 13:35:02.924000 INFO       CH_ALIGNER_4_snapshot 0x656815b0bcfa18fe950e96ebb577db71
+2021-12-17 13:35:02.925000 INFO       CH_ALIGNER_5_snapshot 0xe76835b0bcde38dcd52cb6efbf679bf9
+2021-12-17 13:35:02.925000 INFO       CH_ALIGNER_6_snapshot 0xf72411d81eed18eec0165fffdfb3ddf8
+2021-12-17 13:35:02.926000 INFO       CH_ALIGNER_7_snapshot 0x654835b0bcda38dc952cb6ebb5679b51
+2021-12-17 13:35:02.926000 INFO       CH_ALIGNER_8_snapshot 0x656835b0bcfa38fe952eb6ebb577db79
+2021-12-17 13:35:02.927000 INFO       CH_ALIGNER_9_snapshot 0x654835b0bcda38dc952cb6ebb5679b51
+2021-12-17 13:35:02.927000 INFO       CH_ALIGNER_10_snapshot 0x654835b0bcda38dc952eb6ebb5679b51
+2021-12-17 13:35:02.927000 INFO       CH_ALIGNER_11_snapshot 0x654835b0bcda38dc952cb6ebb5679b51
+2021-12-17 13:35:05.487000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 13:35:30.445000 INFO     Took 24.96 seconds
+2021-12-17 13:35:40.457000 INFO  PULSE IS COMING:
+2021-12-17 13:35:41.459000 INFO  PULSE IS COMING:
+2021-12-17 13:35:51.469000 INFO  CHECK I2C STATUS:
+2021-12-17 13:35:58.139000 INFO  RW Matches
+2021-12-17 13:36:03.532000 INFO  RO Matches
+2021-12-17 13:36:03.534000 INFO     Took 12.06 seconds
+2021-12-17 13:36:04.410000 INFO       CH_ALIGNER_0_snapshot 0xd69a2b5ecfbea18bd67189e951e76b9
+2021-12-17 13:36:04.411000 INFO       CH_ALIGNER_1_snapshot 0x87a4c09fe6fde01c1fe39c1f1f9e3e9c
+2021-12-17 13:36:04.411000 INFO       CH_ALIGNER_2_snapshot 0xd49a2b5ccfbca18bd45389e953476b9
+2021-12-17 13:36:04.412000 INFO       CH_ALIGNER_3_snapshot 0xd49a2b5ccfbca18bd45389e953476b9
+2021-12-17 13:36:04.412000 INFO       CH_ALIGNER_4_snapshot 0xd49a2b5ccfbca18bd45389e953476b9
+2021-12-17 13:36:04.413000 INFO       CH_ALIGNER_5_snapshot 0xd49a2b5ccfbca18bd45389e953476b9
+2021-12-17 13:36:04.413000 INFO       CH_ALIGNER_6_snapshot 0x8d6882b5ecffee189de4188ed51077b9
+2021-12-17 13:36:04.414000 INFO       CH_ALIGNER_7_snapshot 0xd49a2b5ccfbca18bd45389e953476b9
+2021-12-17 13:36:04.414000 INFO       CH_ALIGNER_8_snapshot 0xd49a2b5ccfbca18bd45389e953476b9
+2021-12-17 13:36:04.414000 INFO       CH_ALIGNER_9_snapshot 0xd49a2b5ccfbca18bd45389e953476b9
+2021-12-17 13:36:04.415000 INFO       CH_ALIGNER_10_snapshot 0xd49a2b5ccfbca18bd45389e953476b9
+2021-12-17 13:36:04.415000 INFO       CH_ALIGNER_11_snapshot 0xd49a2b5ccfbca18bd45389e953476b9
+2021-12-17 13:36:06.976000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 13:36:31.965000 INFO     Took 24.99 seconds
+2021-12-17 13:36:40.976000 INFO  PULSE IS COMING:
+2021-12-17 13:36:41.978000 INFO  PULSE IS COMING:
+2021-12-17 13:36:51.989000 INFO  CHECK I2C STATUS:
+2021-12-17 13:36:58.630000 INFO  RW Matches
+2021-12-17 13:37:04.007000 INFO  RO Matches
+2021-12-17 13:37:04.008000 INFO     Took 12.02 seconds
+2021-12-17 13:37:04.886000 INFO       CH_ALIGNER_0_snapshot 0xd6cc26a8cd7f2f02d600e4c055a8ddf
+2021-12-17 13:37:04.886000 INFO       CH_ALIGNER_1_snapshot 0xf6e60688efff8f80f70066e05fc07ff
+2021-12-17 13:37:04.887000 INFO       CH_ALIGNER_2_snapshot 0xd6cc26a8cd7f2f02d620e4c255a8ddf
+2021-12-17 13:37:04.887000 INFO       CH_ALIGNER_3_snapshot 0xd6cc26a8cd7f2f02d620e4c255a8ddf
+2021-12-17 13:37:04.888000 INFO       CH_ALIGNER_4_snapshot 0xd6cc26a8cd7f2f02d620e4c255a8ddf
+2021-12-17 13:37:04.888000 INFO       CH_ALIGNER_5_snapshot 0xd6cc26a8cd7f2f02d620e4c255a8ddf
+2021-12-17 13:37:04.889000 INFO       CH_ALIGNER_6_snapshot 0x56ee26a8cd7faf00d62066c015a8dff
+2021-12-17 13:37:04.889000 INFO       CH_ALIGNER_7_snapshot 0xd6cc26a8cd7f2f02d620e4c255a8ddf
+2021-12-17 13:37:04.890000 INFO       CH_ALIGNER_8_snapshot 0xd6cc26a8cd7f2f02d620e4c255a8ddf
+2021-12-17 13:37:04.890000 INFO       CH_ALIGNER_9_snapshot 0xd6cc26a8cd7f2f02d620e4c255a8ddf
+2021-12-17 13:37:04.891000 INFO       CH_ALIGNER_10_snapshot 0xd6cc26a8cd7f2f02d620e4c255a8ddf
+2021-12-17 13:37:04.891000 INFO       CH_ALIGNER_11_snapshot 0xd6cc26a8cd7f2f02d620e4c255a8ddf
+2021-12-17 13:37:07.451000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 13:37:32.451000 INFO     Took 25.0 seconds
+2021-12-17 13:40:24.070000 INFO  PULSE IS COMING:
+2021-12-17 13:40:25.072000 INFO  PULSE IS COMING:
+2021-12-17 13:40:35.083000 INFO  CHECK I2C STATUS:
+2021-12-17 13:40:35.084000 INFO     Took 0.0 seconds
+2021-12-17 13:40:35.964000 INFO       CH_ALIGNER_0_snapshot 0x556cff6a04b7c0b0853a309ca534bcbb
+2021-12-17 13:40:35.965000 INFO       CH_ALIGNER_1_snapshot 0x556cff6a04b7c0b0853a309ca534bcbb
+2021-12-17 13:40:35.966000 INFO       CH_ALIGNER_2_snapshot 0x556cff6a04b7c0b0853a309ca534bcbb
+2021-12-17 13:40:35.966000 INFO       CH_ALIGNER_3_snapshot 0x556cff6a04b7c0b0853a309ca534bcbb
+2021-12-17 13:40:35.967000 INFO       CH_ALIGNER_4_snapshot 0x556cff6a04b7c0b0853a309ca534bcbb
+2021-12-17 13:40:35.967000 INFO       CH_ALIGNER_5_snapshot 0x556cff6a04b7c0b0853a309ca534bcbb
+2021-12-17 13:40:35.968000 INFO       CH_ALIGNER_6_snapshot 0x556cff6a04b7c0b0853a309ca534bcbb
+2021-12-17 13:40:35.969000 INFO       CH_ALIGNER_7_snapshot 0x556cff6a04b7c0b0853a309ca534bcbb
+2021-12-17 13:40:35.969000 INFO       CH_ALIGNER_8_snapshot 0x556cff6a04b7c0b0853a309ca534bcbb
+2021-12-17 13:40:35.970000 INFO       CH_ALIGNER_9_snapshot 0x556cff6a04b7c0b0853a309ca534bcbb
+2021-12-17 13:40:35.970000 INFO       CH_ALIGNER_10_snapshot 0x556cff6a04b7c0b0853a309ca534bcbb
+2021-12-17 13:40:35.971000 INFO       CH_ALIGNER_11_snapshot 0x556cff6a04b7c0b0853a309ca534bcbb
+2021-12-17 13:40:38.532000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 13:41:03.532000 INFO  Initial RO Status
+2021-12-17 13:41:03.534000 INFO  {'ALIGNER_ALL': {'status': 5, 'status_dbg_fc_cnt': 0, 'status_dbg_lreset_rcvd': 0, 'status_dbg_orbsyn_rcvd': 1, 'status_done': 1}, 'CH_ALIGNER_0INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 9, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 113550328116533851683549349555792559291, 'snapshot2': 10187936543496890077, 'status': 6, 'status_align_seu_err': 0, 'status_hdr_mm_err': 1, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_10INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 45, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 113550328116533851683549349555792559291, 'snapshot2': 10187936543496890077, 'status': 6, 'status_align_seu_err': 0, 'status_hdr_mm_err': 1, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_11INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 78, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 113550328116533851683549349555792559291, 'snapshot2': 10187936543496890077, 'status': 2, 'status_align_seu_err': 0, 'status_hdr_mm_err': 0, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_1INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 109, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 113550328116533851683549349555792559291, 'snapshot2': 10187936543496890077, 'status': 6, 'status_align_seu_err': 0, 'status_hdr_mm_err': 1, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_2INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 141, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 113550328116533851683549349555792559291, 'snapshot2': 10187936543496890077, 'status': 6, 'status_align_seu_err': 0, 'status_hdr_mm_err': 1, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_3INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 175, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 113550328116533851683549349555792559291, 'snapshot2': 10187936543496890077, 'status': 6, 'status_align_seu_err': 0, 'status_hdr_mm_err': 1, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_4INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 207, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 113550328116533851683549349555792559291, 'snapshot2': 10187936543496890077, 'status': 6, 'status_align_seu_err': 0, 'status_hdr_mm_err': 1, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_5INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 236, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 113550328116533851683549349555792559291, 'snapshot2': 10187936543496890077, 'status': 2, 'status_align_seu_err': 0, 'status_hdr_mm_err': 0, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_6INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 255, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 113550328116533851683549349555792559291, 'snapshot2': 10187936543496890077, 'status': 6, 'status_align_seu_err': 0, 'status_hdr_mm_err': 1, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_7INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 255, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 113550328116533851683549349555792559291, 'snapshot2': 10187936543496890077, 'status': 6, 'status_align_seu_err': 0, 'status_hdr_mm_err': 1, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_8INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 255, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 113550328116533851683549349555792559291, 'snapshot2': 10187936543496890077, 'status': 2, 'status_align_seu_err': 0, 'status_hdr_mm_err': 0, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_ALIGNER_9INPUT_ALL': {'hdr_mm_cntr': 65535, 'orbsyn_arr_err_cnt': 255, 'orbsyn_fc_err_cnt': 0, 'orbsyn_hdr_err_cnt': 255, 'prbs_chk_err_cnt': 0, 'select': 32, 'snapshot': 113550328116533851683549349555792559291, 'snapshot2': 10187936543496890077, 'status': 2, 'status_align_seu_err': 0, 'status_hdr_mm_err': 0, 'status_orbsyn_arr_err': 0, 'status_orbsyn_fc_err': 0, 'status_orbsyn_hdr_err': 0, 'status_pattern_match': 0, 'status_prbs_chk_err': 0, 'status_snapshot_dv': 1}, 'CH_EPRXGRP_0INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 214, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 5}, 'CH_EPRXGRP_10INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 214, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 5}, 'CH_EPRXGRP_11INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 214, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 5}, 'CH_EPRXGRP_1INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 214, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 5}, 'CH_EPRXGRP_2INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 214, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 5}, 'CH_EPRXGRP_3INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 214, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 5}, 'CH_EPRXGRP_4INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 214, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 5}, 'CH_EPRXGRP_5INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 214, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 5}, 'CH_EPRXGRP_6INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 214, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 5}, 'CH_EPRXGRP_7INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 214, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 5}, 'CH_EPRXGRP_8INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 214, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 5}, 'CH_EPRXGRP_9INPUT_ALL': {'dllstatus': 5, 'dllstatus_dllLockFilterState': 2, 'dllstatus_dllLocked': 1, 'dllstatus_dllLossOfLockCount': 0, 'status': 214, 'status_channelLocked': 1, 'status_dllInstantLock': 1, 'status_dllState': 2, 'status_phaseSelect': 5}, 'CH_ERR_0INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 0, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 0, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_10INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 0, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 0, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_11INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 0, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 0, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_1INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 32, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 1, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_2INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 32, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 1, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_3INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 0, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 0, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_4INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 32, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 1, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_5INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 0, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 0, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_6INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 0, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 0, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_7INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 32, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 1, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_8INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 0, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 0, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'CH_ERR_9INPUT_ALL': {'error_data': 104, 'error_data_err_dat': 40, 'error_data_err_out': 1, 'error_mask': 0, 'error_mask_msk_dat': 0, 'raw_error': 32, 'raw_error_align_seu_err': 0, 'raw_error_err_raw_dat': 0, 'raw_error_hdr_mm_err': 1, 'raw_error_orbsyn_arr_err': 0, 'raw_error_orbsyn_fc_err': 0, 'raw_error_orbsyn_hdr_err': 0, 'raw_error_prbs_chk_err': 0}, 'ERRTOP_ALL': {'err_dat_top': 8191, 'err_dat_top_err_dat_top': 8191, 'err_dat_top_err_out_top': 0, 'msk_dat_top': 0}, 'FCTRL_ALL': {'fc_error_count': 0, 'lock_count': 0, 'status': 4, 'status_command_rx_inverted': 0, 'status_fc_error': 0, 'status_locked': 1}, 'FMTBUF_ALL': {'buffer_out_err': 0}, 'MISC_ALL': {'misc_ro_0': 9, 'misc_ro_0_PUSM_state': 9}, 'MISC_ERR_CNT_DOUBLE': {'rw_ecc_err_in_re_cnt_double_algorithm': 0, 'rw_ecc_err_in_re_cnt_double_aligner': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_0': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_1': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_10': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_11': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_2': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_3': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_4': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_5': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_6': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_7': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_8': 0, 'rw_ecc_err_in_re_cnt_double_chan_aligner_9': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_0': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_1': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_10': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_11': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_2': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_3': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_4': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_5': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_6': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_7': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_8': 0, 'rw_ecc_err_in_re_cnt_double_chan_eprxgrp_9': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_0': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_1': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_10': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_11': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_12': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_2': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_3': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_4': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_5': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_6': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_7': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_8': 0, 'rw_ecc_err_in_re_cnt_double_chan_err_9': 0, 'rw_ecc_err_in_re_cnt_double_eprxgrp_top': 0, 'rw_ecc_err_in_re_cnt_double_err_top': 0, 'rw_ecc_err_in_re_cnt_double_erx': 0, 'rw_ecc_err_in_re_cnt_double_etx': 0, 'rw_ecc_err_in_re_cnt_double_fast_ctrl_decoder': 0, 'rw_ecc_err_in_re_cnt_double_formatter_buffer': 0, 'rw_ecc_err_in_re_cnt_double_misc': 0, 'rw_ecc_err_in_re_cnt_double_mux_fix_calib': 0, 'rw_ecc_err_in_re_cnt_double_pll': 0}, 'MISC_ERR_CNT_PARITY': {'rw_ecc_err_in_re_cnt_parity_algorithm': 0, 'rw_ecc_err_in_re_cnt_parity_aligner': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_0': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_1': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_10': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_11': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_2': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_3': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_4': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_5': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_6': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_7': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_8': 0, 'rw_ecc_err_in_re_cnt_parity_chan_aligner_9': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_0': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_1': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_10': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_11': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_2': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_3': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_4': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_5': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_6': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_7': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_8': 0, 'rw_ecc_err_in_re_cnt_parity_chan_eprxgrp_9': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_0': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_1': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_10': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_11': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_12': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_2': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_3': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_4': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_5': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_6': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_7': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_8': 0, 'rw_ecc_err_in_re_cnt_parity_chan_err_9': 0, 'rw_ecc_err_in_re_cnt_parity_eprxgrp_top': 0, 'rw_ecc_err_in_re_cnt_parity_err_top': 0, 'rw_ecc_err_in_re_cnt_parity_erx': 0, 'rw_ecc_err_in_re_cnt_parity_etx': 0, 'rw_ecc_err_in_re_cnt_parity_fast_ctrl_decoder': 0, 'rw_ecc_err_in_re_cnt_parity_formatter_buffer': 0, 'rw_ecc_err_in_re_cnt_parity_misc': 0, 'rw_ecc_err_in_re_cnt_parity_mux_fix_calib': 0, 'rw_ecc_err_in_re_cnt_parity_pll': 0}, 'MISC_ERR_CNT_SINGLE': {'rw_ecc_err_in_re_cnt_single_algorithm': 0, 'rw_ecc_err_in_re_cnt_single_aligner': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_0': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_1': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_10': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_11': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_2': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_3': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_4': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_5': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_6': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_7': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_8': 0, 'rw_ecc_err_in_re_cnt_single_chan_aligner_9': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_0': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_1': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_10': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_11': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_2': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_3': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_4': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_5': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_6': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_7': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_8': 0, 'rw_ecc_err_in_re_cnt_single_chan_eprxgrp_9': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_0': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_1': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_10': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_11': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_12': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_2': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_3': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_4': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_5': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_6': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_7': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_8': 0, 'rw_ecc_err_in_re_cnt_single_chan_err_9': 0, 'rw_ecc_err_in_re_cnt_single_eprxgrp_top': 0, 'rw_ecc_err_in_re_cnt_single_err_top': 0, 'rw_ecc_err_in_re_cnt_single_erx': 0, 'rw_ecc_err_in_re_cnt_single_etx': 0, 'rw_ecc_err_in_re_cnt_single_fast_ctrl_decoder': 0, 'rw_ecc_err_in_re_cnt_single_formatter_buffer': 0, 'rw_ecc_err_in_re_cnt_single_misc': 0, 'rw_ecc_err_in_re_cnt_single_mux_fix_calib': 0, 'rw_ecc_err_in_re_cnt_single_pll': 0}, 'PLL_ALL': {'pll_read_bytes_2to0': 970782, 'pll_read_bytes_2to0_endCounterRefClk': 0, 'pll_read_bytes_2to0_endCounterVCO': 1, 'pll_read_bytes_2to0_lfInstLock': 1, 'pll_read_bytes_2to0_lfLocked': 1, 'pll_read_bytes_2to0_lfLossOfLockCount': 1, 'pll_read_bytes_2to0_lfState': 2, 'pll_read_bytes_2to0_ljCDRCapBankSearchActive': 1, 'pll_read_bytes_2to0_smLocked': 1, 'pll_read_bytes_2to0_smState': 11, 'pll_read_bytes_4to3': 14, 'pll_read_bytes_4to3_parallel_enable_intrA': 1, 'pll_read_bytes_4to3_parallel_enable_intrB': 1, 'pll_read_bytes_4to3_parallel_enable_intrC': 0, 'pll_read_bytes_4to3_pll_not_locked_timeout': 1}}
+2021-12-17 13:41:03.536000 INFO  Initial RW Status
+2021-12-17 13:41:03.538000 INFO  {'ALGO_DROPLSB': {'drop_lsb': 3}, 'ALGO_THRESHOLD_VAL': {'threshold_val_0': 4194303, 'threshold_val_1': 4194303, 'threshold_val_10': 4194303, 'threshold_val_11': 4194303, 'threshold_val_12': 4194303, 'threshold_val_13': 4194303, 'threshold_val_14': 4194303, 'threshold_val_15': 4194303, 'threshold_val_16': 4194303, 'threshold_val_17': 4194303, 'threshold_val_18': 4194303, 'threshold_val_19': 4194303, 'threshold_val_2': 4194303, 'threshold_val_20': 4194303, 'threshold_val_21': 4194303, 'threshold_val_22': 4194303, 'threshold_val_23': 4194303, 'threshold_val_24': 4194303, 'threshold_val_25': 4194303, 'threshold_val_26': 4194303, 'threshold_val_27': 4194303, 'threshold_val_28': 4194303, 'threshold_val_29': 4194303, 'threshold_val_3': 4194303, 'threshold_val_30': 4194303, 'threshold_val_31': 4194303, 'threshold_val_32': 4194303, 'threshold_val_33': 4194303, 'threshold_val_34': 4194303, 'threshold_val_35': 4194303, 'threshold_val_36': 4194303, 'threshold_val_37': 4194303, 'threshold_val_38': 4194303, 'threshold_val_39': 4194303, 'threshold_val_4': 4194303, 'threshold_val_40': 4194303, 'threshold_val_41': 4194303, 'threshold_val_42': 4194303, 'threshold_val_43': 4194303, 'threshold_val_44': 4194303, 'threshold_val_45': 4194303, 'threshold_val_46': 4194303, 'threshold_val_47': 4194303, 'threshold_val_5': 4194303, 'threshold_val_6': 4194303, 'threshold_val_7': 4194303, 'threshold_val_8': 4194303, 'threshold_val_9': 4194303}, 'ALIGNER_ALL': {'config': 3, 'config_dbg_fc_cnt_clr': 0, 'config_i2c_snapshot_en': 0, 'config_snapshot_arm': 1, 'config_snapshot_en': 1, 'idle_hdr': 10, 'idle_hdr_mask': 0, 'idle_hdr_val': 10, 'match_mask_val': 0, 'match_pattern_val': 11298630744610229452, 'orbsyn_cnt_load_val': 0, 'orbsyn_cnt_max_val': 3563, 'orbsyn_cnt_snapshot': 4, 'orbsyn_hdr': 9, 'orbsyn_hdr_mask': 0, 'orbsyn_hdr_val': 9}, 'AUTOENCODER_0INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_10INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_11INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_1INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_2INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_3INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_4INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_5INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_6INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_7INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_8INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'AUTOENCODER_9INPUT': {'weights_byte0': 0, 'weights_byte112': 113427455640312821154458202477256070485, 'weights_byte128': 0, 'weights_byte16': 0, 'weights_byte32': 340282366920938463463374607431768211455, 'weights_byte48': 340282366920938463463374607431768211455, 'weights_byte64': 272225893536750770770699685945414569164, 'weights_byte80': 272225893536750770770699685945414569164, 'weights_byte96': 226854911280625642308916404954512140970}, 'CH_ALIGNER_0INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_10INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_11INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_1INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_2INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_3INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_4INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_5INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_6INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_7INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_8INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_ALIGNER_9INPUT_ALL': {'config': 0, 'config_force_ch_outputs': 0, 'config_patt_en': 0, 'config_patt_sel': 0, 'config_per_ch_align_en': 0, 'config_prbs28_en': 0, 'config_prbs_chk_en': 0, 'config_sel_override_en': 0, 'seed_in': 0, 'sel_override_val': 0, 'user_word_0': 0, 'user_word_1': 0, 'user_word_2': 0, 'user_word_3': 0}, 'CH_EPRXGRP_0INPUT_ALL': {'config': 40, 'config_dllResetReq': 0, 'config_phaseSelect': 5, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_10INPUT_ALL': {'config': 40, 'config_dllResetReq': 0, 'config_phaseSelect': 5, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_11INPUT_ALL': {'config': 40, 'config_dllResetReq': 0, 'config_phaseSelect': 5, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_1INPUT_ALL': {'config': 40, 'config_dllResetReq': 0, 'config_phaseSelect': 5, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_2INPUT_ALL': {'config': 40, 'config_dllResetReq': 0, 'config_phaseSelect': 5, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_3INPUT_ALL': {'config': 40, 'config_dllResetReq': 0, 'config_phaseSelect': 5, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_4INPUT_ALL': {'config': 40, 'config_dllResetReq': 0, 'config_phaseSelect': 5, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_5INPUT_ALL': {'config': 40, 'config_dllResetReq': 0, 'config_phaseSelect': 5, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_6INPUT_ALL': {'config': 40, 'config_dllResetReq': 0, 'config_phaseSelect': 5, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_7INPUT_ALL': {'config': 40, 'config_dllResetReq': 0, 'config_phaseSelect': 5, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_8INPUT_ALL': {'config': 40, 'config_dllResetReq': 0, 'config_phaseSelect': 5, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'CH_EPRXGRP_9INPUT_ALL': {'config': 40, 'config_dllResetReq': 0, 'config_phaseSelect': 5, 'config_resetChannels': 0, 'config_trainChannel': 0}, 'EPRXGRP_TOP_ALL': {'config': 42120, 'config_dataGatingEnable': 1, 'config_dllCoarseLockDetection': 0, 'config_dllConfirmCountSelect': 1, 'config_dllCurrentSet': 0, 'config_dllInitSMForceClockEnable': 0, 'config_dllLockThreshold': 2, 'config_dllReLockThreshold': 2, 'config_dllUnLockThreshold': 2, 'config_enableReInit': 0, 'config_trackMode': 0}, 'ERRTOP_ALL': {'config': 0, 'config_clr_on_read_top': 0, 'config_wren_err_top': 0, 'config_wren_msk_top': 0, 'err_wr_data': 1, 'wr_data_top': 0}, 'ERX_ALL': {'config_ch_0': 5, 'config_ch_0_ch_equalizer': 0, 'config_ch_0_enable': 1, 'config_ch_0_enable_termination': 1, 'config_ch_0_invert_data': 0, 'config_ch_0_set_common_mode': 0, 'config_ch_1': 5, 'config_ch_10': 5, 'config_ch_10_ch_equalizer': 0, 'config_ch_10_enable': 1, 'config_ch_10_enable_termination': 1, 'config_ch_10_invert_data': 0, 'config_ch_10_set_common_mode': 0, 'config_ch_11': 5, 'config_ch_11_ch_equalizer': 0, 'config_ch_11_enable': 1, 'config_ch_11_enable_termination': 1, 'config_ch_11_invert_data': 0, 'config_ch_11_set_common_mode': 0, 'config_ch_1_ch_equalizer': 0, 'config_ch_1_enable': 1, 'config_ch_1_enable_termination': 1, 'config_ch_1_invert_data': 0, 'config_ch_1_set_common_mode': 0, 'config_ch_2': 5, 'config_ch_2_ch_equalizer': 0, 'config_ch_2_enable': 1, 'config_ch_2_enable_termination': 1, 'config_ch_2_invert_data': 0, 'config_ch_2_set_common_mode': 0, 'config_ch_3': 5, 'config_ch_3_ch_equalizer': 0, 'config_ch_3_enable': 1, 'config_ch_3_enable_termination': 1, 'config_ch_3_invert_data': 0, 'config_ch_3_set_common_mode': 0, 'config_ch_4': 5, 'config_ch_4_ch_equalizer': 0, 'config_ch_4_enable': 1, 'config_ch_4_enable_termination': 1, 'config_ch_4_invert_data': 0, 'config_ch_4_set_common_mode': 0, 'config_ch_5': 5, 'config_ch_5_ch_equalizer': 0, 'config_ch_5_enable': 1, 'config_ch_5_enable_termination': 1, 'config_ch_5_invert_data': 0, 'config_ch_5_set_common_mode': 0, 'config_ch_6': 5, 'config_ch_6_ch_equalizer': 0, 'config_ch_6_enable': 1, 'config_ch_6_enable_termination': 1, 'config_ch_6_invert_data': 0, 'config_ch_6_set_common_mode': 0, 'config_ch_7': 5, 'config_ch_7_ch_equalizer': 0, 'config_ch_7_enable': 1, 'config_ch_7_enable_termination': 1, 'config_ch_7_invert_data': 0, 'config_ch_7_set_common_mode': 0, 'config_ch_8': 5, 'config_ch_8_ch_equalizer': 0, 'config_ch_8_enable': 1, 'config_ch_8_enable_termination': 1, 'config_ch_8_invert_data': 0, 'config_ch_8_set_common_mode': 0, 'config_ch_9': 5, 'config_ch_9_ch_equalizer': 0, 'config_ch_9_enable': 1, 'config_ch_9_enable_termination': 1, 'config_ch_9_invert_data': 0, 'config_ch_9_set_common_mode': 0, 'config_mux_0': 5, 'config_mux_0_ch_equalizer': 0, 'config_mux_0_enable': 1, 'config_mux_0_enable_termination': 1, 'config_mux_0_invert_data': 0, 'config_mux_0_set_common_mode': 0, 'config_mux_1': 5, 'config_mux_1_ch_equalizer': 0, 'config_mux_1_enable': 1, 'config_mux_1_enable_termination': 1, 'config_mux_1_invert_data': 0, 'config_mux_1_set_common_mode': 0, 'config_mux_2': 5, 'config_mux_2_ch_equalizer': 0, 'config_mux_2_enable': 1, 'config_mux_2_enable_termination': 1, 'config_mux_2_invert_data': 0, 'config_mux_2_set_common_mode': 0}, 'ETX_ALL': {'config_ch_0': 1542, 'config_ch_0_drive_strength': 3, 'config_ch_0_invert_data': 0, 'config_ch_0_pre_emphasis_mode': 0, 'config_ch_0_pre_emphasis_strength': 6, 'config_ch_0_pre_emphasis_width': 0, 'config_ch_1': 1542, 'config_ch_10': 1542, 'config_ch_10_drive_strength': 3, 'config_ch_10_invert_data': 0, 'config_ch_10_pre_emphasis_mode': 0, 'config_ch_10_pre_emphasis_strength': 6, 'config_ch_10_pre_emphasis_width': 0, 'config_ch_11': 1542, 'config_ch_11_drive_strength': 3, 'config_ch_11_invert_data': 0, 'config_ch_11_pre_emphasis_mode': 0, 'config_ch_11_pre_emphasis_strength': 6, 'config_ch_11_pre_emphasis_width': 0, 'config_ch_1_drive_strength': 3, 'config_ch_1_invert_data': 0, 'config_ch_1_pre_emphasis_mode': 0, 'config_ch_1_pre_emphasis_strength': 6, 'config_ch_1_pre_emphasis_width': 0, 'config_ch_2': 1542, 'config_ch_2_drive_strength': 3, 'config_ch_2_invert_data': 0, 'config_ch_2_pre_emphasis_mode': 0, 'config_ch_2_pre_emphasis_strength': 6, 'config_ch_2_pre_emphasis_width': 0, 'config_ch_3': 1542, 'config_ch_3_drive_strength': 3, 'config_ch_3_invert_data': 0, 'config_ch_3_pre_emphasis_mode': 0, 'config_ch_3_pre_emphasis_strength': 6, 'config_ch_3_pre_emphasis_width': 0, 'config_ch_4': 1542, 'config_ch_4_drive_strength': 3, 'config_ch_4_invert_data': 0, 'config_ch_4_pre_emphasis_mode': 0, 'config_ch_4_pre_emphasis_strength': 6, 'config_ch_4_pre_emphasis_width': 0, 'config_ch_5': 1542, 'config_ch_5_drive_strength': 3, 'config_ch_5_invert_data': 0, 'config_ch_5_pre_emphasis_mode': 0, 'config_ch_5_pre_emphasis_strength': 6, 'config_ch_5_pre_emphasis_width': 0, 'config_ch_6': 1542, 'config_ch_6_drive_strength': 3, 'config_ch_6_invert_data': 0, 'config_ch_6_pre_emphasis_mode': 0, 'config_ch_6_pre_emphasis_strength': 6, 'config_ch_6_pre_emphasis_width': 0, 'config_ch_7': 1542, 'config_ch_7_drive_strength': 3, 'config_ch_7_invert_data': 0, 'config_ch_7_pre_emphasis_mode': 0, 'config_ch_7_pre_emphasis_strength': 6, 'config_ch_7_pre_emphasis_width': 0, 'config_ch_8': 1542, 'config_ch_8_drive_strength': 3, 'config_ch_8_invert_data': 0, 'config_ch_8_pre_emphasis_mode': 0, 'config_ch_8_pre_emphasis_strength': 6, 'config_ch_8_pre_emphasis_width': 0, 'config_ch_9': 1542, 'config_ch_9_drive_strength': 3, 'config_ch_9_invert_data': 0, 'config_ch_9_pre_emphasis_mode': 0, 'config_ch_9_pre_emphasis_strength': 6, 'config_ch_9_pre_emphasis_width': 0, 'config_mux_0': 3085, 'config_mux_0_drive_strength': 3, 'config_mux_0_enable': 1, 'config_mux_0_invert_data': 0, 'config_mux_0_pre_emphasis_mode': 0, 'config_mux_0_pre_emphasis_strength': 6, 'config_mux_0_pre_emphasis_width': 0, 'config_mux_1': 3085, 'config_mux_1_drive_strength': 3, 'config_mux_1_enable': 1, 'config_mux_1_invert_data': 0, 'config_mux_1_pre_emphasis_mode': 0, 'config_mux_1_pre_emphasis_strength': 6, 'config_mux_1_pre_emphasis_width': 0, 'config_mux_2': 3085, 'config_mux_2_drive_strength': 3, 'config_mux_2_enable': 1, 'config_mux_2_invert_data': 0, 'config_mux_2_pre_emphasis_mode': 0, 'config_mux_2_pre_emphasis_strength': 6, 'config_mux_2_pre_emphasis_width': 0, 'config_mux_3': 3085, 'config_mux_3_drive_strength': 3, 'config_mux_3_enable': 1, 'config_mux_3_invert_data': 0, 'config_mux_3_pre_emphasis_mode': 0, 'config_mux_3_pre_emphasis_strength': 6, 'config_mux_3_pre_emphasis_width': 0}, 'FCTRL_ALL': {'config': 32, 'config_EdgeSel_T1': 0, 'config_PreL1AOffset': 0, 'config_force_fc_error': 0, 'config_invert_command_rx': 0, 'config_reset_b_fc_counters': 1}, 'FMTBUF_ALL': {'buff_t1': 338, 'buff_t2': 511, 'buff_t3': 25, 'config': 208, 'config_eporttx_numen': 13, 'config_stc_type': 0, 'config_use_sum': 0, 'mask_ae': 340282366920938463463374607431768211455, 'mask_ae2': 65535, 'tx_sync_word': 290}, 'MFC_ALGORITHM_SEL_DENSITY': {'algo': 8, 'algo_density': 1, 'algo_select': 0}, 'MFC_CAL_VAL': {'cal_0': 2048, 'cal_1': 2048, 'cal_10': 2048, 'cal_11': 2048, 'cal_12': 2048, 'cal_13': 2048, 'cal_14': 2048, 'cal_15': 2048, 'cal_16': 2048, 'cal_17': 2048, 'cal_18': 2048, 'cal_19': 2048, 'cal_2': 2048, 'cal_20': 2048, 'cal_21': 2048, 'cal_22': 2048, 'cal_23': 2048, 'cal_24': 2048, 'cal_25': 2048, 'cal_26': 2048, 'cal_27': 2048, 'cal_28': 2048, 'cal_29': 2048, 'cal_3': 2048, 'cal_30': 2048, 'cal_31': 2048, 'cal_32': 2048, 'cal_33': 2048, 'cal_34': 2048, 'cal_35': 2048, 'cal_36': 2048, 'cal_37': 2048, 'cal_38': 2048, 'cal_39': 2048, 'cal_4': 2048, 'cal_40': 2048, 'cal_41': 2048, 'cal_42': 2048, 'cal_43': 2048, 'cal_44': 2048, 'cal_45': 2048, 'cal_46': 2048, 'cal_47': 2048, 'cal_5': 2048, 'cal_6': 2048, 'cal_7': 2048, 'cal_8': 2048, 'cal_9': 2048}, 'MFC_MUX_SELECT': {'mux_select_0': 0, 'mux_select_1': 1, 'mux_select_10': 10, 'mux_select_11': 11, 'mux_select_12': 12, 'mux_select_13': 13, 'mux_select_14': 14, 'mux_select_15': 15, 'mux_select_16': 16, 'mux_select_17': 17, 'mux_select_18': 18, 'mux_select_19': 19, 'mux_select_2': 2, 'mux_select_20': 20, 'mux_select_21': 21, 'mux_select_22': 22, 'mux_select_23': 23, 'mux_select_24': 24, 'mux_select_25': 25, 'mux_select_26': 26, 'mux_select_27': 27, 'mux_select_28': 28, 'mux_select_29': 29, 'mux_select_3': 3, 'mux_select_30': 30, 'mux_select_31': 31, 'mux_select_32': 32, 'mux_select_33': 33, 'mux_select_34': 34, 'mux_select_35': 35, 'mux_select_36': 36, 'mux_select_37': 37, 'mux_select_38': 38, 'mux_select_39': 39, 'mux_select_4': 4, 'mux_select_40': 40, 'mux_select_41': 41, 'mux_select_42': 42, 'mux_select_43': 43, 'mux_select_44': 44, 'mux_select_45': 45, 'mux_select_46': 46, 'mux_select_47': 47, 'mux_select_5': 5, 'mux_select_6': 6, 'mux_select_7': 7, 'mux_select_8': 8, 'mux_select_9': 9}, 'MISC_ALL': {'misc_rw_0': 2, 'misc_rw_0_run': 1, 'misc_rw_0_rw_ecc_err_clr': 0}, 'PLL_ALL': {'pll_bytes_12to9': 877987157, 'pll_bytes_12to9_fromMemToLJCDR_CONFIG_FF_CAP_WL': 3, 'pll_bytes_12to9_fromMemToLJCDR_CONFIG_I_PLL_WL': 5, 'pll_bytes_12to9_fromMemToLJCDR_CONFIG_P_PLL_WL': 5, 'pll_bytes_12to9_fromMemToLJCDR_PLL_R_CONFIG_WL': 4, 'pll_bytes_17to13': 216641586520, 'pll_bytes_17to13_VCObypass': 0, 'pll_bytes_17to13_fromMemToLJCDR_BIASGEN_CONFIG': 8, 'pll_bytes_17to13_fromMemToLJCDR_CBOvcoCapSelect': 100, 'pll_bytes_17to13_fromMemToLJCDR_CONFIG_I_PLL': 5, 'pll_bytes_17to13_fromMemToLJCDR_CONFIG_P_PLL': 5, 'pll_bytes_17to13_fromMemToLJCDR_COconnectCDR': 0, 'pll_bytes_17to13_fromMemToLJCDR_COconnectPLL': 1, 'pll_bytes_17to13_fromMemToLJCDR_COenablePLL': 1, 'pll_bytes_17to13_fromMemToLJCDR_COoverrideVc': 0, 'pll_bytes_17to13_fromMemToLJCDR_COrefClkSel': 1, 'pll_bytes_17to13_fromMemToLJCDR_PLL_R_CONFIG': 4, 'pll_bytes_17to13_fromMemToLJCDR_vcoDAC': 8, 'pll_bytes_17to13_fromMemToLJCDR_vcoRailMode': 1, 'pll_bytes_1to0': 3584, 'pll_bytes_1to0_clktreeAdisable': 0, 'pll_bytes_1to0_clktreeBdisable': 0, 'pll_bytes_1to0_clktreeCdisable': 0, 'pll_bytes_1to0_enableDes': 1, 'pll_bytes_1to0_enableSer': 0, 'pll_bytes_21to18': 159959176, 'pll_bytes_21to18_fromFrameAligner_FrameAlignerIsLocked': 0, 'pll_bytes_21to18_fromMemToLJCDR_disableFrameAlignerLockControl': 0, 'pll_bytes_21to18_fromMemToLJCDR_enableCapBankOverride': 1, 'pll_bytes_21to18_fromMemToLJCDR_enableControlOverride': 0, 'pll_bytes_21to18_fromMemToLJCDR_lfEnable': 1, 'pll_bytes_21to18_fromMemToLJCDR_lfLockThrCounter': 8, 'pll_bytes_21to18_fromMemToLJCDR_lfReLockThrCounter': 8, 'pll_bytes_21to18_fromMemToLJCDR_lfUnLockThrCounter': 8, 'pll_bytes_21to18_fromMemToLJCDR_selEndOfCount': 12, 'pll_bytes_21to18_fromMemToLJCDR_waitCDRTime': 8, 'pll_bytes_21to18_fromMemToLJCDR_waitPLLTime': 8, 'pll_bytes_21to18_mode': 0, 'pll_bytes_21to18_rxLockMode': 0, 'pll_bytes_24to22': 3584, 'pll_bytes_24to22_phase_of_enable_1G28': 0, 'pll_bytes_24to22_toclkgen_disCLK': 0, 'pll_bytes_24to22_toclkgen_disDES': 0, 'pll_bytes_24to22_toclkgen_disEOM': 0, 'pll_bytes_24to22_toclkgen_disEXT': 1, 'pll_bytes_24to22_toclkgen_disSER': 0, 'pll_bytes_24to22_toclkgen_disVCO': 0, 'pll_bytes_26to25': 32776, 'pll_bytes_26to25_output_clk_sel': 0, 'pll_bytes_26to25_refClk_enableRx': 1, 'pll_bytes_26to25_refClk_enableTermination': 0, 'pll_bytes_26to25_refClk_setCommonMode': 0, 'pll_bytes_26to25_ref_clk_sel': 1, 'pll_bytes_26to25_tofbDiv_skip': 0, 'pll_bytes_27': 0, 'pll_bytes_27_reset_eTx_par_enable_intr': 0, 'pll_bytes_27_reset_pll_not_locked_intr': 0, 'pll_bytes_4to2': 16777215, 'pll_bytes_4to2_clk160Menable': 1, 'pll_bytes_4to2_clk1G28enable': 1, 'pll_bytes_4to2_clk2G56enable': 1, 'pll_bytes_4to2_clk320Menable': 1, 'pll_bytes_4to2_clk40Menable': 1, 'pll_bytes_4to2_clk640Menable': 1, 'pll_bytes_4to2_clk80Menable': 1, 'pll_bytes_4to2_enablePhaseShifter': 1, 'pll_bytes_8to5': 1039837870, 'pll_bytes_8to5_fromMemToLJCDR_COdisDataCounterRef': 1, 'pll_bytes_8to5_fromMemToLJCDR_COenableCDR': 0, 'pll_bytes_8to5_fromMemToLJCDR_COenableFD': 0}}
+2021-12-17 13:41:03.540000 INFO     Took 25.01 seconds
+2021-12-17 13:41:24.562000 INFO  PULSE IS COMING:
+2021-12-17 13:41:25.564000 INFO  PULSE IS COMING:
+2021-12-17 13:41:35.575000 INFO  CHECK I2C STATUS:
+2021-12-17 13:41:42.272000 INFO  RW Matches
+2021-12-17 13:41:47.650000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}, 'PLL_ALL': {'pll_read_bytes_4to3': (14, 8), 'pll_read_bytes_4to3_parallel_enable_intrA': (1, 0), 'pll_read_bytes_4to3_parallel_enable_intrB': (1, 0)}}}
+2021-12-17 13:41:47.651000 INFO     Took 12.08 seconds
+2021-12-17 13:41:48.525000 INFO       CH_ALIGNER_0_snapshot 0xcd48cab2bcfaf81e150446199545579f
+2021-12-17 13:41:48.525000 INFO       CH_ALIGNER_1_snapshot 0xef606a909ef8f81e170666199767f79f
+2021-12-17 13:41:48.526000 INFO       CH_ALIGNER_2_snapshot 0xcd48cab2bcfaf81e150446199545579f
+2021-12-17 13:41:48.526000 INFO       CH_ALIGNER_3_snapshot 0xcd48cab2bcfaf81e150446199545579f
+2021-12-17 13:41:48.527000 INFO       CH_ALIGNER_4_snapshot 0xcd48cab2bcfaf81e150446199545579f
+2021-12-17 13:41:48.527000 INFO       CH_ALIGNER_5_snapshot 0xcd48cab2bcfaf81e150446199545579f
+2021-12-17 13:41:48.528000 INFO       CH_ALIGNER_6_snapshot 0xed48cab2bcfffc1e150046199545579f
+2021-12-17 13:41:48.528000 INFO       CH_ALIGNER_7_snapshot 0xcd48cab2bcfaf81e150446199545579f
+2021-12-17 13:41:48.529000 INFO       CH_ALIGNER_8_snapshot 0xcd48cab2bcfaf81e150446199545579f
+2021-12-17 13:41:48.529000 INFO       CH_ALIGNER_9_snapshot 0xcd48cab2bcfaf81e150446199545579f
+2021-12-17 13:41:48.529000 INFO       CH_ALIGNER_10_snapshot 0xcd48cab2bcfaf81e150446199545579f
+2021-12-17 13:41:48.530000 INFO       CH_ALIGNER_11_snapshot 0xcd48cab2bcfaf81e150446199545579f
+2021-12-17 13:41:51.093000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 13:42:16.158000 INFO     Took 25.06 seconds
+2021-12-17 13:42:25.168000 INFO  PULSE IS COMING:
+2021-12-17 13:42:26.170000 INFO  PULSE IS COMING:
+2021-12-17 13:42:36.181000 INFO  CHECK I2C STATUS:
+2021-12-17 13:42:42.831000 INFO  RW Matches
+2021-12-17 13:42:48.265000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 13:42:48.266000 INFO     Took 12.09 seconds
+2021-12-17 13:42:49.146000 INFO       CH_ALIGNER_0_snapshot 0x3d22c9ceb4ca7bbd1d18e5525d7edc06
+2021-12-17 13:42:49.147000 INFO       CH_ALIGNER_1_snapshot 0x3d22c9ceb4ca7bbd1d18e5525d7edc06
+2021-12-17 13:42:49.147000 INFO       CH_ALIGNER_2_snapshot 0x3d22c9ceb4ca7bbd1d18e5525d7edc06
+2021-12-17 13:42:49.148000 INFO       CH_ALIGNER_3_snapshot 0x3d22c9ceb4ca7bbd1d18e5525d7edc06
+2021-12-17 13:42:49.148000 INFO       CH_ALIGNER_4_snapshot 0x3d22c9ceb4ca7bbd1d18e5525d7edc06
+2021-12-17 13:42:49.149000 INFO       CH_ALIGNER_5_snapshot 0x3d22c9ceb4ca7bbd1d18e5525d7edc06
+2021-12-17 13:42:49.150000 INFO       CH_ALIGNER_6_snapshot 0x3d22c9ceb4ca7bbd1d18e5525d7efc06
+2021-12-17 13:42:49.150000 INFO       CH_ALIGNER_7_snapshot 0x3d22c9ceb4ca7bbd1d18e5525d7edc06
+2021-12-17 13:42:49.151000 INFO       CH_ALIGNER_8_snapshot 0x3d22c9ceb4ca7bbd1d18e5525d7edc06
+2021-12-17 13:42:49.151000 INFO       CH_ALIGNER_9_snapshot 0x3d22c9ceb4ca7bbd1d18e5525d7edc06
+2021-12-17 13:42:49.152000 INFO       CH_ALIGNER_10_snapshot 0x3d22c9ceb4ca7bbd1d18e5525d7edc06
+2021-12-17 13:42:49.152000 INFO       CH_ALIGNER_11_snapshot 0x3d22c9ceb4ca7bbd1d18e5525d7edc06
+2021-12-17 13:42:51.713000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 13:43:16.692000 INFO     Took 24.98 seconds
+2021-12-17 13:43:26.704000 INFO  PULSE IS COMING:
+2021-12-17 13:43:27.706000 INFO  PULSE IS COMING:
+2021-12-17 13:43:37.717000 INFO  CHECK I2C STATUS:
+2021-12-17 13:43:44.392000 INFO  RW Matches
+2021-12-17 13:43:49.797000 INFO  RO Matches
+2021-12-17 13:43:49.798000 INFO     Took 12.08 seconds
+2021-12-17 13:43:50.671000 INFO       CH_ALIGNER_0_snapshot 0x25426d8d6cd2f6ee35664b55bd3fd980
+2021-12-17 13:43:50.672000 INFO       CH_ALIGNER_1_snapshot 0x25626d8d6cd2f6ee35664b55bd3ff980
+2021-12-17 13:43:50.672000 INFO       CH_ALIGNER_2_snapshot 0x25426d8d6cd2f6ee35664b55bd3fd980
+2021-12-17 13:43:50.672000 INFO       CH_ALIGNER_3_snapshot 0x25426d8d6cd2f6ee35664b55bd3fd980
+2021-12-17 13:43:50.673000 INFO       CH_ALIGNER_4_snapshot 0x25426d8d6cd2f6ee35664b55bd3fd980
+2021-12-17 13:43:50.673000 INFO       CH_ALIGNER_5_snapshot 0x25426d8d6cd2f6ee35664b55bd3fd980
+2021-12-17 13:43:50.674000 INFO       CH_ALIGNER_6_snapshot 0x25426d8d6cd2f6ee35664b55bd3ff980
+2021-12-17 13:43:50.674000 INFO       CH_ALIGNER_7_snapshot 0x25426d8d6cd2f6ee35664b55bd3fd980
+2021-12-17 13:43:50.675000 INFO       CH_ALIGNER_8_snapshot 0x25426d8d6cd2f6ee35664b55bd3fd980
+2021-12-17 13:43:50.675000 INFO       CH_ALIGNER_9_snapshot 0x25426d8d6cd2f6ee35664b55bd3fd980
+2021-12-17 13:43:50.676000 INFO       CH_ALIGNER_10_snapshot 0x25426d8d6cd2f6ee35664b55bd3fd980
+2021-12-17 13:43:50.676000 INFO       CH_ALIGNER_11_snapshot 0x25426d8d6cd2f6ee35664b55bd3fd980
+2021-12-17 13:43:53.239000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 13:44:18.287000 INFO     Took 25.05 seconds
+2021-12-17 13:44:27.298000 INFO  PULSE IS COMING:
+2021-12-17 13:44:28.299000 INFO  PULSE IS COMING:
+2021-12-17 13:44:38.310000 INFO  CHECK I2C STATUS:
+2021-12-17 13:44:44.962000 INFO  RW Matches
+2021-12-17 13:44:50.325000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 13:44:50.326000 INFO     Took 12.02 seconds
+2021-12-17 13:44:51.204000 INFO       CH_ALIGNER_0_snapshot 0x450cf82a148fc620954c37a8b51f3a42
+2021-12-17 13:44:51.205000 INFO       CH_ALIGNER_1_snapshot 0x650ef82a148fe620956e17a8b51f1a42
+2021-12-17 13:44:51.206000 INFO       CH_ALIGNER_2_snapshot 0x450cf82a148fc620954c37a8b51f3a42
+2021-12-17 13:44:51.206000 INFO       CH_ALIGNER_3_snapshot 0x450cf82a148fc620954c37a8b51f3a42
+2021-12-17 13:44:51.206000 INFO       CH_ALIGNER_4_snapshot 0x450cf82a148fc620954c37a8b51f3a42
+2021-12-17 13:44:51.207000 INFO       CH_ALIGNER_5_snapshot 0x450cf82a148fc620954c37a8b51f3a42
+2021-12-17 13:44:51.207000 INFO       CH_ALIGNER_6_snapshot 0x450cf80a148fe620954c37a8b51f3a42
+2021-12-17 13:44:51.208000 INFO       CH_ALIGNER_7_snapshot 0x450cf82a148fc620954c37a8b51f3a42
+2021-12-17 13:44:51.208000 INFO       CH_ALIGNER_8_snapshot 0x450cf82a148fc620954c37a8b51f3a42
+2021-12-17 13:44:51.209000 INFO       CH_ALIGNER_9_snapshot 0x450cf82a148fc620954c37a8b51f3a42
+2021-12-17 13:44:51.209000 INFO       CH_ALIGNER_10_snapshot 0x450cf82a148fc620954c37a8b51f3a42
+2021-12-17 13:44:51.210000 INFO       CH_ALIGNER_11_snapshot 0x450cf82a148fc620954c37a8b51f3a42
+2021-12-17 13:44:53.772000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 13:45:18.817000 INFO     Took 25.05 seconds
+2021-12-17 13:45:28.828000 INFO  PULSE IS COMING:
+2021-12-17 13:45:39.840000 INFO  CHECK I2C STATUS:
+2021-12-17 13:45:46.500000 INFO  RW Matches
+2021-12-17 13:45:51.910000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 13:45:51.911000 INFO     Took 12.07 seconds
+2021-12-17 13:45:52.784000 INFO       CH_ALIGNER_0_snapshot 0xdd292df6ecc3668b5573bf29852f50e3
+2021-12-17 13:45:52.785000 INFO       CH_ALIGNER_1_snapshot 0xdd292df6ece3668b5573bf29852f50e3
+2021-12-17 13:45:52.786000 INFO       CH_ALIGNER_2_snapshot 0xdd292df6ecc3668b5573bf29852f50e3
+2021-12-17 13:45:52.786000 INFO       CH_ALIGNER_3_snapshot 0xdd292df6ecc3668b5573bf29852f50e3
+2021-12-17 13:45:52.787000 INFO       CH_ALIGNER_4_snapshot 0xdd292df6ecc3668b5573bf29852f50e3
+2021-12-17 13:45:52.788000 INFO       CH_ALIGNER_5_snapshot 0xdd292df6ecc3668b5573bf29852f50e3
+2021-12-17 13:45:52.788000 INFO       CH_ALIGNER_6_snapshot 0xdd292df6ecc3668b5573bf29852f50e3
+2021-12-17 13:45:52.789000 INFO       CH_ALIGNER_7_snapshot 0xdd292df6ecc3668b5573bf29852f50e3
+2021-12-17 13:45:52.789000 INFO       CH_ALIGNER_8_snapshot 0xdd292df6ecc3668b5573bf29852f50e3
+2021-12-17 13:45:52.790000 INFO       CH_ALIGNER_9_snapshot 0xdd292df6ecc3668b5573bf29852f50e3
+2021-12-17 13:45:52.790000 INFO       CH_ALIGNER_10_snapshot 0xdd292df6ecc3668b5573bf29852f50e3
+2021-12-17 13:45:52.791000 INFO       CH_ALIGNER_11_snapshot 0xdd292df6ecc3668b5573bf29852f50e3
+2021-12-17 13:45:55.352000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 13:46:20.328000 INFO     Took 24.98 seconds
+2021-12-17 13:46:29.339000 INFO  PULSE IS COMING:
+2021-12-17 13:46:30.340000 INFO  PULSE IS COMING:
+2021-12-17 13:46:40.351000 INFO  CHECK I2C STATUS:
+2021-12-17 13:46:47.055000 INFO  RW Matches
+2021-12-17 13:46:52.447000 INFO  RO Mismatches: {'ASIC': {'PLL_ALL': {'pll_read_bytes_4to3': (8, 12), 'pll_read_bytes_4to3_parallel_enable_intrA': (0, 1)}}}
+2021-12-17 13:46:52.448000 INFO     Took 12.1 seconds
+2021-12-17 13:46:53.326000 INFO       CH_ALIGNER_0_snapshot 0xed6d466f94d617f4750392096d43768b
+2021-12-17 13:46:53.326000 INFO       CH_ALIGNER_1_snapshot 0xed6f666f94fe17f4750192096d61f68b
+2021-12-17 13:46:53.327000 INFO       CH_ALIGNER_2_snapshot 0xed6d466f94d617f4750392096d43768b
+2021-12-17 13:46:53.327000 INFO       CH_ALIGNER_3_snapshot 0xed6d466f94d617f4750392096d43768b
+2021-12-17 13:46:53.328000 INFO       CH_ALIGNER_4_snapshot 0xed6d466f94d617f4750392096d43768b
+2021-12-17 13:46:53.328000 INFO       CH_ALIGNER_5_snapshot 0xed6d466f94d617f4750392096d43768b
+2021-12-17 13:46:53.329000 INFO       CH_ALIGNER_6_snapshot 0xef6f466f94d617fe750192096d43768b
+2021-12-17 13:46:53.329000 INFO       CH_ALIGNER_7_snapshot 0xed6d466f94d617f4750392096d43768b
+2021-12-17 13:46:53.330000 INFO       CH_ALIGNER_8_snapshot 0xed6d466f94d617f4750392096d43768b
+2021-12-17 13:46:53.330000 INFO       CH_ALIGNER_9_snapshot 0xed6d466f94d617f4750392096d43768b
+2021-12-17 13:46:53.330000 INFO       CH_ALIGNER_10_snapshot 0xed6d466f94d617f4750392096d43768b
+2021-12-17 13:46:53.331000 INFO       CH_ALIGNER_11_snapshot 0xed6d466f94d617f4750392096d43768b
+2021-12-17 13:46:55.893000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 13:47:20.897000 INFO     Took 25.0 seconds
+2021-12-17 13:47:29.907000 INFO  PULSE IS COMING:
+2021-12-17 13:47:30.909000 INFO  PULSE IS COMING:
+2021-12-17 13:47:40.921000 INFO  CHECK I2C STATUS:
+2021-12-17 13:47:47.599000 INFO  RW Matches
+2021-12-17 13:47:52.981000 INFO  RO Matches
+2021-12-17 13:47:52.982000 INFO     Took 12.06 seconds
+2021-12-17 13:47:53.859000 INFO       CH_ALIGNER_0_snapshot 0xe57ca50bdce38c492d1b6f5b653db48d
+2021-12-17 13:47:53.860000 INFO       CH_ALIGNER_1_snapshot 0xe57ca50bdce38c492d1b6f5b653db48d
+2021-12-17 13:47:53.860000 INFO       CH_ALIGNER_2_snapshot 0xe57ca50bdce38c492d1b6f5b653db48d
+2021-12-17 13:47:53.861000 INFO       CH_ALIGNER_3_snapshot 0xe57ca50bdce38c492d1b6f5b653db48d
+2021-12-17 13:47:53.861000 INFO       CH_ALIGNER_4_snapshot 0xe57ca50bdce38c492d1b6f5b653db48d
+2021-12-17 13:47:53.862000 INFO       CH_ALIGNER_5_snapshot 0xe57ca50bdce38c492d1b6f5b653db48d
+2021-12-17 13:47:53.863000 INFO       CH_ALIGNER_6_snapshot 0xe57ca50bdce38c492d1b6f5b653db48d
+2021-12-17 13:47:53.863000 INFO       CH_ALIGNER_7_snapshot 0xe57ca50bdce38c492d1b6f5b653db48d
+2021-12-17 13:47:53.864000 INFO       CH_ALIGNER_8_snapshot 0xe57ca50bdce38c492d1b6f5b653db48d
+2021-12-17 13:47:53.864000 INFO       CH_ALIGNER_9_snapshot 0xe57ca50bdce38c492d1b6f5b653db48d
+2021-12-17 13:47:53.865000 INFO       CH_ALIGNER_10_snapshot 0xe57ca50bdce38c492d1b6f5b653db48d
+2021-12-17 13:47:53.865000 INFO       CH_ALIGNER_11_snapshot 0xe57ca50bdce38c492d1b6f5b653db48d
+2021-12-17 13:47:56.425000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 13:48:21.436000 INFO     Took 25.01 seconds
+2021-12-17 13:48:31.448000 INFO  PULSE IS COMING:
+2021-12-17 13:48:32.450000 INFO  PULSE IS COMING:
+2021-12-17 13:48:42.460000 INFO  CHECK I2C STATUS:
+2021-12-17 13:48:49.111000 INFO  RW Matches
+2021-12-17 13:48:54.517000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}, 'PLL_ALL': {'pll_read_bytes_4to3': (12, 8), 'pll_read_bytes_4to3_parallel_enable_intrA': (1, 0)}}}
+2021-12-17 13:48:54.518000 INFO     Took 12.06 seconds
+2021-12-17 13:48:55.424000 INFO       CH_ALIGNER_0_snapshot 0x1d1085631cf4a43bdd098d352d6bee78
+2021-12-17 13:48:55.425000 INFO       CH_ALIGNER_1_snapshot 0x1d1085631cf4a43bdd098d352d6bee78
+2021-12-17 13:48:55.425000 INFO       CH_ALIGNER_2_snapshot 0x1d1085631cf4a43bdd098d352d6bee78
+2021-12-17 13:48:55.426000 INFO       CH_ALIGNER_3_snapshot 0x1d1085631cf4a43bdd098d352d6bee78
+2021-12-17 13:48:55.426000 INFO       CH_ALIGNER_4_snapshot 0x1d1085631cf4a43bdd098d352d6bee78
+2021-12-17 13:48:55.427000 INFO       CH_ALIGNER_5_snapshot 0x1d1085631cf4a43bdd098d352d6bee78
+2021-12-17 13:48:55.427000 INFO       CH_ALIGNER_6_snapshot 0x1d1085631cf4a43bdd098d352d6bee78
+2021-12-17 13:48:55.428000 INFO       CH_ALIGNER_7_snapshot 0x1d1085631cf4a43bdd098d352d6bee78
+2021-12-17 13:48:55.428000 INFO       CH_ALIGNER_8_snapshot 0x1d1085631cf4a43bdd098d352d6bee78
+2021-12-17 13:48:55.428000 INFO       CH_ALIGNER_9_snapshot 0x1d1085631cf4a43bdd098d352d6bee78
+2021-12-17 13:48:55.429000 INFO       CH_ALIGNER_10_snapshot 0x1d1085631cf4a43bdd098d352d6bee78
+2021-12-17 13:48:55.429000 INFO       CH_ALIGNER_11_snapshot 0x1d1085631cf4a43bdd098d352d6bee78
+2021-12-17 13:48:57.991000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 13:49:23.046000 INFO     Took 25.06 seconds
+2021-12-17 13:49:32.057000 INFO  PULSE IS COMING:
+2021-12-17 13:49:33.059000 INFO  PULSE IS COMING:
+2021-12-17 13:49:43.069000 INFO  CHECK I2C STATUS:
+2021-12-17 13:49:49.751000 INFO  RW Matches
+2021-12-17 13:49:55.119000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 13:49:55.121000 INFO     Took 12.05 seconds
+2021-12-17 13:49:55.998000 INFO       CH_ALIGNER_0_snapshot 0x55501fe04c04181855051e1e5444599
+2021-12-17 13:49:55.999000 INFO       CH_ALIGNER_1_snapshot 0x55501fe04c04181855051e1e5444599
+2021-12-17 13:49:55.999000 INFO       CH_ALIGNER_2_snapshot 0x55501fe04c04181855051e1e5444599
+2021-12-17 13:49:56 INFO       CH_ALIGNER_3_snapshot 0x55501fe04c04181855051e1e5444599
+2021-12-17 13:49:56 INFO       CH_ALIGNER_4_snapshot 0x55501fe04c04181855051e1e5444599
+2021-12-17 13:49:56 INFO       CH_ALIGNER_5_snapshot 0x55501fe04c04181855051e1e5444599
+2021-12-17 13:49:56.001000 INFO       CH_ALIGNER_6_snapshot 0x55501fe04c04181855051e1e5444599
+2021-12-17 13:49:56.001000 INFO       CH_ALIGNER_7_snapshot 0x55501fe04c04181855051e1e5444599
+2021-12-17 13:49:56.002000 INFO       CH_ALIGNER_8_snapshot 0x55501fe04c04181855051e1e5444599
+2021-12-17 13:49:56.002000 INFO       CH_ALIGNER_9_snapshot 0x55501fe04c04181855051e1e5444599
+2021-12-17 13:49:56.003000 INFO       CH_ALIGNER_10_snapshot 0x55501fe04c04181855051e1e5444599
+2021-12-17 13:49:56.003000 INFO       CH_ALIGNER_11_snapshot 0x55501fe04c04181855051e1e5444599
+2021-12-17 13:49:58.564000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 13:50:23.596000 INFO     Took 25.03 seconds
+2021-12-17 13:50:32.606000 INFO  PULSE IS COMING:
+2021-12-17 13:50:33.608000 INFO  PULSE IS COMING:
+2021-12-17 13:50:43.618000 INFO  CHECK I2C STATUS:
+2021-12-17 13:50:50.265000 INFO  RW Matches
+2021-12-17 13:50:55.640000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 13:50:55.641000 INFO     Took 12.02 seconds
+2021-12-17 13:50:56.519000 INFO       CH_ALIGNER_0_snapshot 0x877e7806eee1e687f7799f868707f8ef
+2021-12-17 13:50:56.520000 INFO       CH_ALIGNER_1_snapshot 0xc7bf69037660b343aab89f934396b877
+2021-12-17 13:50:56.521000 INFO       CH_ALIGNER_2_snapshot 0x8d7ef206ece1668755713f26852d70ef
+2021-12-17 13:50:56.521000 INFO       CH_ALIGNER_3_snapshot 0x8d7ef206ece1668755713f26852d70ef
+2021-12-17 13:50:56.522000 INFO       CH_ALIGNER_4_snapshot 0x8d7ef206ece1668755713f26852f70ef
+2021-12-17 13:50:56.522000 INFO       CH_ALIGNER_5_snapshot 0x8d7ff206eec1668775713fa6852d70ef
+2021-12-17 13:50:56.523000 INFO       CH_ALIGNER_6_snapshot 0xcc7ff8027ee0220377799fb30007f86f
+2021-12-17 13:50:56.523000 INFO       CH_ALIGNER_7_snapshot 0x8d7ed206ecc1668755713f26852d70ef
+2021-12-17 13:50:56.524000 INFO       CH_ALIGNER_8_snapshot 0x8d7ef206ece1668755793f26852f70ef
+2021-12-17 13:50:56.524000 INFO       CH_ALIGNER_9_snapshot 0x8d7ed206ecc1668755713f26852d70ef
+2021-12-17 13:50:56.525000 INFO       CH_ALIGNER_10_snapshot 0x8d7ed206ecc1668755713f26852d70ef
+2021-12-17 13:50:56.526000 INFO       CH_ALIGNER_11_snapshot 0x8d7ed206ecc1668755713f26852d70ef
+2021-12-17 13:50:59.087000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 13:51:24.119000 INFO     Took 25.03 seconds
+2021-12-17 13:51:34.131000 INFO  PULSE IS COMING:
+2021-12-17 13:51:35.133000 INFO  PULSE IS COMING:
+2021-12-17 13:51:45.144000 INFO  CHECK I2C STATUS:
+2021-12-17 13:51:51.792000 INFO  RW Matches
+2021-12-17 13:51:57.190000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 13:51:57.191000 INFO     Took 12.05 seconds
+2021-12-17 13:51:58.102000 INFO       CH_ALIGNER_0_snapshot 0x8532d0aee4be64855d31fda40d5d82cd
+2021-12-17 13:51:58.103000 INFO       CH_ALIGNER_1_snapshot 0x8532d0aee4be64855d31fda40d5d82cd
+2021-12-17 13:51:58.104000 INFO       CH_ALIGNER_2_snapshot 0x8532d0aee4be64855d31fda40d5d82cd
+2021-12-17 13:51:58.104000 INFO       CH_ALIGNER_3_snapshot 0x8532d0aee4be64855d31fda40d5d82cd
+2021-12-17 13:51:58.105000 INFO       CH_ALIGNER_4_snapshot 0x8532d0aee4be64855d31fda40d5d82cd
+2021-12-17 13:51:58.105000 INFO       CH_ALIGNER_5_snapshot 0x8532d0aee4be64855d31fda40d5d82cd
+2021-12-17 13:51:58.106000 INFO       CH_ALIGNER_6_snapshot 0x8532d0aee4be64855d31fda40d5d82cd
+2021-12-17 13:51:58.106000 INFO       CH_ALIGNER_7_snapshot 0x8532d0aee4be64855d31fda40d5d82cd
+2021-12-17 13:51:58.107000 INFO       CH_ALIGNER_8_snapshot 0x8532d0aee4be64855d31fda40d5d82cd
+2021-12-17 13:51:58.107000 INFO       CH_ALIGNER_9_snapshot 0x8532d0aee4be64855d31fda40d5d82cd
+2021-12-17 13:51:58.107000 INFO       CH_ALIGNER_10_snapshot 0x8532d0aee4be64855d31fda40d5d82cd
+2021-12-17 13:51:58.108000 INFO       CH_ALIGNER_11_snapshot 0x8532d0aee4be64855d31fda40d5d82cd
+2021-12-17 13:52:00.669000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 13:52:25.651000 INFO     Took 24.98 seconds
+2021-12-17 13:52:34.661000 INFO  PULSE IS COMING:
+2021-12-17 13:52:35.663000 INFO  PULSE IS COMING:
+2021-12-17 13:52:45.674000 INFO  CHECK I2C STATUS:
+2021-12-17 13:52:52.398000 INFO  RW Matches
+2021-12-17 13:52:57.766000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 13:52:57.767000 INFO     Took 12.09 seconds
+2021-12-17 13:52:58.645000 INFO       CH_ALIGNER_0_snapshot 0x9d23d5c8fccb20bac539e894753792b1
+2021-12-17 13:52:58.646000 INFO       CH_ALIGNER_1_snapshot 0x9d23f5c8fccb20bac539e894753792b1
+2021-12-17 13:52:58.646000 INFO       CH_ALIGNER_2_snapshot 0x9d23d5c8fccb20bac539e894753792b1
+2021-12-17 13:52:58.647000 INFO       CH_ALIGNER_3_snapshot 0x9d23d5c8fccb20bac539e894753792b1
+2021-12-17 13:52:58.647000 INFO       CH_ALIGNER_4_snapshot 0x9d23d5c8fccb20bac539e894753792b1
+2021-12-17 13:52:58.648000 INFO       CH_ALIGNER_5_snapshot 0x9d23d5c8fccb20bac539e894753792b1
+2021-12-17 13:52:58.648000 INFO       CH_ALIGNER_6_snapshot 0x9d23d5c8fccb20bac539e894753792b1
+2021-12-17 13:52:58.649000 INFO       CH_ALIGNER_7_snapshot 0x9d23d5c8fccb20bac539e894753792b1
+2021-12-17 13:52:58.650000 INFO       CH_ALIGNER_8_snapshot 0x9d23d5c8fccb20bac539e894753792b1
+2021-12-17 13:52:58.650000 INFO       CH_ALIGNER_9_snapshot 0x9d23d5c8fccb20bac539e894753792b1
+2021-12-17 13:52:58.651000 INFO       CH_ALIGNER_10_snapshot 0x9d23d5c8fccb20bac539e894753792b1
+2021-12-17 13:52:58.651000 INFO       CH_ALIGNER_11_snapshot 0x9d23d5c8fccb20bac539e894753792b1
+2021-12-17 13:53:01.212000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 13:53:26.232000 INFO     Took 25.02 seconds
+2021-12-17 13:53:35.243000 INFO  PULSE IS COMING:
+2021-12-17 13:53:36.244000 INFO  PULSE IS COMING:
+2021-12-17 13:53:46.255000 INFO  CHECK I2C STATUS:
+2021-12-17 13:53:52.906000 INFO  RW Matches
+2021-12-17 13:53:58.310000 INFO  RO Matches
+2021-12-17 13:53:58.311000 INFO     Took 12.06 seconds
+2021-12-17 13:53:59.190000 INFO       CH_ALIGNER_0_snapshot 0x3f98cf03a27efc860fb143e78f9d060e
+2021-12-17 13:53:59.190000 INFO       CH_ALIGNER_1_snapshot 0x2a98cf52a27efc860ab143a78a9d134e
+2021-12-17 13:53:59.191000 INFO       CH_ALIGNER_2_snapshot 0x75199ea5e4fff90e1760876f971e069e
+2021-12-17 13:53:59.191000 INFO       CH_ALIGNER_3_snapshot 0x75199e8564fff90e1760876f971c069e
+2021-12-17 13:53:59.192000 INFO       CH_ALIGNER_4_snapshot 0x7519de87e4fffd0e1770c7ef971c069e
+2021-12-17 13:53:59.192000 INFO       CH_ALIGNER_5_snapshot 0x55319ee764fffd8c1562876f153b269c
+2021-12-17 13:53:59.193000 INFO       CH_ALIGNER_6_snapshot 0x2218cff2227ffd8600310327989d134e
+2021-12-17 13:53:59.193000 INFO       CH_ALIGNER_7_snapshot 0x55319ea544fdf90c1562874f153a269c
+2021-12-17 13:53:59.194000 INFO       CH_ALIGNER_8_snapshot 0x7f99dea7e4fffd8e1ff047ef979f069e
+2021-12-17 13:53:59.194000 INFO       CH_ALIGNER_9_snapshot 0x55319ea544fdf90c1562874f153a269c
+2021-12-17 13:53:59.195000 INFO       CH_ALIGNER_10_snapshot 0x55399ea564fff90e1560874f953e269e
+2021-12-17 13:53:59.195000 INFO       CH_ALIGNER_11_snapshot 0x55319ea544fdf90c1562874f153a269c
+2021-12-17 13:54:01.755000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 13:54:26.786000 INFO     Took 25.03 seconds
+2021-12-17 13:54:36.797000 INFO  PULSE IS COMING:
+2021-12-17 13:54:37.799000 INFO  PULSE IS COMING:
+2021-12-17 13:54:47.810000 INFO  CHECK I2C STATUS:
+2021-12-17 13:54:54.463000 INFO  RW Matches
+2021-12-17 13:54:59.876000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 13:54:59.877000 INFO     Took 12.07 seconds
+2021-12-17 13:55:00.749000 INFO       CH_ALIGNER_0_snapshot 0xfd5780f104a260cd452af8fe152046c1
+2021-12-17 13:55:00.750000 INFO       CH_ALIGNER_1_snapshot 0xfd7f80f1048060ef6508f8fe170066e1
+2021-12-17 13:55:00.750000 INFO       CH_ALIGNER_2_snapshot 0xfd5780f104a260cd452af8fe152046c1
+2021-12-17 13:55:00.751000 INFO       CH_ALIGNER_3_snapshot 0xfd5780f104a260cd452af8fe152046c1
+2021-12-17 13:55:00.751000 INFO       CH_ALIGNER_4_snapshot 0xfd5780f104a260cd452af8fe152046c1
+2021-12-17 13:55:00.752000 INFO       CH_ALIGNER_5_snapshot 0xfd5780f104a260cd452af8fe152046c1
+2021-12-17 13:55:00.752000 INFO       CH_ALIGNER_6_snapshot 0xffd780f104a220cd452af8ff150006e1
+2021-12-17 13:55:00.753000 INFO       CH_ALIGNER_7_snapshot 0xfd5780f104a260cd452af8fe152046c1
+2021-12-17 13:55:00.753000 INFO       CH_ALIGNER_8_snapshot 0xfd5780f104a260cd452af8fe152046c1
+2021-12-17 13:55:00.754000 INFO       CH_ALIGNER_9_snapshot 0xfd5780f104a260cd452af8fe152046c1
+2021-12-17 13:55:00.754000 INFO       CH_ALIGNER_10_snapshot 0xfd5780f104a260cd452af8fe152046c1
+2021-12-17 13:55:00.755000 INFO       CH_ALIGNER_11_snapshot 0xfd5780f104a260cd452af8fe152046c1
+2021-12-17 13:55:03.319000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 13:55:28.367000 INFO     Took 25.05 seconds
+2021-12-17 13:55:37.377000 INFO  PULSE IS COMING:
+2021-12-17 13:55:38.379000 INFO  PULSE IS COMING:
+2021-12-17 13:55:48.390000 INFO  CHECK I2C STATUS:
+2021-12-17 13:55:55.080000 INFO  RW Matches
+2021-12-17 13:56:00.474000 INFO  RO Matches
+2021-12-17 13:56:00.476000 INFO     Took 12.09 seconds
+2021-12-17 13:56:01.354000 INFO       CH_ALIGNER_0_snapshot 0xad0f1f2e848e70e50507ecfe6d0e97eb
+2021-12-17 13:56:01.355000 INFO       CH_ALIGNER_1_snapshot 0x7879f87869738738792f67e3f964ff1
+2021-12-17 13:56:01.356000 INFO       CH_ALIGNER_2_snapshot 0xad0d3f2e84ae70e52525ecdc6d2c97eb
+2021-12-17 13:56:01.356000 INFO       CH_ALIGNER_3_snapshot 0xad0d3f2e84ae70e52525ecdc6d2c97eb
+2021-12-17 13:56:01.357000 INFO       CH_ALIGNER_4_snapshot 0xad0d3f2e84ae70e52525ecdc6d2c97eb
+2021-12-17 13:56:01.357000 INFO       CH_ALIGNER_5_snapshot 0xad0d3f2e84ae70e52525ecdc6d2c97ef
+2021-12-17 13:56:01.358000 INFO       CH_ALIGNER_6_snapshot 0x8d041fbec40e70e70101eefe6f0647ff
+2021-12-17 13:56:01.358000 INFO       CH_ALIGNER_7_snapshot 0xad0d3f2e84ae70e52525ecdc6d2c97eb
+2021-12-17 13:56:01.359000 INFO       CH_ALIGNER_8_snapshot 0xad0d3f2e84ae70e52525ecdc6d2c97eb
+2021-12-17 13:56:01.360000 INFO       CH_ALIGNER_9_snapshot 0xad0d3f2e84ae70e52525ecdc6d2c97eb
+2021-12-17 13:56:01.360000 INFO       CH_ALIGNER_10_snapshot 0xad0d3f2e84ae70e52525ecdc6d2c97eb
+2021-12-17 13:56:01.361000 INFO       CH_ALIGNER_11_snapshot 0xad0d3f2e84ae70e52525ecdc6d2c97eb
+2021-12-17 13:56:03.920000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 13:56:28.994000 INFO     Took 25.07 seconds
+2021-12-17 13:56:38.004000 INFO  PULSE IS COMING:
+2021-12-17 13:56:39.006000 INFO  PULSE IS COMING:
+2021-12-17 13:56:49.016000 INFO  CHECK I2C STATUS:
+2021-12-17 13:56:55.682000 INFO  RW Matches
+2021-12-17 13:57:01.063000 INFO  RO Matches
+2021-12-17 13:57:01.064000 INFO     Took 12.05 seconds
+2021-12-17 13:57:01.942000 INFO       CH_ALIGNER_0_snapshot 0x52e80e704a520dec52c68e9752772d3
+2021-12-17 13:57:01.943000 INFO       CH_ALIGNER_1_snapshot 0x52e80e704a520dec52c68e9752772d3
+2021-12-17 13:57:01.944000 INFO       CH_ALIGNER_2_snapshot 0x52e80e704a520dec52c68e9752772d3
+2021-12-17 13:57:01.944000 INFO       CH_ALIGNER_3_snapshot 0x52e80e704a520dec52c68e9752772d3
+2021-12-17 13:57:01.945000 INFO       CH_ALIGNER_4_snapshot 0x52e80e704a520dec52c68e9752772d3
+2021-12-17 13:57:01.945000 INFO       CH_ALIGNER_5_snapshot 0x52e80e704a520dec52c68e9752772d3
+2021-12-17 13:57:01.946000 INFO       CH_ALIGNER_6_snapshot 0x52e80e704a520dec52c68e9752772d3
+2021-12-17 13:57:01.946000 INFO       CH_ALIGNER_7_snapshot 0x52e80e704a520dec52c68e9752772d3
+2021-12-17 13:57:01.947000 INFO       CH_ALIGNER_8_snapshot 0x52e80e704a520dec52c68e9752772d3
+2021-12-17 13:57:01.947000 INFO       CH_ALIGNER_9_snapshot 0x52e80e704a520dec52c68e9752772d3
+2021-12-17 13:57:01.948000 INFO       CH_ALIGNER_10_snapshot 0x52e80e704a520dec52c68e9752772d3
+2021-12-17 13:57:01.948000 INFO       CH_ALIGNER_11_snapshot 0x52e80e704a520dec52c68e9752772d3
+2021-12-17 13:57:04.509000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 13:57:29.538000 INFO     Took 25.03 seconds
+2021-12-17 13:57:39.549000 INFO  PULSE IS COMING:
+2021-12-17 13:57:50.561000 INFO  CHECK I2C STATUS:
+2021-12-17 13:57:57.241000 INFO  RW Matches
+2021-12-17 13:58:02.631000 INFO  RO Matches
+2021-12-17 13:58:02.632000 INFO     Took 12.07 seconds
+2021-12-17 13:58:03.510000 INFO       CH_ALIGNER_0_snapshot 0xb558fbd21c8ec5269d6d746f3d162974
+2021-12-17 13:58:03.511000 INFO       CH_ALIGNER_1_snapshot 0xb558fbd21c8ec5269d6d746f3d162974
+2021-12-17 13:58:03.511000 INFO       CH_ALIGNER_2_snapshot 0xb558fbd21c8ec5269d6d746f3d162974
+2021-12-17 13:58:03.512000 INFO       CH_ALIGNER_3_snapshot 0xb558fbd21c8ec5269d6d746f3d162974
+2021-12-17 13:58:03.513000 INFO       CH_ALIGNER_4_snapshot 0xb558fbd21c8ec5269d6d746f3d162974
+2021-12-17 13:58:03.513000 INFO       CH_ALIGNER_5_snapshot 0xb558fbd21c8ec5269d6d746f3d162974
+2021-12-17 13:58:03.514000 INFO       CH_ALIGNER_6_snapshot 0xb558fbd21c8ec5269d6d746f3d162974
+2021-12-17 13:58:03.514000 INFO       CH_ALIGNER_7_snapshot 0xb558fbd21c8ec5269d6d746f3d162974
+2021-12-17 13:58:03.515000 INFO       CH_ALIGNER_8_snapshot 0xb558fbd21c8ec5269d6d746f3d162974
+2021-12-17 13:58:03.515000 INFO       CH_ALIGNER_9_snapshot 0xb558fbd21c8ec5269d6d746f3d162974
+2021-12-17 13:58:03.516000 INFO       CH_ALIGNER_10_snapshot 0xb558fbd21c8ec5269d6d746f3d162974
+2021-12-17 13:58:03.516000 INFO       CH_ALIGNER_11_snapshot 0xb558fbd21c8ec5269d6d746f3d162974
+2021-12-17 13:58:06.077000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 13:58:31.082000 INFO     Took 25.0 seconds
+2021-12-17 13:58:40.092000 INFO  PULSE IS COMING:
+2021-12-17 13:58:41.094000 INFO  PULSE IS COMING:
+2021-12-17 13:58:51.105000 INFO  CHECK I2C STATUS:
+2021-12-17 13:58:57.833000 INFO  RW Matches
+2021-12-17 13:59:03.215000 INFO  RO Matches
+2021-12-17 13:59:03.217000 INFO     Took 12.11 seconds
+2021-12-17 13:59:04.095000 INFO       CH_ALIGNER_0_snapshot 0xe7ff3787fe70fe22078cc1ff879ff1c0
+2021-12-17 13:59:04.096000 INFO       CH_ALIGNER_1_snapshot 0x72bf3282ae70fe22068cc1aa869ff1c0
+2021-12-17 13:59:04.097000 INFO       CH_ALIGNER_2_snapshot 0xe57e65057ce1fc440d1983550d3fe380
+2021-12-17 13:59:04.097000 INFO       CH_ALIGNER_3_snapshot 0xe57e65057ce1fe440d1983750d1fe180
+2021-12-17 13:59:04.098000 INFO       CH_ALIGNER_4_snapshot 0xe57e65077ef1fe640f1d83770d1fe380
+2021-12-17 13:59:04.099000 INFO       CH_ALIGNER_5_snapshot 0xe77f67057ce1fe640d1983570d3ff380
+2021-12-17 13:59:04.099000 INFO       CH_ALIGNER_6_snapshot 0xf73f73002ef0fe62040cc13a841ff3c0
+2021-12-17 13:59:04.100000 INFO       CH_ALIGNER_7_snapshot 0xe57e65055ce1fc440d1983550d3fe380
+2021-12-17 13:59:04.100000 INFO       CH_ALIGNER_8_snapshot 0xe57f6585fef1fe440d1dc3ff8d3fe3c0
+2021-12-17 13:59:04.101000 INFO       CH_ALIGNER_9_snapshot 0xe57e65055ce1fc440d1983550d3fe380
+2021-12-17 13:59:04.101000 INFO       CH_ALIGNER_10_snapshot 0xe57e65055ce1fc440d1983550d3fe380
+2021-12-17 13:59:04.102000 INFO       CH_ALIGNER_11_snapshot 0xe57e65055ce1fc440d1983550d3fe380
+2021-12-17 13:59:06.663000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 13:59:31.685000 INFO     Took 25.02 seconds
+2021-12-17 13:59:40.695000 INFO  PULSE IS COMING:
+2021-12-17 13:59:41.697000 INFO  PULSE IS COMING:
+2021-12-17 13:59:51.708000 INFO  CHECK I2C STATUS:
+2021-12-17 13:59:58.363000 INFO  RW Matches
+2021-12-17 14:00:03.785000 INFO  RO Matches
+2021-12-17 14:00:03.786000 INFO     Took 12.08 seconds
+2021-12-17 14:00:04.659000 INFO       CH_ALIGNER_0_snapshot 0xd53c8e8b24f3ad29ed6f4663955497fb
+2021-12-17 14:00:04.660000 INFO       CH_ALIGNER_1_snapshot 0xf51e0e8b04f98f09ed6fe661977e17fb
+2021-12-17 14:00:04.660000 INFO       CH_ALIGNER_2_snapshot 0xd53c8e8b24f3ad29ed6f4663955497fb
+2021-12-17 14:00:04.661000 INFO       CH_ALIGNER_3_snapshot 0xd53c8e8b24f3ad29ed6f4663955497fb
+2021-12-17 14:00:04.661000 INFO       CH_ALIGNER_4_snapshot 0xd53c8e8b24f3ad29ed6f4663955497fb
+2021-12-17 14:00:04.662000 INFO       CH_ALIGNER_5_snapshot 0xd53c8e8b24f3ad29ed6f6663955497fb
+2021-12-17 14:00:04.662000 INFO       CH_ALIGNER_6_snapshot 0xd53c8e8b24f3ad29ef6f6663955497ff
+2021-12-17 14:00:04.663000 INFO       CH_ALIGNER_7_snapshot 0xd53c8e8b24f3ad29ed6f4663955497fb
+2021-12-17 14:00:04.664000 INFO       CH_ALIGNER_8_snapshot 0xd53c8e8b24f3ad29ed6f4663955497fb
+2021-12-17 14:00:04.664000 INFO       CH_ALIGNER_9_snapshot 0xd53c8e8b24f3ad29ed6f4663955497fb
+2021-12-17 14:00:04.665000 INFO       CH_ALIGNER_10_snapshot 0xd53c8e8b24f3ad29ed6f4663955497fb
+2021-12-17 14:00:04.665000 INFO       CH_ALIGNER_11_snapshot 0xd53c8e8b24f3ad29ed6f4663955497fb
+2021-12-17 14:00:07.226000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:00:32.254000 INFO     Took 25.03 seconds
+2021-12-17 14:00:42.266000 INFO  PULSE IS COMING:
+2021-12-17 14:00:53.278000 INFO  CHECK I2C STATUS:
+2021-12-17 14:00:59.928000 INFO  RW Matches
+2021-12-17 14:01:05.340000 INFO  RO Matches
+2021-12-17 14:01:05.342000 INFO     Took 12.06 seconds
+2021-12-17 14:01:06.220000 INFO       CH_ALIGNER_0_snapshot 0xbd1ed946d4f96f17652734d2bd2ef9e6
+2021-12-17 14:01:06.221000 INFO       CH_ALIGNER_1_snapshot 0xbd1ef966f4f96f17650794f29d0ef9e6
+2021-12-17 14:01:06.221000 INFO       CH_ALIGNER_2_snapshot 0xbd1ed946d4f96f17652734d2bd2ef9e6
+2021-12-17 14:01:06.222000 INFO       CH_ALIGNER_3_snapshot 0xbd1ed946d4f96f17652734d2bd2ef9e6
+2021-12-17 14:01:06.222000 INFO       CH_ALIGNER_4_snapshot 0xbd1ed946d4f96f17652734d2bd2ef9e6
+2021-12-17 14:01:06.223000 INFO       CH_ALIGNER_5_snapshot 0xbd1ed946d4f96f17652734d2bd2ef9e6
+2021-12-17 14:01:06.223000 INFO       CH_ALIGNER_6_snapshot 0xbd1ef946d4fd6f17652734d2bd2efde6
+2021-12-17 14:01:06.224000 INFO       CH_ALIGNER_7_snapshot 0xbd1ed946d4f96f17652734d2bd2ef9e6
+2021-12-17 14:01:06.224000 INFO       CH_ALIGNER_8_snapshot 0xbd1ed946d4f96f17652734d2bd2ef9e6
+2021-12-17 14:01:06.224000 INFO       CH_ALIGNER_9_snapshot 0xbd1ed946d4f96f17652734d2bd2ef9e6
+2021-12-17 14:01:06.225000 INFO       CH_ALIGNER_10_snapshot 0xbd1ed946d4f96f17652734d2bd2ef9e6
+2021-12-17 14:01:06.225000 INFO       CH_ALIGNER_11_snapshot 0xbd1ed946d4f96f17652734d2bd2ef9e6
+2021-12-17 14:01:08.786000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:01:33.821000 INFO     Took 25.03 seconds
+2021-12-17 14:01:42.831000 INFO  PULSE IS COMING:
+2021-12-17 14:01:43.833000 INFO  PULSE IS COMING:
+2021-12-17 14:01:53.844000 INFO  CHECK I2C STATUS:
+2021-12-17 14:02:00.526000 INFO  RW Matches
+2021-12-17 14:02:05.908000 INFO  RO Matches
+2021-12-17 14:02:05.910000 INFO     Took 12.07 seconds
+2021-12-17 14:02:06.784000 INFO       CH_ALIGNER_0_snapshot 0xcd0d6b2f7cae31e4a545bd9d8d54d2fa
+2021-12-17 14:02:06.785000 INFO       CH_ALIGNER_1_snapshot 0xcd0d6b2f7cae31e4a545bd9d8d54d2fa
+2021-12-17 14:02:06.785000 INFO       CH_ALIGNER_2_snapshot 0xcd0d6b2f7cae31e4a545bd9d8d54d2fa
+2021-12-17 14:02:06.786000 INFO       CH_ALIGNER_3_snapshot 0xcd0d6b2f7cae31e4a545bd9d8d54d2fa
+2021-12-17 14:02:06.786000 INFO       CH_ALIGNER_4_snapshot 0xcd0d6b2f7cae31e4a545bd9d8d54d2fa
+2021-12-17 14:02:06.787000 INFO       CH_ALIGNER_5_snapshot 0xcd0d6b2f7cae31e4a545bd9d8d54d2fa
+2021-12-17 14:02:06.788000 INFO       CH_ALIGNER_6_snapshot 0xcd0d6b2f7cae31e4a545bd9d8d54d2fa
+2021-12-17 14:02:06.788000 INFO       CH_ALIGNER_7_snapshot 0xcd0d6b2f7cae31e4a545bd9d8d54d2fa
+2021-12-17 14:02:06.789000 INFO       CH_ALIGNER_8_snapshot 0xcd0d6b2f7cae31e4a545bd9d8d54d2fa
+2021-12-17 14:02:06.789000 INFO       CH_ALIGNER_9_snapshot 0xcd0d6b2f7cae31e4a545bd9d8d54d2fa
+2021-12-17 14:02:06.790000 INFO       CH_ALIGNER_10_snapshot 0xcd0d6b2f7cae31e4a545bd9d8d54d2fa
+2021-12-17 14:02:06.790000 INFO       CH_ALIGNER_11_snapshot 0xcd0d6b2f7cae31e4a545bd9d8d54d2fa
+2021-12-17 14:02:09.351000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:02:34.418000 INFO     Took 25.07 seconds
+2021-12-17 14:02:43.429000 INFO  PULSE IS COMING:
+2021-12-17 14:02:44.431000 INFO  PULSE IS COMING:
+2021-12-17 14:02:54.442000 INFO  CHECK I2C STATUS:
+2021-12-17 14:03:01.092000 INFO  RW Matches
+2021-12-17 14:03:06.460000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 14:03:06.461000 INFO     Took 12.02 seconds
+2021-12-17 14:03:07.340000 INFO       CH_ALIGNER_0_snapshot 0xdd5b6cdb6cadb7edb506da16dd476c93
+2021-12-17 14:03:07.341000 INFO       CH_ALIGNER_1_snapshot 0xdd5b6cdb6cadb7edb506da16dd476c93
+2021-12-17 14:03:07.341000 INFO       CH_ALIGNER_2_snapshot 0xdd5b6cdb6cadb7edb506da16dd476c93
+2021-12-17 14:03:07.341000 INFO       CH_ALIGNER_3_snapshot 0xdd5b6cdb6cadb7edb506da16dd476c93
+2021-12-17 14:03:07.342000 INFO       CH_ALIGNER_4_snapshot 0xdd5b6cdb6cadb7edb506da16dd476c93
+2021-12-17 14:03:07.342000 INFO       CH_ALIGNER_5_snapshot 0xdd5b6cdb6cadb7edb506da16dd476c93
+2021-12-17 14:03:07.343000 INFO       CH_ALIGNER_6_snapshot 0xdd5b6cdb6cadb7edb506da16dd476c93
+2021-12-17 14:03:07.343000 INFO       CH_ALIGNER_7_snapshot 0xdd5b6cdb6cadb7edb506da16dd476c93
+2021-12-17 14:03:07.344000 INFO       CH_ALIGNER_8_snapshot 0xdd5b6cdb6cadb7edb506da16dd476c93
+2021-12-17 14:03:07.344000 INFO       CH_ALIGNER_9_snapshot 0xdd5b6cdb6cadb7edb506da16dd476c93
+2021-12-17 14:03:07.345000 INFO       CH_ALIGNER_10_snapshot 0xdd5b6cdb6cadb7edb506da16dd476c93
+2021-12-17 14:03:07.345000 INFO       CH_ALIGNER_11_snapshot 0xdd5b6cdb6cadb7edb506da16dd476c93
+2021-12-17 14:03:09.906000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:03:34.922000 INFO     Took 25.02 seconds
+2021-12-17 14:03:44.934000 INFO  PULSE IS COMING:
+2021-12-17 14:03:45.935000 INFO  PULSE IS COMING:
+2021-12-17 14:03:55.946000 INFO  CHECK I2C STATUS:
+2021-12-17 14:04:02.635000 INFO  RW Matches
+2021-12-17 14:04:08.008000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 14:04:08.009000 INFO     Took 12.06 seconds
+2021-12-17 14:04:08.888000 INFO       CH_ALIGNER_0_snapshot 0x8d4c52a9ecff4603954097837510b263
+2021-12-17 14:04:08.889000 INFO       CH_ALIGNER_1_snapshot 0x8d6e72a9ecffe603956097837510b263
+2021-12-17 14:04:08.889000 INFO       CH_ALIGNER_2_snapshot 0x8d4c52a9ecff4603954097837510b263
+2021-12-17 14:04:08.890000 INFO       CH_ALIGNER_3_snapshot 0x8d4c52a9ecff4603954097837510b263
+2021-12-17 14:04:08.890000 INFO       CH_ALIGNER_4_snapshot 0x8d4c52a9ecff4603954097837510b263
+2021-12-17 14:04:08.891000 INFO       CH_ALIGNER_5_snapshot 0x8d4c52a9ecff6603954097837510b263
+2021-12-17 14:04:08.891000 INFO       CH_ALIGNER_6_snapshot 0x8d4c52a9ecffe6019540178375109263
+2021-12-17 14:04:08.891000 INFO       CH_ALIGNER_7_snapshot 0x8d4c52a9ecff4603954097837510b263
+2021-12-17 14:04:08.892000 INFO       CH_ALIGNER_8_snapshot 0x8d4c52a9ecff4603954097837510b263
+2021-12-17 14:04:08.892000 INFO       CH_ALIGNER_9_snapshot 0x8d4c52a9ecff4603954097837510b263
+2021-12-17 14:04:08.893000 INFO       CH_ALIGNER_10_snapshot 0x8d4c52a9ecff4603954097837510b263
+2021-12-17 14:04:08.893000 INFO       CH_ALIGNER_11_snapshot 0x8d4c52a9ecff4603954097837510b263
+2021-12-17 14:04:11.454000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:04:36.460000 INFO     Took 25.01 seconds
+2021-12-17 14:04:45.470000 INFO  PULSE IS COMING:
+2021-12-17 14:04:46.472000 INFO  PULSE IS COMING:
+2021-12-17 14:04:56.482000 INFO  CHECK I2C STATUS:
+2021-12-17 14:05:03.194000 INFO  RW Matches
+2021-12-17 14:05:08.559000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 14:05:08.560000 INFO     Took 12.08 seconds
+2021-12-17 14:05:09.439000 INFO       CH_ALIGNER_0_snapshot 0x9d3255adfcdec0c6852970f725232cca
+2021-12-17 14:05:09.440000 INFO       CH_ALIGNER_1_snapshot 0x9d3255adfcdec0c6852970f725232cca
+2021-12-17 14:05:09.440000 INFO       CH_ALIGNER_2_snapshot 0x9d3255adfcdec0c6852970f725232cca
+2021-12-17 14:05:09.441000 INFO       CH_ALIGNER_3_snapshot 0x9d3255adfcdec0c6852970f725232cca
+2021-12-17 14:05:09.441000 INFO       CH_ALIGNER_4_snapshot 0x9d3255adfcdec0c6852970f725232cca
+2021-12-17 14:05:09.441000 INFO       CH_ALIGNER_5_snapshot 0x9d3255adfcdec0c6852970f725232cca
+2021-12-17 14:05:09.442000 INFO       CH_ALIGNER_6_snapshot 0x9d3255adfcdee0c6852970f725232cca
+2021-12-17 14:05:09.442000 INFO       CH_ALIGNER_7_snapshot 0x9d3255adfcdec0c6852970f725232cca
+2021-12-17 14:05:09.443000 INFO       CH_ALIGNER_8_snapshot 0x9d3255adfcdec0c6852970f725232cca
+2021-12-17 14:05:09.443000 INFO       CH_ALIGNER_9_snapshot 0x9d3255adfcdec0c6852970f725232cca
+2021-12-17 14:05:09.444000 INFO       CH_ALIGNER_10_snapshot 0x9d3255adfcdec0c6852970f725232cca
+2021-12-17 14:05:09.444000 INFO       CH_ALIGNER_11_snapshot 0x9d3255adfcdec0c6852970f725232cca
+2021-12-17 14:05:12.006000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:05:37.027000 INFO     Took 25.02 seconds
+2021-12-17 14:05:46.036000 INFO  PULSE IS COMING:
+2021-12-17 14:05:47.038000 INFO  PULSE IS COMING:
+2021-12-17 14:05:57.049000 INFO  CHECK I2C STATUS:
+2021-12-17 14:06:03.702000 INFO  RW Matches
+2021-12-17 14:06:09.104000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 14:06:09.105000 INFO     Took 12.06 seconds
+2021-12-17 14:06:09.978000 INFO       CH_ALIGNER_0_snapshot 0xb5551bfe5c805d01ed604a41bd5858d1
+2021-12-17 14:06:09.978000 INFO       CH_ALIGNER_1_snapshot 0x977f9bfe7e807f01ef7068619f7c7871
+2021-12-17 14:06:09.979000 INFO       CH_ALIGNER_2_snapshot 0xb5551bfe5c805d01cd604a41bd5858d1
+2021-12-17 14:06:09.979000 INFO       CH_ALIGNER_3_snapshot 0xb5551bfe5c805d01cd604a41bd5858d1
+2021-12-17 14:06:09.980000 INFO       CH_ALIGNER_4_snapshot 0xb5551bfe5c805d01cd604a41bd5858d1
+2021-12-17 14:06:09.980000 INFO       CH_ALIGNER_5_snapshot 0xb5551bfe7c805d01cd604a41bd5858d1
+2021-12-17 14:06:09.981000 INFO       CH_ALIGNER_6_snapshot 0xb5551bff7c800d00cd6002409df858d1
+2021-12-17 14:06:09.981000 INFO       CH_ALIGNER_7_snapshot 0xb5551bfe5c805d01cd604a41bd5858d1
+2021-12-17 14:06:09.981000 INFO       CH_ALIGNER_8_snapshot 0xb5551bfe5c805d01cd604a41bd5858d1
+2021-12-17 14:06:09.982000 INFO       CH_ALIGNER_9_snapshot 0xb5551bfe5c805d01cd604a41bd5858d1
+2021-12-17 14:06:09.982000 INFO       CH_ALIGNER_10_snapshot 0xb5551bfe5c805d01cd604a41bd5858d1
+2021-12-17 14:06:09.983000 INFO       CH_ALIGNER_11_snapshot 0xb5551bfe5c805d01cd604a41bd5858d1
+2021-12-17 14:06:12.544000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:06:37.569000 INFO     Took 25.03 seconds
+2021-12-17 14:06:47.580000 INFO  PULSE IS COMING:
+2021-12-17 14:06:48.582000 INFO  PULSE IS COMING:
+2021-12-17 14:06:58.593000 INFO  CHECK I2C STATUS:
+2021-12-17 14:07:05.252000 INFO  RW Matches
+2021-12-17 14:07:10.623000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 14:07:10.624000 INFO     Took 12.03 seconds
+2021-12-17 14:07:11.505000 INFO       CH_ALIGNER_0_snapshot 0xf57a631d4ca4fbda1d0dc52c9d6eb467
+2021-12-17 14:07:11.506000 INFO       CH_ALIGNER_1_snapshot 0xf57a631f6c84fbfa1f07e50e9f6e9467
+2021-12-17 14:07:11.506000 INFO       CH_ALIGNER_2_snapshot 0xf57a631d4ca4fbda1d0dc52c9d6eb467
+2021-12-17 14:07:11.506000 INFO       CH_ALIGNER_3_snapshot 0xf57a631d4ca4fbda1d0dc52c9d6eb467
+2021-12-17 14:07:11.507000 INFO       CH_ALIGNER_4_snapshot 0xf57a631d4ca4fbda1d0dc52c9d6eb467
+2021-12-17 14:07:11.507000 INFO       CH_ALIGNER_5_snapshot 0xf57a631d4ca4fbda1d0dc52c9d6eb467
+2021-12-17 14:07:11.508000 INFO       CH_ALIGNER_6_snapshot 0xf77a631d4ca4fbda1d0de52c9d6eb467
+2021-12-17 14:07:11.508000 INFO       CH_ALIGNER_7_snapshot 0xf57a631d4ca4fbda1d0dc52c9d6eb467
+2021-12-17 14:07:11.509000 INFO       CH_ALIGNER_8_snapshot 0xf57a631d4ca4fbda1d0dc52c9d6eb467
+2021-12-17 14:07:11.509000 INFO       CH_ALIGNER_9_snapshot 0xf57a631d4ca4fbda1d0dc52c9d6eb467
+2021-12-17 14:07:11.510000 INFO       CH_ALIGNER_10_snapshot 0xf57a631d4ca4fbda1d0dc52c9d6eb467
+2021-12-17 14:07:11.510000 INFO       CH_ALIGNER_11_snapshot 0xf57a631d4ca4fbda1d0dc52c9d6eb467
+2021-12-17 14:07:14.071000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:07:39.093000 INFO     Took 25.02 seconds
+2021-12-17 14:07:48.103000 INFO  PULSE IS COMING:
+2021-12-17 14:07:49.104000 INFO  PULSE IS COMING:
+2021-12-17 14:07:59.115000 INFO  CHECK I2C STATUS:
+2021-12-17 14:08:05.803000 INFO  RW Matches
+2021-12-17 14:08:11.166000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 14:08:11.167000 INFO     Took 12.05 seconds
+2021-12-17 14:08:12.047000 INFO       CH_ALIGNER_0_snapshot 0x8f1f9f6e649c781ff79e6e98077dff1e
+2021-12-17 14:08:12.048000 INFO       CH_ALIGNER_1_snapshot 0xd78e8fa7225d2c4eea9a675d52bcfe8a
+2021-12-17 14:08:12.048000 INFO       CH_ALIGNER_2_snapshot 0xad1f1f4e44ba589dd534cebaa579fd14
+2021-12-17 14:08:12.049000 INFO       CH_ALIGNER_3_snapshot 0xad1f1f4e44ba589df534eebaa579fd14
+2021-12-17 14:08:12.049000 INFO       CH_ALIGNER_4_snapshot 0xad1f1f4e44ba589df536eebaa579fd14
+2021-12-17 14:08:12.049000 INFO       CH_ALIGNER_5_snapshot 0xbd1d9f6e64bb589ddd36cefba579ff94
+2021-12-17 14:08:12.050000 INFO       CH_ALIGNER_6_snapshot 0xff0f8fee641d388dff9a66ffc57dff90
+2021-12-17 14:08:12.050000 INFO       CH_ALIGNER_7_snapshot 0xad1d1f4e44ba589dd534cebaa579fd14
+2021-12-17 14:08:12.051000 INFO       CH_ALIGNER_8_snapshot 0xad1f1f4e44ba589df53ecebaa579fd14
+2021-12-17 14:08:12.051000 INFO       CH_ALIGNER_9_snapshot 0xad1d1f4e44ba589dd534cebaa579fd14
+2021-12-17 14:08:12.052000 INFO       CH_ALIGNER_10_snapshot 0xad1d1f4e44ba589dd534cebaa579fd14
+2021-12-17 14:08:12.052000 INFO       CH_ALIGNER_11_snapshot 0xad1d1f4e44ba589dd534cebaa579fd14
+2021-12-17 14:08:14.614000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:08:39.628000 INFO     Took 25.01 seconds
+2021-12-17 14:08:48.638000 INFO  PULSE IS COMING:
+2021-12-17 14:08:49.640000 INFO  PULSE IS COMING:
+2021-12-17 14:08:59.650000 INFO  CHECK I2C STATUS:
+2021-12-17 14:09:06.331000 INFO  RW Matches
+2021-12-17 14:09:11.697000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 14:09:11.698000 INFO     Took 12.05 seconds
+2021-12-17 14:09:12.573000 INFO       CH_ALIGNER_0_snapshot 0xcd0e0b243cad89ed3546eb967d175173
+2021-12-17 14:09:12.573000 INFO       CH_ALIGNER_1_snapshot 0xed0e0b241cad89ed3566eb967d177173
+2021-12-17 14:09:12.574000 INFO       CH_ALIGNER_2_snapshot 0xcd0e0b243cad89ed3546eb967d175173
+2021-12-17 14:09:12.574000 INFO       CH_ALIGNER_3_snapshot 0xcd0e0b243cad89ed3546eb967d175173
+2021-12-17 14:09:12.575000 INFO       CH_ALIGNER_4_snapshot 0xcd0e0b243cad89ed3546eb967d175173
+2021-12-17 14:09:12.575000 INFO       CH_ALIGNER_5_snapshot 0xcd0e0b243cad89ed3546eb967d175173
+2021-12-17 14:09:12.576000 INFO       CH_ALIGNER_6_snapshot 0xed0e0b243cad89ed3546eb967d175173
+2021-12-17 14:09:12.576000 INFO       CH_ALIGNER_7_snapshot 0xcd0e0b243cad89ed3546eb967d175173
+2021-12-17 14:09:12.577000 INFO       CH_ALIGNER_8_snapshot 0xcd0e0b243cad89ed3546eb967d175173
+2021-12-17 14:09:12.577000 INFO       CH_ALIGNER_9_snapshot 0xcd0e0b243cad89ed3546eb967d175173
+2021-12-17 14:09:12.577000 INFO       CH_ALIGNER_10_snapshot 0xcd0e0b243cad89ed3546eb967d175173
+2021-12-17 14:09:12.578000 INFO       CH_ALIGNER_11_snapshot 0xcd0e0b243cad89ed3546eb967d175173
+2021-12-17 14:09:15.140000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:09:40.170000 INFO     Took 25.03 seconds
+2021-12-17 14:09:50.181000 INFO  PULSE IS COMING:
+2021-12-17 14:09:51.183000 INFO  PULSE IS COMING:
+2021-12-17 14:10:01.194000 INFO  CHECK I2C STATUS:
+2021-12-17 14:10:07.887000 INFO  RW Matches
+2021-12-17 14:10:13.264000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 14:10:13.265000 INFO     Took 12.07 seconds
+2021-12-17 14:10:14.143000 INFO       CH_ALIGNER_0_snapshot 0x7523fec804eb017a0571e124856fb16d
+2021-12-17 14:10:14.144000 INFO       CH_ALIGNER_1_snapshot 0xff81fee006f1817807f8e18607f7d96f
+2021-12-17 14:10:14.144000 INFO       CH_ALIGNER_2_snapshot 0x5523fec804eb017a0571c124856db16d
+2021-12-17 14:10:14.145000 INFO       CH_ALIGNER_3_snapshot 0x5523fec804eb017a0571c124856db16d
+2021-12-17 14:10:14.145000 INFO       CH_ALIGNER_4_snapshot 0x5523fec804eb017a0571c124856db16d
+2021-12-17 14:10:14.146000 INFO       CH_ALIGNER_5_snapshot 0x5523fec804eb017a0571c124856db16d
+2021-12-17 14:10:14.146000 INFO       CH_ALIGNER_6_snapshot 0x5501ffe8006f003a0071c000046ff96f
+2021-12-17 14:10:14.147000 INFO       CH_ALIGNER_7_snapshot 0x5523fec804eb017a0571c124856db16d
+2021-12-17 14:10:14.147000 INFO       CH_ALIGNER_8_snapshot 0x5523fec804eb017a0571c124856db16d
+2021-12-17 14:10:14.147000 INFO       CH_ALIGNER_9_snapshot 0x5523fec804eb017a0571c124856db16d
+2021-12-17 14:10:14.148000 INFO       CH_ALIGNER_10_snapshot 0x5523fec804eb017a0571c124856db16d
+2021-12-17 14:10:14.148000 INFO       CH_ALIGNER_11_snapshot 0x5523fec804eb017a0571c124856db16d
+2021-12-17 14:10:16.708000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:10:41.752000 INFO     Took 25.04 seconds
+2021-12-17 14:10:50.762000 INFO  PULSE IS COMING:
+2021-12-17 14:10:51.764000 INFO  PULSE IS COMING:
+2021-12-17 14:11:01.774000 INFO  CHECK I2C STATUS:
+2021-12-17 14:11:08.461000 INFO  RW Matches
+2021-12-17 14:11:13.852000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 14:11:13.853000 INFO     Took 12.08 seconds
+2021-12-17 14:11:14.726000 INFO       CH_ALIGNER_0_snapshot 0x2d0b4f3ba4a99cf54d23fbc81d0b053a
+2021-12-17 14:11:14.727000 INFO       CH_ALIGNER_1_snapshot 0xd036f3ba4899ef56d01fbe81f01851a
+2021-12-17 14:11:14.727000 INFO       CH_ALIGNER_2_snapshot 0x2d0b4f3ba4a99cf54d23fbc81d0b053a
+2021-12-17 14:11:14.728000 INFO       CH_ALIGNER_3_snapshot 0x2d0b4f3ba4a99cf54d23fbc81d0b053a
+2021-12-17 14:11:14.728000 INFO       CH_ALIGNER_4_snapshot 0x2d0b4f3ba4a99cf54d23fbc81d0b053a
+2021-12-17 14:11:14.729000 INFO       CH_ALIGNER_5_snapshot 0x2d0b4f3ba4a99cf54d23fbc81d0b053a
+2021-12-17 14:11:14.729000 INFO       CH_ALIGNER_6_snapshot 0x2d094f3ba4a99cf74d23ffe81d09053a
+2021-12-17 14:11:14.729000 INFO       CH_ALIGNER_7_snapshot 0x2d0b4f3ba4a99cf54d23fbc81d0b053a
+2021-12-17 14:11:14.730000 INFO       CH_ALIGNER_8_snapshot 0x2d0b4f3ba4a99cf54d23fbc81d0b053a
+2021-12-17 14:11:14.730000 INFO       CH_ALIGNER_9_snapshot 0x2d0b4f3ba4a99cf54d23fbc81d0b053a
+2021-12-17 14:11:14.731000 INFO       CH_ALIGNER_10_snapshot 0x2d0b4f3ba4a99cf54d23fbc81d0b053a
+2021-12-17 14:11:14.731000 INFO       CH_ALIGNER_11_snapshot 0x2d0b4f3ba4a99cf54d23fbc81d0b053a
+2021-12-17 14:11:17.292000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:11:42.337000 INFO     Took 25.05 seconds
+2021-12-17 14:11:51.348000 INFO  PULSE IS COMING:
+2021-12-17 14:11:52.349000 INFO  PULSE IS COMING:
+2021-12-17 14:12:02.361000 INFO  CHECK I2C STATUS:
+2021-12-17 14:12:09.013000 INFO  RW Matches
+2021-12-17 14:12:14.422000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 14:12:14.423000 INFO     Took 12.06 seconds
+2021-12-17 14:12:15.296000 INFO       CH_ALIGNER_0_snapshot 0x7fe0efc7e6089e321f8abdff8fb80780
+2021-12-17 14:12:15.297000 INFO       CH_ALIGNER_1_snapshot 0x6aa0b7c3b2489a335e8abcbf8ab81390
+2021-12-17 14:12:15.297000 INFO       CH_ALIGNER_2_snapshot 0xf5616f8764913466bd1ff97f17780720
+2021-12-17 14:12:15.298000 INFO       CH_ALIGNER_3_snapshot 0xf5616f87649114669f17f97f17780700
+2021-12-17 14:12:15.298000 INFO       CH_ALIGNER_4_snapshot 0xf5616f87e49916669f1ff97f17780700
+2021-12-17 14:12:15.299000 INFO       CH_ALIGNER_5_snapshot 0xf5616fc766913466bd9df9ff95782730
+2021-12-17 14:12:15.299000 INFO       CH_ALIGNER_6_snapshot 0x7fa027c332001a231f88bdff99b80310
+2021-12-17 14:12:15.300000 INFO       CH_ALIGNER_7_snapshot 0xd5416f8764913466bd15797f15702720
+2021-12-17 14:12:15.300000 INFO       CH_ALIGNER_8_snapshot 0xf561ef87e499be66bf1ff97f97f827a0
+2021-12-17 14:12:15.301000 INFO       CH_ALIGNER_9_snapshot 0xd5416f8764913466bd15797f15702720
+2021-12-17 14:12:15.301000 INFO       CH_ALIGNER_10_snapshot 0xd5616f8764913466bd1ff97f15782720
+2021-12-17 14:12:15.302000 INFO       CH_ALIGNER_11_snapshot 0xd5416f8764913466bd15797f15702720
+2021-12-17 14:12:17.863000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:12:42.885000 INFO     Took 25.02 seconds
+2021-12-17 14:12:52.897000 INFO  PULSE IS COMING:
+2021-12-17 14:12:53.898000 INFO  PULSE IS COMING:
+2021-12-17 14:13:03.909000 INFO  CHECK I2C STATUS:
+2021-12-17 14:13:10.567000 INFO  RW Matches
+2021-12-17 14:13:15.946000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 14:13:15.947000 INFO     Took 12.04 seconds
+2021-12-17 14:13:16.825000 INFO       CH_ALIGNER_0_snapshot 0xad575ef3c4e2894f357a2b1cfd24a1db
+2021-12-17 14:13:16.826000 INFO       CH_ALIGNER_1_snapshot 0xad777ef3e4e0894f157a0b1efd0481fb
+2021-12-17 14:13:16.827000 INFO       CH_ALIGNER_2_snapshot 0xad575ef3c4e2894f357a2b1cfd24a1db
+2021-12-17 14:13:16.827000 INFO       CH_ALIGNER_3_snapshot 0xad575ef3c4e2894f357a2b1cfd24a1db
+2021-12-17 14:13:16.828000 INFO       CH_ALIGNER_4_snapshot 0xad575ef3c4e2894f357a2b1cfd24a1db
+2021-12-17 14:13:16.828000 INFO       CH_ALIGNER_5_snapshot 0xad575ef3c4e2894f357a2b1cfd24a1db
+2021-12-17 14:13:16.829000 INFO       CH_ALIGNER_6_snapshot 0xad577ef3c4e2894f357a2b1cff24a1db
+2021-12-17 14:13:16.829000 INFO       CH_ALIGNER_7_snapshot 0xad575ef3c4e2894f357a2b1cfd24a1db
+2021-12-17 14:13:16.829000 INFO       CH_ALIGNER_8_snapshot 0xad575ef3c4e2894f357a2b1cfd24a1db
+2021-12-17 14:13:16.830000 INFO       CH_ALIGNER_9_snapshot 0xad575ef3c4e2894f357a2b1cfd24a1db
+2021-12-17 14:13:16.830000 INFO       CH_ALIGNER_10_snapshot 0xad575ef3c4e2894f357a2b1cfd24a1db
+2021-12-17 14:13:16.831000 INFO       CH_ALIGNER_11_snapshot 0xad575ef3c4e2894f357a2b1cfd24a1db
+2021-12-17 14:13:19.392000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:13:44.439000 INFO     Took 25.05 seconds
+2021-12-17 14:13:53.448000 INFO  PULSE IS COMING:
+2021-12-17 14:13:54.450000 INFO  PULSE IS COMING:
+2021-12-17 14:14:04.462000 INFO  CHECK I2C STATUS:
+2021-12-17 14:14:11.154000 INFO  RW Matches
+2021-12-17 14:14:16.522000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 14:14:16.523000 INFO     Took 12.06 seconds
+2021-12-17 14:14:17.402000 INFO       CH_ALIGNER_0_snapshot 0xd7162274ccd3aae9d7e74053d01e904
+2021-12-17 14:14:17.403000 INFO       CH_ALIGNER_1_snapshot 0xd7162274ccd3aae9d7e74053d01e904
+2021-12-17 14:14:17.403000 INFO       CH_ALIGNER_2_snapshot 0xd7162274ccd3aae9d7e74053d01e904
+2021-12-17 14:14:17.404000 INFO       CH_ALIGNER_3_snapshot 0xd7162274ccd3aae9d7e74053d01e904
+2021-12-17 14:14:17.404000 INFO       CH_ALIGNER_4_snapshot 0xd7162274ccd3aae9d7e74053d01e904
+2021-12-17 14:14:17.405000 INFO       CH_ALIGNER_5_snapshot 0xd7162274ccd3aae9d7e74053d01e904
+2021-12-17 14:14:17.405000 INFO       CH_ALIGNER_6_snapshot 0xd7162274ccd3aae9d7e74053d01e904
+2021-12-17 14:14:17.405000 INFO       CH_ALIGNER_7_snapshot 0xd7162274ccd3aae9d7e74053d01e904
+2021-12-17 14:14:17.406000 INFO       CH_ALIGNER_8_snapshot 0xd7162274ccd3aae9d7e74053d01e904
+2021-12-17 14:14:17.406000 INFO       CH_ALIGNER_9_snapshot 0xd7162274ccd3aae9d7e74053d01e904
+2021-12-17 14:14:17.407000 INFO       CH_ALIGNER_10_snapshot 0xd7162274ccd3aae9d7e74053d01e904
+2021-12-17 14:14:17.407000 INFO       CH_ALIGNER_11_snapshot 0xd7162274ccd3aae9d7e74053d01e904
+2021-12-17 14:14:19.968000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:14:44.994000 INFO     Took 25.03 seconds
+2021-12-17 14:14:54.004000 INFO  PULSE IS COMING:
+2021-12-17 14:14:55.006000 INFO  PULSE IS COMING:
+2021-12-17 14:15:05.017000 INFO  CHECK I2C STATUS:
+2021-12-17 14:15:11.695000 INFO  RW Matches
+2021-12-17 14:15:17.063000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 14:15:17.064000 INFO     Took 12.05 seconds
+2021-12-17 14:15:17.938000 INFO       CH_ALIGNER_0_snapshot 0x5d62bc4f8c9a135c6d3c978b7513b269
+2021-12-17 14:15:17.939000 INFO       CH_ALIGNER_1_snapshot 0x7f609e4f8e9a137e6d1e178b75199269
+2021-12-17 14:15:17.939000 INFO       CH_ALIGNER_2_snapshot 0x5d62bc4f8c9a135c6d3c978b7513b269
+2021-12-17 14:15:17.939000 INFO       CH_ALIGNER_3_snapshot 0x5d62bc4f8c9a135c6d3c978b7513b269
+2021-12-17 14:15:17.940000 INFO       CH_ALIGNER_4_snapshot 0x5d62bc4f8c9a135c6d3c978b7513b269
+2021-12-17 14:15:17.940000 INFO       CH_ALIGNER_5_snapshot 0x5d62bc4f8c9a135c6d3c978b7513b269
+2021-12-17 14:15:17.941000 INFO       CH_ALIGNER_6_snapshot 0x5d62bc4f8c9a115c6d3c978b7511b269
+2021-12-17 14:15:17.941000 INFO       CH_ALIGNER_7_snapshot 0x5d62bc4f8c9a135c6d3c978b7513b269
+2021-12-17 14:15:17.942000 INFO       CH_ALIGNER_8_snapshot 0x5d62bc4f8c9a135c6d3c978b7513b269
+2021-12-17 14:15:17.942000 INFO       CH_ALIGNER_9_snapshot 0x5d62bc4f8c9a135c6d3c978b7513b269
+2021-12-17 14:15:17.943000 INFO       CH_ALIGNER_10_snapshot 0x5d62bc4f8c9a135c6d3c978b7513b269
+2021-12-17 14:15:17.943000 INFO       CH_ALIGNER_11_snapshot 0x5d62bc4f8c9a135c6d3c978b7513b269
+2021-12-17 14:15:20.505000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:15:45.552000 INFO     Took 25.05 seconds
+2021-12-17 14:15:55.562000 INFO  PULSE IS COMING:
+2021-12-17 14:15:56.564000 INFO  PULSE IS COMING:
+2021-12-17 14:16:06.575000 INFO  CHECK I2C STATUS:
+2021-12-17 14:16:13.277000 INFO  RW Matches
+2021-12-17 14:16:18.651000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 14:16:18.652000 INFO     Took 12.08 seconds
+2021-12-17 14:16:19.526000 INFO       CH_ALIGNER_0_snapshot 0x9d4874b13cba699d7554f3fa2d01cf04
+2021-12-17 14:16:19.527000 INFO       CH_ALIGNER_1_snapshot 0x9d6874b13cba699d757ef3fa0d01ef04
+2021-12-17 14:16:19.527000 INFO       CH_ALIGNER_2_snapshot 0x9d4874b13cba699d7554f3fa2d01cf04
+2021-12-17 14:16:19.528000 INFO       CH_ALIGNER_3_snapshot 0x9d4874b13cba699d7554f3fa2d01cf04
+2021-12-17 14:16:19.528000 INFO       CH_ALIGNER_4_snapshot 0x9d4874b13cba699d7554f3fa2d01cf04
+2021-12-17 14:16:19.529000 INFO       CH_ALIGNER_5_snapshot 0x9d4874b13cba699d7554f3fa2d01cf04
+2021-12-17 14:16:19.529000 INFO       CH_ALIGNER_6_snapshot 0x9d4874b11cba699d7554f3fa2d01cf04
+2021-12-17 14:16:19.530000 INFO       CH_ALIGNER_7_snapshot 0x9d4874b13cba699d7554f3fa2d01cf04
+2021-12-17 14:16:19.530000 INFO       CH_ALIGNER_8_snapshot 0x9d4874b13cba699d7554f3fa2d01cf04
+2021-12-17 14:16:19.531000 INFO       CH_ALIGNER_9_snapshot 0x9d4874b13cba699d7554f3fa2d01cf04
+2021-12-17 14:16:19.531000 INFO       CH_ALIGNER_10_snapshot 0x9d4874b13cba699d7554f3fa2d01cf04
+2021-12-17 14:16:19.531000 INFO       CH_ALIGNER_11_snapshot 0x9d4874b13cba699d7554f3fa2d01cf04
+2021-12-17 14:16:22.094000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:16:47.125000 INFO     Took 25.03 seconds
+2021-12-17 14:16:56.135000 INFO  PULSE IS COMING:
+2021-12-17 14:16:57.137000 INFO  PULSE IS COMING:
+2021-12-17 14:17:07.148000 INFO  CHECK I2C STATUS:
+2021-12-17 14:17:13.838000 INFO  RW Matches
+2021-12-17 14:17:19.230000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 14:17:19.232000 INFO     Took 12.08 seconds
+2021-12-17 14:17:20.112000 INFO       CH_ALIGNER_0_snapshot 0x9562b74fb4ba1a9c5d749c3b4d09bb35
+2021-12-17 14:17:20.113000 INFO       CH_ALIGNER_1_snapshot 0x9562b74fb4ba1a9c5d749c3b4d09bb35
+2021-12-17 14:17:20.113000 INFO       CH_ALIGNER_2_snapshot 0x9562b74fb4ba1a9c5d749c3b4d09bb35
+2021-12-17 14:17:20.114000 INFO       CH_ALIGNER_3_snapshot 0x9562b74fb4ba1a9c5d749c3b4d09bb35
+2021-12-17 14:17:20.114000 INFO       CH_ALIGNER_4_snapshot 0x9562b74fb4ba1a9c5d749c3b4d09bb35
+2021-12-17 14:17:20.114000 INFO       CH_ALIGNER_5_snapshot 0x9562b74fb4ba1a9c5d749c3b4d09bb35
+2021-12-17 14:17:20.115000 INFO       CH_ALIGNER_6_snapshot 0x9562b74fb4ba1a9c5d749c3b4d09bb35
+2021-12-17 14:17:20.115000 INFO       CH_ALIGNER_7_snapshot 0x9562b74fb4ba1a9c5d749c3b4d09bb35
+2021-12-17 14:17:20.116000 INFO       CH_ALIGNER_8_snapshot 0x9562b74fb4ba1a9c5d749c3b4d09bb35
+2021-12-17 14:17:20.116000 INFO       CH_ALIGNER_9_snapshot 0x9562b74fb4ba1a9c5d749c3b4d09bb35
+2021-12-17 14:17:20.117000 INFO       CH_ALIGNER_10_snapshot 0x9562b74fb4ba1a9c5d749c3b4d09bb35
+2021-12-17 14:17:20.117000 INFO       CH_ALIGNER_11_snapshot 0x9562b74fb4ba1a9c5d749c3b4d09bb35
+2021-12-17 14:17:22.678000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:17:47.721000 INFO     Took 25.04 seconds
+2021-12-17 14:17:56.731000 INFO  PULSE IS COMING:
+2021-12-17 14:17:57.733000 INFO  PULSE IS COMING:
+2021-12-17 14:18:07.744000 INFO  CHECK I2C STATUS:
+2021-12-17 14:18:14.402000 INFO  RW Matches
+2021-12-17 14:18:19.793000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 14:18:19.794000 INFO     Took 12.05 seconds
+2021-12-17 14:18:20.668000 INFO       CH_ALIGNER_0_snapshot 0xfd7ae01e8484701905056c1f6d041718
+2021-12-17 14:18:20.669000 INFO       CH_ALIGNER_1_snapshot 0xff7c601e868238190783ee1fef821f88
+2021-12-17 14:18:20.670000 INFO       CH_ALIGNER_2_snapshot 0xfd7ac01e8484701925056c1f6d043718
+2021-12-17 14:18:20.670000 INFO       CH_ALIGNER_3_snapshot 0xfd7ac01e8484701925056c1f6d043718
+2021-12-17 14:18:20.670000 INFO       CH_ALIGNER_4_snapshot 0xfd7ac01e8484701925056c1f6d043718
+2021-12-17 14:18:20.671000 INFO       CH_ALIGNER_5_snapshot 0xfd7ac01e8484701925056c1f6d043718
+2021-12-17 14:18:20.671000 INFO       CH_ALIGNER_6_snapshot 0xffffe00e8404700901006e0fff001718
+2021-12-17 14:18:20.672000 INFO       CH_ALIGNER_7_snapshot 0xfd7ac01e8484701925056c1f6d043718
+2021-12-17 14:18:20.672000 INFO       CH_ALIGNER_8_snapshot 0xfd7ac01e8484701925056c1f6d043718
+2021-12-17 14:18:20.673000 INFO       CH_ALIGNER_9_snapshot 0xfd7ac01e8484701925056c1f6d043718
+2021-12-17 14:18:20.673000 INFO       CH_ALIGNER_10_snapshot 0xfd7ac01e8484701925056c1f6d043718
+2021-12-17 14:18:20.674000 INFO       CH_ALIGNER_11_snapshot 0xfd7ac01e8484701925056c1f6d043718
+2021-12-17 14:18:23.238000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:18:48.294000 INFO     Took 25.06 seconds
+2021-12-17 14:18:58.305000 INFO  PULSE IS COMING:
+2021-12-17 14:18:59.307000 INFO  PULSE IS COMING:
+2021-12-17 14:19:09.317000 INFO  CHECK I2C STATUS:
+2021-12-17 14:19:15.978000 INFO  RW Matches
+2021-12-17 14:19:21.354000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 14:19:21.355000 INFO     Took 12.04 seconds
+2021-12-17 14:19:22.235000 INFO       CH_ALIGNER_0_snapshot 0x8d1913566cbf5783f51082630d54a2fb
+2021-12-17 14:19:22.235000 INFO       CH_ALIGNER_1_snapshot 0x8d1913766c9f7783f51082610f7e80fb
+2021-12-17 14:19:22.236000 INFO       CH_ALIGNER_2_snapshot 0x8d1913566cbf5783f51082630d54a2fb
+2021-12-17 14:19:22.236000 INFO       CH_ALIGNER_3_snapshot 0x8d1913566cbf5783f51082630d54a2fb
+2021-12-17 14:19:22.237000 INFO       CH_ALIGNER_4_snapshot 0x8d1913566cbf5783f51082630d54a2fb
+2021-12-17 14:19:22.237000 INFO       CH_ALIGNER_5_snapshot 0x8d1913566cbf7783f51082630d54a2fb
+2021-12-17 14:19:22.238000 INFO       CH_ALIGNER_6_snapshot 0x8d1911566cbff783f71080630d54a2fb
+2021-12-17 14:19:22.238000 INFO       CH_ALIGNER_7_snapshot 0x8d1913566cbf5783f51082630d54a2fb
+2021-12-17 14:19:22.239000 INFO       CH_ALIGNER_8_snapshot 0x8d1913566cbf5783f51082630d54a2fb
+2021-12-17 14:19:22.239000 INFO       CH_ALIGNER_9_snapshot 0x8d1913566cbf5783f51082630d54a2fb
+2021-12-17 14:19:22.240000 INFO       CH_ALIGNER_10_snapshot 0x8d1913566cbf5783f51082630d54a2fb
+2021-12-17 14:19:22.240000 INFO       CH_ALIGNER_11_snapshot 0x8d1913566cbf5783f51082630d54a2fb
+2021-12-17 14:19:24.802000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:19:49.855000 INFO     Took 25.05 seconds
+2021-12-17 14:19:58.866000 INFO  PULSE IS COMING:
+2021-12-17 14:19:59.868000 INFO  PULSE IS COMING:
+2021-12-17 14:20:09.878000 INFO  CHECK I2C STATUS:
+2021-12-17 14:20:16.567000 INFO  RW Matches
+2021-12-17 14:20:21.932000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 14:20:21.934000 INFO     Took 12.06 seconds
+2021-12-17 14:20:22.812000 INFO       CH_ALIGNER_0_snapshot 0xbd17197254f2df2ec52e68e57525f2dc
+2021-12-17 14:20:22.813000 INFO       CH_ALIGNER_1_snapshot 0xbd17197254f2df2ec52e68e57525f2dc
+2021-12-17 14:20:22.814000 INFO       CH_ALIGNER_2_snapshot 0xbd17197254f2df2ec52e68e57525f2dc
+2021-12-17 14:20:22.814000 INFO       CH_ALIGNER_3_snapshot 0xbd17197254f2df2ec52e68e57525f2dc
+2021-12-17 14:20:22.815000 INFO       CH_ALIGNER_4_snapshot 0xbd17197254f2df2ec52e68e57525f2dc
+2021-12-17 14:20:22.815000 INFO       CH_ALIGNER_5_snapshot 0xbd17197254f2df2ec52e68e57525f2dc
+2021-12-17 14:20:22.815000 INFO       CH_ALIGNER_6_snapshot 0xbd17197254f2df2ec52e68e57525f2dc
+2021-12-17 14:20:22.816000 INFO       CH_ALIGNER_7_snapshot 0xbd17197254f2df2ec52e68e57525f2dc
+2021-12-17 14:20:22.816000 INFO       CH_ALIGNER_8_snapshot 0xbd17197254f2df2ec52e68e57525f2dc
+2021-12-17 14:20:22.817000 INFO       CH_ALIGNER_9_snapshot 0xbd17197254f2df2ec52e68e57525f2dc
+2021-12-17 14:20:22.817000 INFO       CH_ALIGNER_10_snapshot 0xbd17197254f2df2ec52e68e57525f2dc
+2021-12-17 14:20:22.818000 INFO       CH_ALIGNER_11_snapshot 0xbd17197254f2df2ec52e68e57525f2dc
+2021-12-17 14:20:25.378000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:20:50.406000 INFO     Took 25.03 seconds
+2021-12-17 14:20:59.415000 INFO  PULSE IS COMING:
+2021-12-17 14:21:00.417000 INFO  PULSE IS COMING:
+2021-12-17 14:21:10.427000 INFO  CHECK I2C STATUS:
+2021-12-17 14:21:17.111000 INFO  RW Matches
+2021-12-17 14:21:22.500000 INFO  RO Mismatches: {'ASIC': {'PLL_ALL': {'pll_read_bytes_4to3': (8, 10), 'pll_read_bytes_4to3_parallel_enable_intrB': (0, 1)}}}
+2021-12-17 14:21:22.501000 INFO     Took 12.07 seconds
+2021-12-17 14:21:23.380000 INFO       CH_ALIGNER_0_snapshot 0x3d76e836748b523bed4986b5157be718
+2021-12-17 14:21:23.381000 INFO       CH_ALIGNER_1_snapshot 0x3d76e836748b523bed4986b5157be718
+2021-12-17 14:21:23.382000 INFO       CH_ALIGNER_2_snapshot 0x3d76e836748b523bed4986b5157be718
+2021-12-17 14:21:23.382000 INFO       CH_ALIGNER_3_snapshot 0x3d76e836748b523bed4986b5157be718
+2021-12-17 14:21:23.382000 INFO       CH_ALIGNER_4_snapshot 0x3d76e836748b523bed4986b5157be718
+2021-12-17 14:21:23.383000 INFO       CH_ALIGNER_5_snapshot 0x3d76e836748b523bed4986b5157be718
+2021-12-17 14:21:23.383000 INFO       CH_ALIGNER_6_snapshot 0x3d76e836748b523bed4986b5157be718
+2021-12-17 14:21:23.384000 INFO       CH_ALIGNER_7_snapshot 0x3d76e836748b523bed4986b5157be718
+2021-12-17 14:21:23.384000 INFO       CH_ALIGNER_8_snapshot 0x3d76e836748b523bed4986b5157be718
+2021-12-17 14:21:23.385000 INFO       CH_ALIGNER_9_snapshot 0x3d76e836748b523bed4986b5157be718
+2021-12-17 14:21:23.385000 INFO       CH_ALIGNER_10_snapshot 0x3d76e836748b523bed4986b5157be718
+2021-12-17 14:21:23.386000 INFO       CH_ALIGNER_11_snapshot 0x3d76e836748b523bed4986b5157be718
+2021-12-17 14:21:25.947000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:21:50.994000 INFO     Took 25.05 seconds
+2021-12-17 14:22:01.005000 INFO  PULSE IS COMING:
+2021-12-17 14:22:02.007000 INFO  PULSE IS COMING:
+2021-12-17 14:22:12.017000 INFO  CHECK I2C STATUS:
+2021-12-17 14:22:18.714000 INFO  RW Matches
+2021-12-17 14:22:24.094000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}, 'PLL_ALL': {'pll_read_bytes_4to3': (10, 8), 'pll_read_bytes_4to3_parallel_enable_intrB': (1, 0)}}}
+2021-12-17 14:22:24.095000 INFO     Took 12.08 seconds
+2021-12-17 14:22:24.974000 INFO       CH_ALIGNER_0_snapshot 0x54ac1be84d871d1254e6da56d5df6cc
+2021-12-17 14:22:24.975000 INFO       CH_ALIGNER_1_snapshot 0x560e1be84f879f105666f856d7ffeee
+2021-12-17 14:22:24.975000 INFO       CH_ALIGNER_2_snapshot 0x54ac1be84d871d1254e6da56d5df6cc
+2021-12-17 14:22:24.976000 INFO       CH_ALIGNER_3_snapshot 0x54ac1be84d871d1254e6da56d5df6cc
+2021-12-17 14:22:24.976000 INFO       CH_ALIGNER_4_snapshot 0x54ac1be84d871d1254e6da56d5df6cc
+2021-12-17 14:22:24.976000 INFO       CH_ALIGNER_5_snapshot 0x54ac1be84d871d1254e6da56d5df6cc
+2021-12-17 14:22:24.977000 INFO       CH_ALIGNER_6_snapshot 0x14ac19ec4d871d1054e6fa56d7fffec
+2021-12-17 14:22:24.977000 INFO       CH_ALIGNER_7_snapshot 0x54ac1be84d871d1254e6da56d5df6cc
+2021-12-17 14:22:24.978000 INFO       CH_ALIGNER_8_snapshot 0x54ac1be84d871d1254e6da56d5df6cc
+2021-12-17 14:22:24.978000 INFO       CH_ALIGNER_9_snapshot 0x54ac1be84d871d1254e6da56d5df6cc
+2021-12-17 14:22:24.979000 INFO       CH_ALIGNER_10_snapshot 0x54ac1be84d871d1254e6da56d5df6cc
+2021-12-17 14:22:24.979000 INFO       CH_ALIGNER_11_snapshot 0x54ac1be84d871d1254e6da56d5df6cc
+2021-12-17 14:22:27.541000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:22:52.565000 INFO     Took 25.02 seconds
+2021-12-17 14:23:01.575000 INFO  PULSE IS COMING:
+2021-12-17 14:23:02.577000 INFO  PULSE IS COMING:
+2021-12-17 14:23:12.587000 INFO  CHECK I2C STATUS:
+2021-12-17 14:23:19.271000 INFO  RW Matches
+2021-12-17 14:23:24.672000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 14:23:24.673000 INFO     Took 12.09 seconds
+2021-12-17 14:23:25.548000 INFO       CH_ALIGNER_0_snapshot 0xcd710a263ccd48afb53e1a845d719c25
+2021-12-17 14:23:25.549000 INFO       CH_ALIGNER_1_snapshot 0xed790a061cef68af951e1a847d799e05
+2021-12-17 14:23:25.549000 INFO       CH_ALIGNER_2_snapshot 0xcd710a263ccd48afb53e1a845d719c25
+2021-12-17 14:23:25.549000 INFO       CH_ALIGNER_3_snapshot 0xcd710a263ccd48afb53e1a845d719c25
+2021-12-17 14:23:25.550000 INFO       CH_ALIGNER_4_snapshot 0xcd710a263ccd48afb53e1a845d719c25
+2021-12-17 14:23:25.550000 INFO       CH_ALIGNER_5_snapshot 0xcd710a263ccd48afb53e1a845d719c25
+2021-12-17 14:23:25.551000 INFO       CH_ALIGNER_6_snapshot 0xed7108263ccd48afb53e1a845d719c25
+2021-12-17 14:23:25.551000 INFO       CH_ALIGNER_7_snapshot 0xcd710a263ccd48afb53e1a845d719c25
+2021-12-17 14:23:25.552000 INFO       CH_ALIGNER_8_snapshot 0xcd710a263ccd48afb53e1a845d719c25
+2021-12-17 14:23:25.552000 INFO       CH_ALIGNER_9_snapshot 0xcd710a263ccd48afb53e1a845d719c25
+2021-12-17 14:23:25.553000 INFO       CH_ALIGNER_10_snapshot 0xcd710a263ccd48afb53e1a845d719c25
+2021-12-17 14:23:25.553000 INFO       CH_ALIGNER_11_snapshot 0xcd710a263ccd48afb53e1a845d719c25
+2021-12-17 14:23:28.115000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:23:53.167000 INFO     Took 25.05 seconds
+2021-12-17 14:24:02.177000 INFO  PULSE IS COMING:
+2021-12-17 14:24:03.179000 INFO  PULSE IS COMING:
+2021-12-17 14:24:13.190000 INFO  CHECK I2C STATUS:
+2021-12-17 14:24:19.841000 INFO  RW Matches
+2021-12-17 14:24:25.218000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 14:24:25.219000 INFO     Took 12.03 seconds
+2021-12-17 14:24:26.121000 INFO       CH_ALIGNER_0_snapshot 0x55313ea684fd710f25622d4ced7aa61f
+2021-12-17 14:24:26.122000 INFO       CH_ALIGNER_1_snapshot 0x55313ea684ff710f25600d4ced7aa61f
+2021-12-17 14:24:26.122000 INFO       CH_ALIGNER_2_snapshot 0x55313ea684fd710f25622d4ced7aa61f
+2021-12-17 14:24:26.123000 INFO       CH_ALIGNER_3_snapshot 0x55313ea684fd710f25622d4ced7aa61f
+2021-12-17 14:24:26.123000 INFO       CH_ALIGNER_4_snapshot 0x55313ea684fd710f25622d4ced7aa61f
+2021-12-17 14:24:26.124000 INFO       CH_ALIGNER_5_snapshot 0x55313ea684fd710f25622d4ced7aa61f
+2021-12-17 14:24:26.124000 INFO       CH_ALIGNER_6_snapshot 0x55311ea684ff710f25622d4ced7aa61f
+2021-12-17 14:24:26.125000 INFO       CH_ALIGNER_7_snapshot 0x55313ea684fd710f25622d4ced7aa61f
+2021-12-17 14:24:26.125000 INFO       CH_ALIGNER_8_snapshot 0x55313ea684fd710f25622d4ced7aa61f
+2021-12-17 14:24:26.125000 INFO       CH_ALIGNER_9_snapshot 0x55313ea684fd710f25622d4ced7aa61f
+2021-12-17 14:24:26.126000 INFO       CH_ALIGNER_10_snapshot 0x55313ea684fd710f25622d4ced7aa61f
+2021-12-17 14:24:26.126000 INFO       CH_ALIGNER_11_snapshot 0x55313ea684fd710f25622d4ced7aa61f
+2021-12-17 14:24:28.688000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:24:53.740000 INFO     Took 25.05 seconds
+2021-12-17 14:25:03.751000 INFO  PULSE IS COMING:
+2021-12-17 14:25:04.752000 INFO  PULSE IS COMING:
+2021-12-17 14:25:14.762000 INFO  CHECK I2C STATUS:
+2021-12-17 14:25:21.421000 INFO  RW Matches
+2021-12-17 14:25:26.797000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 14:25:26.798000 INFO     Took 12.04 seconds
+2021-12-17 14:25:27.670000 INFO       CH_ALIGNER_0_snapshot 0xb5233aca9cebf4783d11096635754b3f
+2021-12-17 14:25:27.671000 INFO       CH_ALIGNER_1_snapshot 0x97019ae89ef9fe781f0981661f7feb1f
+2021-12-17 14:25:27.671000 INFO       CH_ALIGNER_2_snapshot 0xb5233aca9cebf4783d11096635754b3f
+2021-12-17 14:25:27.672000 INFO       CH_ALIGNER_3_snapshot 0xb5233aca9cebf4783d11096635754b3f
+2021-12-17 14:25:27.672000 INFO       CH_ALIGNER_4_snapshot 0xb5233aca9cebf4783d11096635754b3f
+2021-12-17 14:25:27.673000 INFO       CH_ALIGNER_5_snapshot 0xb5233aca9cebf6783d11096635774b3f
+2021-12-17 14:25:27.673000 INFO       CH_ALIGNER_6_snapshot 0x95211aca9ceffe781d11096635774b3f
+2021-12-17 14:25:27.674000 INFO       CH_ALIGNER_7_snapshot 0xb5233aca9cebf4783d11096635754b3f
+2021-12-17 14:25:27.674000 INFO       CH_ALIGNER_8_snapshot 0xb5233aca9cebf4783d11096635754b3f
+2021-12-17 14:25:27.674000 INFO       CH_ALIGNER_9_snapshot 0xb5233aca9cebf4783d11096635754b3f
+2021-12-17 14:25:27.675000 INFO       CH_ALIGNER_10_snapshot 0xb5233aca9cebf4783d11096635754b3f
+2021-12-17 14:25:27.675000 INFO       CH_ALIGNER_11_snapshot 0xb5233aca9cebf4783d11096635754b3f
+2021-12-17 14:25:30.236000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:25:55.279000 INFO     Took 25.04 seconds
+2021-12-17 14:26:04.289000 INFO  PULSE IS COMING:
+2021-12-17 14:26:05.291000 INFO  PULSE IS COMING:
+2021-12-17 14:26:15.301000 INFO  CHECK I2C STATUS:
+2021-12-17 14:26:21.989000 INFO  RW Matches
+2021-12-17 14:26:27.377000 INFO  RO Matches
+2021-12-17 14:26:27.379000 INFO     Took 12.08 seconds
+2021-12-17 14:26:28.259000 INFO       CH_ALIGNER_0_snapshot 0x7d175173e4f2852f1d6e2464dd15ad7d
+2021-12-17 14:26:28.260000 INFO       CH_ALIGNER_1_snapshot 0x7d175173e4f2852f1d6e2464dd15ad7d
+2021-12-17 14:26:28.260000 INFO       CH_ALIGNER_2_snapshot 0x7d175173e4f2852f1d6e2464dd15ad7d
+2021-12-17 14:26:28.261000 INFO       CH_ALIGNER_3_snapshot 0x7d175173e4f2852f1d6e2464dd15ad7d
+2021-12-17 14:26:28.261000 INFO       CH_ALIGNER_4_snapshot 0x7d175173e4f2852f1d6e2464dd15ad7d
+2021-12-17 14:26:28.262000 INFO       CH_ALIGNER_5_snapshot 0x7d175173e4f2852f1d6e2464dd15ad7d
+2021-12-17 14:26:28.262000 INFO       CH_ALIGNER_6_snapshot 0x7d175173e4f2852f1d6e2464dd15ad7d
+2021-12-17 14:26:28.263000 INFO       CH_ALIGNER_7_snapshot 0x7d175173e4f2852f1d6e2464dd15ad7d
+2021-12-17 14:26:28.263000 INFO       CH_ALIGNER_8_snapshot 0x7d175173e4f2852f1d6e2464dd15ad7d
+2021-12-17 14:26:28.264000 INFO       CH_ALIGNER_9_snapshot 0x7d175173e4f2852f1d6e2464dd15ad7d
+2021-12-17 14:26:28.264000 INFO       CH_ALIGNER_10_snapshot 0x7d175173e4f2852f1d6e2464dd15ad7d
+2021-12-17 14:26:28.264000 INFO       CH_ALIGNER_11_snapshot 0x7d175173e4f2852f1d6e2464dd15ad7d
+2021-12-17 14:26:30.826000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:26:55.884000 INFO     Took 25.06 seconds
+2021-12-17 14:27:04.893000 INFO  PULSE IS COMING:
+2021-12-17 14:27:05.895000 INFO  PULSE IS COMING:
+2021-12-17 14:27:15.905000 INFO  CHECK I2C STATUS:
+2021-12-17 14:27:22.597000 INFO  RW Matches
+2021-12-17 14:27:27.987000 INFO  RO Matches
+2021-12-17 14:27:27.989000 INFO     Took 12.08 seconds
+2021-12-17 14:27:28.868000 INFO       CH_ALIGNER_0_snapshot 0xff7eee066e81f787f70180e60f69e07f
+2021-12-17 14:27:28.869000 INFO       CH_ALIGNER_1_snapshot 0x7fbf76033640ab83fe90816307b4a03b
+2021-12-17 14:27:28.869000 INFO       CH_ALIGNER_2_snapshot 0xdd7eec066c815707f52102c60d694277
+2021-12-17 14:27:28.870000 INFO       CH_ALIGNER_3_snapshot 0xdd7eec066c815707f52102c60d694277
+2021-12-17 14:27:28.870000 INFO       CH_ALIGNER_4_snapshot 0xfd7eec066c817707f52102c60d696277
+2021-12-17 14:27:28.871000 INFO       CH_ALIGNER_5_snapshot 0xddffee066c815707f72102c60d694277
+2021-12-17 14:27:28.871000 INFO       CH_ALIGNER_6_snapshot 0xfffffe0226c00703ff800066047c0037
+2021-12-17 14:27:28.872000 INFO       CH_ALIGNER_7_snapshot 0xdd7eec066c815707f52102c60d694277
+2021-12-17 14:27:28.872000 INFO       CH_ALIGNER_8_snapshot 0xdd7eec066c815707f52102c60d694277
+2021-12-17 14:27:28.873000 INFO       CH_ALIGNER_9_snapshot 0xdd7eec066c815707f52102c60d694277
+2021-12-17 14:27:28.873000 INFO       CH_ALIGNER_10_snapshot 0xdd7eec066c815707f52102c60d694277
+2021-12-17 14:27:28.874000 INFO       CH_ALIGNER_11_snapshot 0xdd7eec066c815707f52102c60d694277
+2021-12-17 14:27:31.435000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:27:56.453000 INFO     Took 25.02 seconds
+2021-12-17 14:28:06.464000 INFO  PULSE IS COMING:
+2021-12-17 14:28:07.466000 INFO  PULSE IS COMING:
+2021-12-17 14:28:17.477000 INFO  CHECK I2C STATUS:
+2021-12-17 14:28:24.155000 INFO  RW Matches
+2021-12-17 14:28:29.524000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 14:28:29.525000 INFO     Took 12.05 seconds
+2021-12-17 14:28:30.404000 INFO       CH_ALIGNER_0_snapshot 0x503a009c483480bb5039a095d437c8b
+2021-12-17 14:28:30.404000 INFO       CH_ALIGNER_1_snapshot 0x503a009c483480bb5039a095d437c8b
+2021-12-17 14:28:30.405000 INFO       CH_ALIGNER_2_snapshot 0x503a009c483480bb5039a095d437c8b
+2021-12-17 14:28:30.405000 INFO       CH_ALIGNER_3_snapshot 0x503a009c483480bb5039a095d437c8b
+2021-12-17 14:28:30.406000 INFO       CH_ALIGNER_4_snapshot 0x503a009c483480bb5039a095d437c8b
+2021-12-17 14:28:30.406000 INFO       CH_ALIGNER_5_snapshot 0x503a009c483480bb5039a095d437c8b
+2021-12-17 14:28:30.407000 INFO       CH_ALIGNER_6_snapshot 0x503a009c483480bb5039a095d437c8b
+2021-12-17 14:28:30.407000 INFO       CH_ALIGNER_7_snapshot 0x503a009c483480bb5039a095d437c8b
+2021-12-17 14:28:30.407000 INFO       CH_ALIGNER_8_snapshot 0x503a009c483480bb5039a095d437c8b
+2021-12-17 14:28:30.408000 INFO       CH_ALIGNER_9_snapshot 0x503a009c483480bb5039a095d437c8b
+2021-12-17 14:28:30.408000 INFO       CH_ALIGNER_10_snapshot 0x503a009c483480bb5039a095d437c8b
+2021-12-17 14:28:30.409000 INFO       CH_ALIGNER_11_snapshot 0x503a009c483480bb5039a095d437c8b
+2021-12-17 14:28:32.970000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:28:58.034000 INFO     Took 25.06 seconds
+2021-12-17 14:29:07.044000 INFO  PULSE IS COMING:
+2021-12-17 14:29:08.046000 INFO  PULSE IS COMING:
+2021-12-17 14:29:18.057000 INFO  CHECK I2C STATUS:
+2021-12-17 14:29:24.747000 INFO  RW Matches
+2021-12-17 14:29:30.147000 INFO  RO Mismatches: {'ASIC': {'ALIGNER_ALL': {'status': (5, 4), 'status_done': (1, 0)}}}
+2021-12-17 14:29:30.149000 INFO     Took 12.09 seconds
+2021-12-17 14:29:31.028000 INFO       CH_ALIGNER_0_snapshot 0x8563114a64fbd518fd65205ec51c6849
+2021-12-17 14:29:31.028000 INFO       CH_ALIGNER_1_snapshot 0x8561114a64fbf518fd65005ee51e6849
+2021-12-17 14:29:31.029000 INFO       CH_ALIGNER_2_snapshot 0x8563114a64fbd518fd65205ec51c6849
+2021-12-17 14:29:31.029000 INFO       CH_ALIGNER_3_snapshot 0x8563114a64fbd518fd65205ec51c6849
+2021-12-17 14:29:31.030000 INFO       CH_ALIGNER_4_snapshot 0x8563114a64fbd518fd65205ec51c6849
+2021-12-17 14:29:31.030000 INFO       CH_ALIGNER_5_snapshot 0x8563114a64fbd518fd65205ec51c6849
+2021-12-17 14:29:31.031000 INFO       CH_ALIGNER_6_snapshot 0x8563114a64fbf518fd65205ee51c6849
+2021-12-17 14:29:31.031000 INFO       CH_ALIGNER_7_snapshot 0x8563114a64fbd518fd65205ec51c6849
+2021-12-17 14:29:31.032000 INFO       CH_ALIGNER_8_snapshot 0x8563114a64fbd518fd65205ec51c6849
+2021-12-17 14:29:31.032000 INFO       CH_ALIGNER_9_snapshot 0x8563114a64fbd518fd65205ec51c6849
+2021-12-17 14:29:31.033000 INFO       CH_ALIGNER_10_snapshot 0x8563114a64fbd518fd65205ec51c6849
+2021-12-17 14:29:31.033000 INFO       CH_ALIGNER_11_snapshot 0x8563114a64fbd518fd65205ec51c6849
+2021-12-17 14:29:33.595000 INFO  WRITE I2C DEFAULTS:
+2021-12-17 14:29:58.646000 INFO     Took 25.05 seconds
